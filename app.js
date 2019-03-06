@@ -33,7 +33,15 @@ app.get('/index', function (req, res) {
   res.header('Access-Control-Allow-Methods', 'PUT, GET, POST, DELETE, OPTIONS');
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
   res.header('Access-Control-Allow-Headers', 'Content-Type');
-  
+  superagent.get(baseurl).end((err, res) => {
+    if(err){
+      console.log('抓取网站信息错误')
+    }else{
+      console.log(res)
+      let $ = cheerio.load(res.text)
+    }
+
+  })
 
 })
 // catch 404 and forward to error handler
