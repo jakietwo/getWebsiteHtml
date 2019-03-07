@@ -7,7 +7,8 @@ var logger = require('morgan');
 var superagent = require('superagent')
 var charset = require('superagent-charset')
 charset(superagent)
-var baseurl = 'https://www.csis.org/search?search_api_views_fulltext=china&sort_by=search_api_relevance'
+var baseurl = 'https://www.csis.org'
+var firstUrl = 'https://www.csis.org/search?search_api_views_fulltext=china&sort_by=search_api_relevance'
 const cheerio = require('cheerio')
 
 var indexRouter = require('./routes/index');
@@ -33,12 +34,24 @@ app.get('/index', function (req, res) {
   res.header('Access-Control-Allow-Methods', 'PUT, GET, POST, DELETE, OPTIONS');
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
   res.header('Access-Control-Allow-Headers', 'Content-Type');
-  superagent.get(baseurl).end((err, res) => {
+  superagent.get(firstUrl).end((err, res) => {
     if(err){
       console.log('抓取网站信息错误')
     }else{
-      console.log(res)
+      
       let $ = cheerio.load(res.text)
+
+      let urlArr = $('.view--search-results ').find('.teaser')
+      // .find('.teaser__title ').children('a').attr('href')
+      // $(urlArr[2]).find('.teaser__title ').children('a').attr('href')
+      for(let i =0,j = urlArr.length; i<j;i++){
+        let url = $(urlArr[i]).find('.teaser__title ').children('a').attr('href')
+        // 拼接url
+        let newurl = baseurl + '' + url
+        // 对每一个文章页面链接进行访问 保存文章数据
+
+      }
+   
     }
 
   })
