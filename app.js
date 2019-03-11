@@ -35,12 +35,11 @@ app.get('/index', function (req, res) {
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
   res.header('Access-Control-Allow-Headers', 'Content-Type');
   superagent.get(firstUrl).end((err, res) => {
+    console.log('没错')
     if(err){
       console.log('抓取网站信息错误')
     }else{
-      
       let $ = cheerio.load(res.text)
-
       let urlArr = $('.view--search-results ').find('.teaser')
       // .find('.teaser__title ').children('a').attr('href')
       // $(urlArr[2]).find('.teaser__title ').children('a').attr('href')
@@ -49,7 +48,18 @@ app.get('/index', function (req, res) {
         // 拼接url
         let newurl = baseurl + '' + url
         // 对每一个文章页面链接进行访问 保存文章数据
-
+        console.log(newurl + ' ')
+        superagent.get(newurl).end((err1,res1)=>{
+          console.log('第二级')
+          if(err1){
+            console.log('第二级报错了')
+          } else {
+            let $$ = cheerio.load(res1)
+            // todo 解析完数据 处理数据
+            let articleWrapper = $('.layout-detail-page__main').children('article') 
+            console.log('第一个article', articleWrapper)
+          }
+        })
       }
    
     }
