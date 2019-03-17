@@ -1,0 +1,163 @@
+
+        Shield of the Pacific: Japan as a Giant Aegis Destroyer
+CSIS BriefsMay 23, 2018Download the Brief
+
+
+The Issue:
+
+
+	Japan’s acquisition of two Aegis Ashore sites will be a significant step to boost air and missile defense capabilities for the region, but their potential has not yet been widely understood.
+	Japan’s sites should probably not be mere copies of those in Romania and Poland.
+	Possible enhancements fall into four categories: more missions, better radars, new operational concepts, and the addition of long-range counterattack capabilities.
+	More robust Aegis Ashore installations with layered and integrated air and missile defense capabilities have potential application elsewhere in the globe, including for NATO and the United States.
+
+
+
+
+
+
+
+
+
+
+Several decades ago, former Japanese Prime Minister Yasuhiro Nakasone once  described his country as a “big aircraft carrier” from which to defend against Soviet aircraft.1 Although such an analogy fails to capture the richness and depth of the U.S-Japan alliance, it did say something important about Japan’s unique geographic and strategic position.
+
+Today’s air and missile threats in the Asia-Pacific region are different, as is the joint U.S.-Japanese defense posture to meet them. Given a handful of changes underway, however, one might instead say that Japan is shaping up to be a giant Aegis destroyer group of sorts.
+
+A vision of much more robust air and missile defense capability in the Asia-Pacific region hinges upon the forthcoming acquisition of Aegis Ashore sites in Japan. Japan’s intent to acquire two such sites was announced in December 2017, a decision supported by 66 percent of the Japanese population, according to one recent  poll.2
+
+But the potential significance of Japanese Aegis Ashore deployments has not yet been widely understood. Combined with military forces in other domains, these sites will be the foundation of more robust air and missile defenses against North Korea and form a base upon which to adapt to more sophisticated future threats, including China. Assuming the approval process for the foreign military sales comes along well, this development has broad implications for the United States and America’s allies.3
+
+The road to more layered missile defense goes in part through Aegis Ashore, and the road to innovative Aegis Ashore deployments probably goes through Tokyo.
+
+The U.S. Navy’s Aegis Combat System has evolved considerably since the first Aegis ship deployed in 1984. Some 90 Aegis ships are currently operated by the United States, and five other countries have Aegis ships as well: Australia, Norway, South Korea, Spain, and Japan. The word “Aegis” refers to the shield of the ancient god Zeus, and Aegis ships have long provided fleet air defense, strike, and antisubmarine warfare. Over the past decade, 35 American and 4 Japanese Aegis ships have also acquired a ballistic missile defense mission. The most recent configurations are capable of executing the integrated air and missile defense (IAMD) mission, with simultaneous air defense and ballistic missile defense operations.
+
+
+
+JDS Atago (DDG-177) is an Aegis guided missile destroyer in the process of acquiring BMD capability.Source: N. Brett Morton, U.S. Navy
+
+ 
+
+
+
+JDS Kirishima (DDG-174) is the second of four Kongō-class guided missile destroyers with BMD capability.Source: Chantell Bianchi, Royal Australian Navy
+
+ 
+ 
+
+
+ 
+
+The key to Aegis is not any particular missile or radar, but rather its brain, a combat system built for flexibility. Its command and control functions include tasking sensors, setting sensor modes, track management, threat evaluation, classification, and discrimination. The system furthermore executes engagement calculations and sets priorities for those engagements, then initializes fire control and launch control. Once weapons are in the air, Aegis provides command guidance, conducts kill assessment, and calculates reengagement.
+
+Navy designers created the Aegis Combat System with a variety of characteristics that have of late become Pentagon buzzwords. Besides packing multi-mission effectors into a small space, Aegis was modular before modularity became cool in defense acquisition circles, not to mention featuring offense-defense integration, an evolutionary “baseline” modernization process, and a focus on the full spectrum of air and missile threats.
+
+Prospects for taking Aegis ashore had been discussed in the mid-2000s, and the Obama administration later made it the centerpiece of its European Phased Adaptive Approach, first announced in late 2009 and later endorsed by NATO.
+
+Aegis Ashore represents the combat system without the hull. It includes the command and control brains, radars, and Mark 41 Vertical Launching System. It even looks like its sisters afloat: with a few modifications, the same deckhouse that would go on a ship is instead put onto a concrete pad, with the missile launchers spread out nearby.
+
+Without the complexity of putting to sea, however, Aegis Ashore is considerably less expensive to equip and operate than its maritime equivalent. No longer bound by the size and weight restrictions of a given ship, additional support structures can also be added, as well as the potential for scaling up its sensors and armament loadouts, and other means to improve survivability and resilience.
+
+Today’s Aegis Ashore site in Romania and another forthcoming site in Poland represent the central component of defending European NATO members against ballistic missiles from especially the Middle East. NATO’s sites are today limited to the older SPY-1 radar, only 24 launch tubes each, and interceptors devoted strictly to exo-atmospheric ballistic missile defense. NATO’s territorial defense also includes Aegis ships afloat in the nearby waters, as well as by a TPY-2 radar in Turkey. The quality of these tracks and cooperative engagement permits interceptors in Romania or Poland to launch even before their co-located radars detect the threat missile.
+
+Japan’s sites would be the third and fourth in the world. But there is no reason why Japan’s Aegis Ashore sites need be mere copies of those in Romania and Poland. Indeed, they should probably not be.
+
+Areas of possible enhancement fall into four categories: more missions, better radars, new operational concepts, and the addition of long-range counterattack capabilities.
+
+Missions
+
+The most important potential difference between past and future Aegis Ashore sites concerns the breadth of mission. As affirmed by theNational Security Strategy and the National Defense Strategy, the current era is defined not by counterterrorism and rogue state threats but by competition among the great powers, which means in particular the challenging threat set posed by China and Russia.
+
+NATO’s European Aegis sites have thus far been strictly limited to the ballistic missile defense mission, but missile threats continue to grow more complex and diverse, to include a range of air breathing and maneuvering boost-glide vehicles. Deploying a flexible combat system permits future adaptability. Japan may, for instance, decide that it does not wish to remain quite so vulnerable to the thousands of cruise missiles, aircraft, and ballistic missiles operated today by China.
+
+The U.S.-Japanese cooperation on the future Standard Missile-3 Block IIA missile represents an important partnership with global implications, and that ballistic missile defense interceptor may be deployed in Europe as well as on Japanese and American ships. U.S.-Japan cooperation on interceptor cooperation could well continue even after the SM-3 IIA is fielded. But given the modularity and flexibility of Aegis and its Mk 41 launchers, they need not be limited to ballistic missile defense interceptors.
+
+
+
+ 
+
+On the contrary, future Aegis Ashore installations could have more diversified loadouts, including various air defense interceptors currently on many Aegis destroyers and cruisers. Aegis ships also have other electronic warfare capabilities and decoys, as were apparently used in October 2016 to help defeat an antiship cruise missile attack on the USS Mason sailing off the coast of Yemen. Unless positively restricted by policy, as has been the case in Europe, a similar diversity of missions and capabilities could follow the Aegis Combat System nearly anywhere it goes.
+
+Avenues for strengthening the alliance and knitting together regional and U.S. homeland missile defense include reconsideration of a larger, forward-based ICBM-class interceptor, similar to the SM-3 IIB formerly studied by the Obama administration. Although it had previously been planned for Poland to defend against an Iranian ICBM, a Pacific-based equivalent might also be possible.
+
+Radars
+
+A second area of potential improvement concerns the radar. Aegis ships and current Aegis Ashore sites employ a four-faced, 12-foot SPY-1 radar developed in the 1970s and deployed since the 1980s. But whereas the weight of radars afloat are limited by a ship’s need to avoid capsizing and the availability of power generated onboard, those on land need not be so limited.
+
+Several more advanced options are possible that are more capable, more efficient, and scalable. The Japanese are said to be considering alternatives to the SPY-1, including the SPY-6 radar intended for future U.S. destroyers and a version of the Long-Range Discrimination Radar (LRDR) now being built in Alaska. Whatever solution is chosen by Japan, critical characteristics include interoperability, the ability to share a common air picture among assets on land and sea, and an ability to detect, track, and discriminate targets at greater range. The command and control functions of Aegis will also be adapted to the major sensor upgrade to provide the most advanced capability to date.
+
+More powerful Japanese Aegis Ashore radars could also potentially serve an additional purpose as forward-based tracking of missiles threatening the U.S. homeland, thereby mitigating the need for the United States to build and operate costly  Pacific radars  strictly for U.S. homeland defense.4 Besides further cementing the U.S.-Japan alliance, shared radar tracks could create significant savings of perhaps a billion dollars. Such resources could be better directed to a  space-based sensor layer  to support persistent, birth-to-death tracking and discrimination for a variety of missile threats, a capability that could benefit all families of missile defense interceptors for both the United States and its allies.5
+
+Operations 
+
+New operational concepts represent a third potential growth area. Integrating Aegis Ashore sites with Japan’s existing Aegis fleet will permit innovative and imaginative ways to knit them together, among themselves and other elements, including the F-35 and Patriot. Robust networking between Aegis Ashore and Afloat platforms could permit new methods of cooperative engagement, whereby one platform could fire at a missile on the basis of a radar from another—known as launching or engaging on remote. Today’s Aegis fleets are already acquiring the means to launch and engage missile threats on the basis of remote tracks from other ships, known as launch on remote and engage on remote. Japan’s Aegis Ashore sites could leverage both their own and allied Aegis missile tracks, thereby being able to launch sooner a longer-range SM-3 IIA missile from an Ashore site, on the basis of forward tracks Afloat. Conversely, ships might engage targets on the basis of reflected radar tracks from ashore without turning on their own radars, thereby helping the ships’ locations to remain more hidden.
+
+
+
+
+
+
+
+Improved and hardened network communications could also permit Aegis components to be distributed in entirely new ways. Although a ship must cram all its hardware into the narrow space between port and starboard, much more flexibility and capacity is possible on land. Imaginative forms of cooperative engagement also become possible. The command and control structure could, for instance, be modified to permit Aegis operators in redundant, underground command and control facilities to have access to numerous launchers and radars distributed across Japan and even the region. Allowing any given launcher to be fired from more than one command site would complicate adversary targeting and boost survivability. Land-based launch tubes could even be placed near the sea and even contain antisubmarine torpedoes, remotely controlled by commanders in response to undersea sonar detection.
+
+Mixing Active Defense with Counterattack 
+
+Finally, a combined afloat-and-ashore Aegis battle group need not be limited to playing catch. Besides air and missile defense interceptors, land-based launch tubes might hold other means for counterattack, including antiship missiles and long-range cruise missiles like the Tomahawk.
+
+The latter could support the mission of defeating a North Korean missile on the ground, before it was launched, which Prime Minister Abe has  categorized  as a defensive act if there were no alternative, thereby complying with Japan’s constitution.6 Such forward-leaning defensive capabilities could well complement the acquisition of the F-35B aircraft and the medium-range air-launched Joint Air-to-Surface Standoff Missile-Extended Range (JASSM-ER) missile. Integrating aircraft, ships, and tactical sites is a central feature of the Japan Aerospace Defense Ground Environment (JADGE), in addition to the U.S. Command and Control, Battle Management, and Communications (C2BMC) program.
+
+Although Japan’s Aegis Ashore deployment would be quite separate from any decision about such capabilities, the modularity of the Aegis Combat System itself provides a hedge to permit such flexibility in the future. While not endorsing the idea, Japan’s Liberal Democratic Party has a white paper in circulation that identifies longer-range cruise missiles as an important area of study. Zeus had his shield, but he also had his thunderbolts. Although modest in comparison to the strike capabilities already possessed by North Korea and China, Japan’s acquisition of longer-range counterattack forces would represent an important enhancement to the allied defense posture.
+
+
+
+The Arleigh Burke-class guided-missile destroyer USS Barry (DDG-52) launches a Tomahawk cruise missile.Source: Jonathan Sunderman, U.S. Navy
+
+
+
+Shaping the Future of Integrated Air and Missile Defense 
+
+Japan’s Aegis Ashore effort represents a critical development in the history of global air and missile defense efforts. The creation of a multi-domain battle group of sorts, integrating Aegis Combat System platforms both afloat and ashore, could serve as a model for numerous other places around the world.
+
+The effectiveness of the Japanese Aegis Ashore effort will hinge, however, on the speed by which it is implemented and whether or not it moves beyond the technology and limited missions of the Aegis Ashore sites in Europe. In a strategic environment defined by great-power competition, it also represents a test case of how the Pentagon lives up to its goal of building partner capacity at the speed of relevance, to include both cooperative development and foreign military sales.
+
+The potential beneficiaries of substantially evolved Aegis Ashore capabilities are not limited to Japan and NATO. Other Aegis operators like Australia, for instance, might also consider land-based Aegis to protect their population. The U.S. homeland is currently protected from long-range ballistic missile attack by the Ground-based Midcourse Defense System (GMD). Aegis Ashore sites could be used, however, to protect critical areas, with Hawaii, Guam, the East Coast, and other strategic ports or bases against not just ballistic missiles but rather the spectrum of air and missile threats. In the face of continued Russian provocations, NATO might also consider activating the multi-mission potential of its Aegis Ashore sites to more fully support integrated air and missile defense.7 Regardless of the user, the persistent quality of land-based capability can free up afloat assets to execute other maneuver force missions.
+
+In a strategic environment defined by great power competition, the cooperative relationship with Japan remains as important a partnership as any for the United States. In conjunction with numerous other steps by the two defense establishments, a forward-leaning and innovative effort on Japan’s Aegis Ashore sites would strengthen this cooperation still further.
+
+Thomas Karako is a senior fellow in the International Security Program and the director of the Missile Defense Project at the Center for Strategic and International Studies. 
+
+CSIS Briefs  are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s). 
+
+© 2018 by the Center for Strategic and International Studies. All rights reserved. 
+
+
+
+
+[1] Don Oberdorfer, “How to Make a Japanese Brouhaha,” Washington Post, March 20, 1983, https://www.washingtonpost.com/archive/opinions/1983/03/20/how-to-make-a-japanese-brouhaha/0e508dd9-105b-4673-98aa-1e63fe8eae08/?utm_term=.4c78139e2b61.
+
+
+
+[2] “Constitutional opinion poll - Question and answer,” Asahi Shimbun, May 2, 2018, https://www.asahi.com/articles/ASL523RRDL52UZPS001.html?iref=pc_ss_date.
+
+
+
+[3] Sydney Freedberg, “Aegis Ashore: Navy Needs Relief from Land,” Breaking Defense, July 2, 2015, https://breakingdefense.com/2015/07/aegis-ashore-navy-needs-relief-from-land/.
+
+
+
+[4] Thomas Karako and Wes Rumbaugh, “Trump’s 2019 Missile Defense Budget: Choosing Capacity over Capability,” Center for Strategic and International Studies, February 28, 2018, https://www.csis.org/analysis/trumps-2019-missile-defense-budget-choosing-capacity-over-capability.
+
+
+
+[5] Thomas Karako, “A space sensor layer for missile defense,” Space News, August 17, 2016, http://spacenews.com/commentary-a-space-sensor-layer-for-missile-defense/.
+
+
+
+[6] “Japan weighs acquiring cruise missiles amid ongoing North Korean provocations,” Japan Times, May 6, 2017, https://www.japantimes.co.jp/news/2017/05/06/national/politics-diplomacy/pacifist-japan-might-acquire-cruise-missiles-strike-north-korea-source/.
+
+
+
+[7] Thomas Karako, “Looking East: European Air and Missile Defense after Warsaw,” Center for Strategic and International Studies, July 14, 2016, https://www.csis.org/analysis/looking-east-european-air-and-missile-defense-after-warsaw.
+
+
+      

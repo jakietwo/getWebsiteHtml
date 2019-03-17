@@ -1,0 +1,147 @@
+
+        Must the Energy Transition Be Slow? Not Necessarily
+CSIS BriefsSeptember 14, 2018Download the Brief
+
+ 
+
+ 
+
+The Issue
+
+
+	The world needs to shift its energy system to meet its climate targets. The growth in energy demand must slow, and the carbon emitted from that energy must decline.
+	Past global energy transitions have taken a long time—so we might conclude that the challenge we face is historically unprecedented and will require historically unprecedented action.  This is partly right, but we tend to think of energy systems as far more static and stable than they truly are.
+	Many countries that have managed to grow without consuming more energy have reduced their consumption of specific energy sources  and have changed their energy mix in a decade or two.
+	There is no reason to think that energy is immune from the disruptive forces that have transformed so many industries.  History shows us that when change comes, it can be swift and dramatic.
+
+
+
+
+
+Introduction
+
+In the next 25 years, the world needs to change its energy system and sharply reduce its carbon footprint in order to address global climate change. To do this, energy demand growth must slow down on a global basis (and decline in some regions), and our fuel mix must change. According to the International Energy Agency (IEA) scenario, which aims to meet internationally agreed upon climate targets, global energy demand would grow by just 0.1 percent annually from 2016 to 2040, far less than the 2 percent it grew from 2000 to 2016, and energy use in the developed world must fall by 0.9 percent a year.1 On the fuel mix side, oil, coal, and gas would account for less than 61 percent of primary energy in 2040 versus 81 percent in 2016 (and 81 percent in 1986). Coal use should halve, oil should fall by a quarter, and gas should grow only slightly. This is what it takes to cut energy-related CO 2 emissions by 43 percent through 2040. It is easy to look at history and conclude that such change is impossible, or that something dramatic or unprecedented should happen to bring it about. That is not necessarily true.
+
+The world has obviously never accomplished such a transition before on a global scale. But the world has also never had to change its energy system in that direction, and it is only recently that some of the enabling technology has matured enough to make such change possible. The global record is arguably not the right unit of analysis anyway. Yes, this is a global challenge, and the solution must be global. But no one runs the world, and no politician would think about policy this way. If a health minister wanted to vaccinate everyone in her country, she would not examine global trends on vaccination. Instead, she would ask: is there a similar country that accomplished this task; how did they do it; how fast; and what can we learn from them?
+
+When framed in this way, the record is clear: yes, some countries have grown without consuming more energy or even while consuming less; yes, there are countries that have shifted their energy system quickly; and yes, countries have curtailed their fossil fuel use within two decades. Dramatic changes in the energy system are not the norm—the default state is either stasis or slow change. But when change happens—driven by a sharp competitive edge or a strong policy push—it can be swift, dramatic, and, oftentimes, enduring. History shows that if we want to meet our energy challenge, all we need to do is replicate at scale what several countries have achieved previously on their own.
+
+Growth without Energy
+
+Energy consumption is connected to income, but the link is loose and variable over time; many countries reach a point where they can reduce energy use and continue to grow economically. There is a clear link between per capita energy demand and per capita gross domestic product (GDP) as can be seen in the scatterplot: there are no developing countries that use a lot of energy per capita, and there are no developed countries that consume as little energy as the developing ones. But beyond that, the relationship is hard to define. Countries with similar incomes often consume two, three, four, or five times more energy between them (note the scale is logarithmic). It is similarly common for countries with vastly different incomes to use the same amount of energy. GDP matters, in other words, but so does climate, economic structure, whether energy is taxed or subsidized, technology, policy, and so on.
+
+
+
+
+Energy consumption is connected to income, but the link is loose and variable over time.
+
+
+There is also no set trajectory over time for how energy use and incomes evolve. Arguably, there are six archetypes. The first, exemplified by Egypt in the chart below, shows energy use and GDP in a nearly one-to-one relationship. The second, shown here through Australia, shows an eventual delink between energy use and GDP. The third, typified by the United Kingdom, shows no relationship at all: since 1971, GDP has risen by 2.6 times, but energy use has fallen. The fourth, seen through Iran, shows energy use growing faster than GDP, reflecting policies that keep energy prices low in an effort to create growth. The fifth, with Russia as a case study and typical in the former communist countries, shows GDP having sharper swings in GDP than energy use: relative to 1998, GDP has doubled, but energy use has increased by just 20 percent. And finally, there are countries where energy use and GDP follow different growth rates. China’s GDP has increased 10-fold since 1990, but its energy use has only increased by 3.4 times. India looks similar, as do other economies in Asia (e.g., Indonesia, Bangladesh, the Philippines, Sri Lanka, etc.).
+
+
+
+In short, there is no reason to take a deterministic view that rising living standards should mean more energy use in a way that is knowable and fixed. Clearly, as countries develop, they will consume more energy, but there is a lot of variation between countries and over time. These differences may seem trivial, but the delta between one trajectory and another could mean the difference between meeting our climate targets and not. These are big variations, and they matter, especially since policy can nudge countries towards one trajectory versus another.
+
+There is similarly no reason to think that reducing energy use is something magical or unattainable, especially given how wasteful energy use is around the world. Despite continuously rising incomes, energy use has peaked in many countries. Using a data series that includes 79 countries, energy consumption peaked before 2007 in 29 countries, accounting for 37 percent of global demand in 2017. If we add countries where demand peaked after 2007, the sample covers almost half of global energy use, although it is hard to know whether that recent decline was cyclical or structural.2
+
+
+Despite continuously rising incomes, energy use has peaked in many countries.
+
+
+These declines are big and rapid, showing that we can lower energy use without sacrificing living standards. Consider the top 30 countries sorted by their percentage decline in energy use, showed in the accompanying chart. The decline in energy consumption relative to the peak was significant—ranging from almost 70 percent in Ukraine to 11 percent in Germany. The steepest declines have occurred in former communist countries, courtesy of an economic contraction that produced a sharp decline in energy consumption in the 1990s, and then by efficiency gains, as energy prices rose and the old capital stock was replaced by new vehicles, machines, and appliances that consumed less energy.
+
+
+
+Besides these countries, several others make the list. In some, like Greece and Venezuela, the decline in energy use mirrors the decline in GDP, so these are not case studies to emulate or learn from (at least not with respect to energy use). In other countries, the decline in energy has overlapped with meager growth, although the magnitudes are different: in Italy, energy use is down 17 percent against a 2 percent decline in GDP; in Spain, energy is down 12 percent, while GDP is up 3 percent; in Japan, GDP has risen 8.5 percent while energy use has fallen by 14 percent. So a weak economy played a role but only partly. Of the rest, the country that stands out is the United Kingdom.
+
+Between 2001 and 2017, the United Kingdom reduced its energy use by 20 percent (these numbers come from national sources and differ slightly from the data above), to a point at which energy use was at its lowest since the early 1960s.3 During that same timeframe, GDP grew by 31 percent and population by 11 percent (plus 6.8 million people). This significant drop in energy demand happened even with a growing economy and a larger population. It also occurred quickly—in 16 years. This is precisely the kind of drop that the IEA envisions for developed countries (the IEA scenario shows a 20 percent decline in 24 years).
+
+Almost half of the decline in energy use came from industry, whose consumption fell by 35 percent between 2001 and 2017. Industrial production fell by 8 percent in that time, so that partly explains the drop in energy use. But mostly, it was efficiency: industry used 26 percent less energy per unit of output, and in some industries, the declines were even greater (in the chemicals sector, energy intensity fell by 50 percent in that same timeframe).
+
+In the residential sector, where demand fell by 22 percent, the decline was spurred on by three trends: more efficient fridges; the spread of halogen and energy-saving light bulbs; and more efficient boilers and greater home insulation, which reduced demand for heating. In the services sector, there was a similar move with reduced energy use in public administration, commercial services, and agriculture. The gains in transportation were modest and mostly due to increased energy efficiency in road transport (energy used per passenger-kilometer).
+
+These changes were not random, of course; they were driven by policy, prices and business decisions. There is no space to delve into all the interventions implemented or rate their importance or effectiveness. The point, instead, is to underscore that when changes took place, they were rapid and dramatic. The United Kingdom reduced, in 16 years, its energy consumption by as much as the IEA says developed countries must do over 24 years.
+
+Most of the countries that have achieved a sizeable decline in energy demand are the former communist states, and that success is largely the legacy of inefficient energy use previously. But there are big economies, Japan and many European states, where energy demand has fallen in ways that are largely attributable to efficiency rather than a declining GDP. There is also a shift to gas and renewable energy, which contributes to lower energy use since there are fewer losses in power generation.4 So while there is no guarantee that countries will reduce energy consumption at the pace required to deal with climate change, looking at the United Kingdom should offer some optimism: big gains in energy efficiency are possible over a short time and at a time when both the economy and population expand, and these changes can be amplified by a changing energy system that relies more on renewable energy.
+
+
+Big gains in energy efficiency are possible over a short time and at a time when both the economy and population expand.
+
+
+Switching Fuels
+
+The second challenge is to shift towards energy that emits less or no carbon. The IEA suggests the market share of fossil fuels should shrink from 81 percent to 61 percent by 2040, but since gas grows slightly, coal and oil need to fall by 23 points over 24 years. A share of this fossil fuel consumption must include carbon capture and storage (CCS); so without CCS, the cuts need to be deeper. More importantly, this transition needs to be absolute—in the past, the market share of dominant fuels has declined because other fuels grew faster. Today, we need to achieve an absolute decline in coal and oil use, not just a relative one.
+
+On the question of changes in fuel mix in the energy sector, no one has shaped our thinking more than Vaclav Smil, whose Energy Transitions noted that: “All of the past shifts to new sources of primary energy have been gradual, prolonged affairs, with new sources taking decades from the beginning of production to become more than insignificant contributors, and then another two to three decades before capturing a quarter or a third of their respective energy markets.”5 But Smil acknowledges that the record on a country scale is different, even though few analysts ever quote that part of his analysis. Here is Smil again, on country-level change:
+
+to say that . . . anything is possible would be an impermissible exaggeration, but the record displays a remarkable scope of developments, ranging from the centuries-old dominance of English coal to an almost instant demise of Dutch coal mining, from a highly idiosyncratic and swiftly changing evolution of Japan's energy use to the US orderly sequence of fuels during the first half of the twentieth century followed by a surprising post-1960 near-stasis of the primary energy make-up.6
+
+The data strongly support this thesis: a country’s fuel mix is stable until it is not. If we define a transition loosely—as a 10-percentage point reduction in a fuel’s marker share over 10 years or so—we have dozens country-level examples in the past 50 years. If we define an energy transition more narrowly, as a roughly 10-percentage point drop in market share coupled with a double-digit decline in fuel consumption, we have fewer examples but still enough (shown in the accompanying table). This is not the norm, of course; but doable.
+
+The most significant shift that has taken place over the past 50 years was the switch from coal to oil after World War II—oil overtook coal as the world’s most used fuel in the early 1960s. The transition was speedy, dramatic, and widespread, covering not only industry but also power, households, and transport. Relative to 1965, coal consumption fell by 32 percent in France, 19 percent in Germany, 67 percent in the Netherlands,7 and 37 percent in the United Kingdom—all within a decade or so.8 Outside Europe, Taiwan experienced a similar decline: 32 percent in 11 years. This switching was actually slowed down by policy to protect coal, either by taxing oil or by other mandates to support coal use.9
+
+Coal has experienced rapid declines at other times too (see “Coal displaced outside the 1960s” in the table). In the former communist world, Russian coal use fell by 54 percent through 2007, in Poland by 35 percent (ongoing decline), and in Germany by 36 percent to 1995 (largely due to East Germany). More recently, coal has lost to gas and renewables. In Australia, coal fell 19 percent over 13 years, and in Spain, it declined by 68 percent over eight years. The United Kingdom has faced two coal transitions: from 1987 to 1999 as gas became the preferred fuel for new power generation, and coal use declined by 51 percent; and from 2012 to 2017, coal declined by 77 percent as renewables and gas stepped in to replace it (aided by a decision to place a firm floor on carbon prices). In the United States, coal use fell 39 percent from 2005 to 2017 as gas and renewables grew.
+
+Besides coal, we have seen countries lessen their reliance on oil many times. Several countries switched way from oil during the oil price shocks in the 1970s: Canada, France, Germany, Italy, Japan, Spain, and Taiwan (see “Oil displaced in the 1970s” in the table). The transition from peak to trough lasted around a decade, but it was as short as six years in Canada and Taiwan and seven years in Japan. On average, oil use fell by 19 percent. Canada mostly turned to hydro, with smaller gains for coal, gas and nuclear. France turned mostly to nuclear with smaller inroads for gas. Every other country relied on a mix: Germany mostly nuclear and gas; Italy gas and, less so, coal; Japan evenly split between coal, gas and nuclear; Spain mostly nuclear and, less so, coal and gas; and Taiwan mostly nuclear and coal.
+
+Other instances where oil has declined are harder to group (see “Oil displaced outside the 1970s” in the table). In Egypt, oil use fell when the Aswan Dam came online, but it started to grow again in the mid-1970s. Argentina’s reliance on oil fell sharply, from 83 percent of primary energy to 32 percent over 39 years, with an 11 percent drop in oil use. This is partly a switch towards gas coupled with a momentary drop in oil demand due to a crisis. Russia and Ukraine experienced sharp declines in oil use after the mid-1980s, although Russia’s decline continued through 2004. And there are three countries with a significant decline in oil use in recent years: Italy (39 percent), Japan (32 percent) and Spain (14 percent)—a combination of a maturing energy market, fuel switching (outside transport), efficiency gains in transportation, and slow economic growth.
+
+
+
+Lessons from Energy Transitions
+
+What broad lessons can we derive from these transitions? First, most of this history is about coal being replaced by oil, and then oil being replaced by coal, gas, and nuclear. Occasionally, hydro or renewables made a contribution. But we have few examples of fossil fuels being replaced by renewables alone. This is important in thinking about the carbon intensity of energy consumption—in 2016, the world emitted 2.3 metric ton of CO2 for each ton of oil equivalent (toe) of energy consumed. By 2040, according to the IEA’s Sustainable Development Scenario, the carbon intensity of global energy use should fall to 1.3 tons of CO2 per toe. Are there examples where countries have accomplished such change?
+
+The short answer is yes but usually over a long time frame. The carbon intensity of France’s energy use declined by over 1 ton per toe from 1971 to 1986, by far the most notable change. South Korea achieved that milestone in just over 20 years. The United Kingdom did it as well, but it took 30 years (from 1965 to 1995), roughly similar to Germany’s experience (including former East Germany). Many other countries have lowered the carbon intensity of their energy use by ~0.75 ton per toe over 20 years or so. In other words, our examples do not show a shift in carbon intensity of the scale needed going forward, which is probably not surprising since the only options so far for doing so have been hydroelectric or nuclear power with renewables not being competitive so far as an option to displace fossil fuels.
+
+Second, most of these transitions took place in stationary uses—electricity, industry, and buildings. It is obviously easier to build a few large power plants or to connect some big users to a new energy source using proven technology than it is to shift to a completely new paradigm. Even so, change is possible in transportation as well. In Brazil, biofuels captured a 20 percent market share in transportation in fewer than 15 years; in Iran, gas went from 2 to 15 percent of the transportation energy market in six years; in Argentina, it went from 2 to 25 percent in 15 years; in Thailand, from 1 to 11 percent in seven years.10
+
+Nor should we understate the effort it takes to switch the fuel mix in stationary sectors. Getting gas to homes requires extensive infrastructure. In Canada, gas gained 15 points in market share in the residential sector in a 10-year period (1975 to 1985). The growth in Italy was more dramatic: gas was 10 percent of residential energy in 1972, 32 percent in 1982, and 53 percent in 2002. And none of this compares to the United Kingdom: gas was 1 percent of residential energy use in 1969 but 50 percent 10 years later.11 All this to say that change does not only happen in stationary uses with big consumers.
+
+Third, there was a mix of drivers for these energy transitions. Sometimes, price was a dominant driver, as in the coal to oil switching in the 1960s. Other times, it was energy security, as in the oil switching in the 1970s. In other cases, it was a mix of new technology, policies, and prices. Either way, the change has been dramatic in all cases, whether there was a central push towards a different energy source or whether market realities made it inevitable.
+
+The Only Constant Is Change
+
+Let us return to the original question: do we have evidence of countries being able to accomplish change in the scale and time frame needed to meet our climate goals? Take a global view, and the answer is unequivocal: no. This thinking shapes forecasts that predict only slight modifications from “business as usual.” It leads companies to take long-term bets and be secure in their belief that change is slow to come and that 20- or 30-year investment horizons will not be interrupted by dramatic change. More importantly, it feeds some pessimism and defeatism among policymakers who want change.
+
+The country-level record shows a different picture, however. Change is not only possible but occurs regularly and can be both speedy and dramatic. There is no reason to think that energy is immune from the rules of disruption that affect other sectors in the economy. Of course, speedy transitions are not a natural state—the natural state is either stasis or slow change. The transitions here are inflection points—changes in overall energy use or fuel mix. The point is not that energy systems frequently change, only that they can, and that once newer sources of energy become competitive, the transition can be dramatic.
+
+Sometimes, change came from market forces, and governments acted to slow it down. In a passage whose sentiment would resonate today, The Economist noted in an article published on April 6, 1968, titled “Europe’s energy dilemma” that: “It is a paradox that as more cheap sources of gas are discovered, and nuclear costs come down the political pressures for a protective, more nationalistic, more expensive, energy policy are on the increase.”12 Other times, there was a government push for change: many countries tried to lessen their reliance on oil in the 1970s. More often, change came from a mixture of policy, prices, and technology.
+
+
+The point is not that energy systems frequently change, only that they can, and that once newer sources of energy become competitive, the transition can be dramatic.
+
+
+This is not to suggest that change is easy or painless. It is often disruptive. It will strand capital and put people out of work—but also create new jobs and new opportunities, although not necessarily in the same place. Governments will need to cushion the blow. And as we move towards the challenge of deep carbonization, we will confront problems that we have never solved before. But the experience of the past half-century shows that rapid change is possible and can happen quickly—and that it can be consistent with growing prosperity. If we are to meet our energy challenge, we just need to replicate and scale what several countries have previously done within their own borders.
+
+Nikos Tsafos is a senior fellow with the Energy and National Security Program at the Center for Strategic and International Studies in Washington, D.C. 
+
+CSIS Briefs  are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s). 
+
+© 2018 by the Center for Strategic and International Studies. All rights reserved.
+
+
+1 This is based on the IEA’s Sustainable Development scenario that “reflects the energy-related objectives that the international community has set with the United Nations 2030 Agenda for Sustainable Development: an appro­priate answer to our climate change challenge, while improving air quality and achieving universal access to modern energy services – in short, secure, affordable, sustainable energy that is available to all.” IEA, World Energy Out­look 2017 (Paris: OECD Publishing, 2017), https://www.iea.org/weo2017/, 3. There are obviously many different pathways to achieve the same goals, and this is just one way. It should not be read in a narrow way—as what must happen. But it shows the direction and the order of magnitude of what needs to change.
+
+2 Data from the BP Statistical Review of World Energy, June 2018, https://  www.bp.com/en/global/corporate/energy-economics/statistical-re­view-of-world-energy/downloads.html.
+
+3 Data from  Department for Business, Energy & Industrial Strategy, Energy Con­sumption in the UK (ECUK) 2018 Data Tables  , July 26, 2018, https://  www.gov.uk/government/statistics/energy-consumption-in-the-uk.
+
+4 In the United Kingdom, final energy consumption, which excludes the losses in power generation, still declined by 13 percent in the same period; so there was an underlying decline in energy use over and above the effi­ciency gains that show up as a decline in primary energy consumption.
+
+5 Vaclav Smil, Energy Transitions: History, Requirements, Prospects (Santa Barbara: Praeger, 2010), 143.
+
+6 Vaclav Smil, Energy Transitions: History, Requirements, Prospects (Santa Barbara: Praeger, 2010), 144.
+
+7 In the Netherlands, it was not just oil that displaced coal but also gas.
+
+8 The data series start in 1965—in some places, the transition started earlier than 1965 and so the actual declines were steeper. For instance, in the United Kingdom, coal consumption fell by 42 percent between 1952/55 and 1972/75. See Neil K. Buxton, The Economic Development of the British Coal Industry (London: Batsford Academic, 1978), 244. In France, “coal’s share of the national energy market declined from 78 percent in 1949 to 54 percent in 1960.” See Darryl Holter,  The Battle for Coal: Miners and the Politics of Nationalization in France, 1940-1950  (DeKalb: Northern Illinois University Press, 1992), 194.
+
+9 For a brief discussion about this in West Germany, see The Economist, “Coal-Oil Compromise,” March 23, 1963. For a similar discussion in Britain, see Chapter 10 in Buxton, The Economic Development of the British Coal Industry.
+
+10 IEA, World Energy Balances 2016 (Paris: OECD Publishing, 2016), https://  doi.org/10.1787/enestats-data-en.
+
+11 IEA, World Energy Balances 2016 (Paris: OECD Publishing, 2016), https://  doi.org/10.1787/enestats-data-en.
+
+12 The Economist, “Europe’s energy dilemma,” April 6, 1968, 55.
+      

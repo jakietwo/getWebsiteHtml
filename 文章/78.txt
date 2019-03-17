@@ -1,0 +1,138 @@
+s Pursuit of Semiconductor Independence
+February 27, 2019Download the Report
+
+ 
+
+ 
+
+While China has made immense investments in science and technology, and while these are producing results, it is still dependent on Western technology. This is particularly true for semiconductors. China’s dependence on foreign semiconductors has worried Beijing for decades. China suspects that Western semiconductors contain “backdoors,” intentional vulnerabilities that can be exploited for intelligence and military purposes. In 2016, President Xi Jinping said, “the fact that core technology is controlled by others is our greatest hidden danger.” Vice Premier Ma Kai said at the 2018 National People’s Congress, “We cannot be reliant on foreign chips.”1 China intends to end this dependence, but despite 40 years of investment and espionage, it is unable to make advanced semiconductors. Along the way, there have been embarrassing frauds and expensive failures.
+
+
+Watch Live Event
+
+
+
+
+Mistaken Expectations
+
+Since 1979, China has used hefty state investments in infrastructure, education, and research, along with technology acquisitions and supportive business policies, to produce incredible economic growth. Western companies were happy to take advantage of the Chinese market and for many it became essential. Expectations that concessions made to China would be only temporary, needed only until it became a market economy, were a serious miscalculation. No one objects to China’s growth and modernization. The problem lies with the means the Chinese government uses to achieve this, including espionage, intellectual property (IP) theft, coercive joint venture requirements, trade barriers, and aggressive mercantilist policies.
+
+China Is a Net Tech Importer 
+
+China remains a net importer of technology. China wants to move “up the value chain” from assembling final products from imported components to creating advanced technology in China itself, but imports of chips and technology will be the norm for many years to come.
+
+Today, only 16 percent of the semiconductors used in China are produced in-country, and only half of these are made by Chinese firms. It is dependent on foreign suppliers for advanced chips. China aims to produce 40 percent of the semiconductors it uses by 2020 and 70 percent by 2025.
+
+“China 2025” has become a catchphrase for China’s aggressive industrial policy and something of a hobgoblin for policy-makers, but we should not take yet another report by Chinese planners too seriously. China routinely cranks out economic plans; what counts is not the plan but the money. The total planned investment in semiconductors is $118 billion over five years, including $60 billion from provincial and municipal governments (although government investments in China can suffer from politicization and corruption). For comparison, leading Western firms also invest billions annually in research and development (R&D). Intel invests over $13 billion while Samsung and Qualcomm invested over $3 billion each. Huawei spends about $15 billion and ZTE about $1.9 billion.
+
+Another Round of Massive Investment in Semiconductors
+
+In 2014, China’s State Council set the goal of becoming a global leader in all segments of the semiconductor industry by 2030. “Made in China 2025” reiterated this, but chips are not an easy market to break into, something that has hampered China’s previous efforts. China spent billions of dollars in earlier decades to create a domestic semiconductor industry but with little success. The chief difficulty for Chinese firms is not access to equipment but their lack of experience and “know-how.” This continues to be a problem. China’s pursuit of indigenous industries also runs counter to the trend toward globally integrated supply chains, which are the most efficient in production and innovation. An indigenous industry, even when supported by espionage and subsidies, will remain second-best in a globally integrated innovation system.
+
+Despite Western restrictions on technology transfer, there are avenues that China can take to gain semiconductor independence. The first is through drawing technology from Taiwan. Second, China can take advantage of “fabless” semiconductor production, where Chinese firms design chips but the manufacturing processes are handled by specialist companies like the Taiwanese Semiconductor Manufacturing Company (TSMC). Finally, China can try again to build a state-funded, indigenous industry. Chinese companies prefer fabless chip production, while the government-preferred solution of building domestic semiconductor fabrication facilities (fabs) is expensive and risky.
+
+China Innovation at Risk 
+
+The long-standing debate about whether China could become an innovation power appears to be over (with two significant caveats). The first is that successful Chinese innovation is still limited by the country’s relative technological backwardness. The second caveat is that Chinese innovation blossomed in a period of relative political openness. Now that openness is shrinking under Xi Jinping and has been accompanied by greater state economic direction, it is possible that the trend of increasing Chinese innovation will slow or reverse.
+
+Market Versus State
+
+Both China and the United States have advantages and disadvantages in what is a contest over governance as well as investment and research. The multinational nature of research and innovation complicates any national competition for technological leadership and will create forces that both states will find difficult to control. A globally-oriented U.S. industry may have an advantage over a nationally-focused China.
+
+China’s technology sector has vulnerabilities. Centrally-directed economies are less efficient, since government policy supplants market signals on where to invest. Easy access to credit allows inefficient firms to survive, draining resources from more productive activities. Previous rounds of semiconductor investment in China saw new firms (often funded by provincial or municipal governments) close after a few years.
+
+This support from the government support means that Chinese companies can continue to operate even when they are unprofitable, inflicting damage on both the Chinese economy and the economies of other nations. Han Yinhe of the Chinese Academy of Sciences calls this “chaotic competition.” China’s government-subsidized expansion will squeeze semiconductor firms in other countries, shrinking their income and numbers and reducing the ability of semiconductor producers to invest in R&D. The overall effect of China’s investments will be to weaken the global industry and slow the pace of semiconductor innovation.
+
+The Perils of Techno-Triumphalism
+
+Debate is distorted by the Chinese government’s propensity to exaggerate its technological prowess. This is part of the triumphalist narrative about China’s return to the center of the world stage. In reality the story is more nuanced, with China leading in a few areas (such as biotechnology, where Chinese firms face fewer regulatory hurdles) and lagging in many others.
+
+Nineteenth century Chinese reformers asked whether it was possible to absorb Western technology without also absorbing Western political ideas. At the risk of tremendous oversimplification, the answer was ultimately no. China’s Communist Party faces a similar problem, but with greatly enhanced tools of social control and surveillance, it expects to avoid a similar fate.
+
+How Should the United States Respond?
+
+Semiconductors and microelectronics are part of interdependent manufacturing network centered on the Pacific Rim. Disentangling this integrated supply chain, created under more favorable political conditions, will be difficult for the United States, since many U.S. chip companies either have facilities in China or rely on Chinese companies for lower level functions like testing. Interdependence will also hamper China’s efforts to build a national industry, since competitive advantage lies with the internationally distributed supply chains (described by the industry as “horizontal segmentation”).
+
+Given past Chinese practice, we can safely assume that if China achieves a dominant position in semiconductors it will use it for intelligence, military, commercial, and political advantage. The most damaging effect of Chinese overinvestment is to undercut research and innovation in semiconductors by reducing the revenue flows to innovative chip companies that fund R&D.
+
+Semiconductors are the backbone of the digital economy. The U.S. semiconductor industry and national security are closely linked. The United States will need to engage China to change its mercantilist behavior while simultaneously taking steps to strengthen the U.S. semiconductor industry. Changing Chinese behavior will be difficult but not impossible if the United States and its allies take a consistent approach. In the near term, policy should focus on blunting Chinese investments in production and design technology regulations and increased counterespionage programs. U.S. technological strength can be reinforced by investing more in basic science and government research and taking a more assertive approach to contesting foreign regulations used to gain unfair advantage.
+
+
+
+1 Xi Jinping, “Speech at the Work Conference for Cybersecurity and Informatization,” (speech, Beijing, April 2016); Bob Davis and Eva Dou, “China’s Next Target: U.S. Microchip Hegemony,”  
+https://www.wsj.com/articles/chinas-next-target-u-s-microchip-hegemony-1501168303.
+ 
+
+James Andrew Lewis is a senior vice president at the Center for Strategic and International Studies in Washington, D.C.
+ 
+This report is part of the CSIS China Innovation Policy Series (CIPS) made possible by general support from Japan External Trade Organization, Semiconductor Industry Association, U.S. Chamber of Commerce, Microsoft, General Electric Foundation, and the Smith Richardson Foundation.
+      
+        China’s Pursuit of Semiconductor Independence
+February 27, 2019Download the Report
+
+ 
+
+ 
+
+While China has made immense investments in science and technology, and while these are producing results, it is still dependent on Western technology. This is particularly true for semiconductors. China’s dependence on foreign semiconductors has worried Beijing for decades. China suspects that Western semiconductors contain “backdoors,” intentional vulnerabilities that can be exploited for intelligence and military purposes. In 2016, President Xi Jinping said, “the fact that core technology is controlled by others is our greatest hidden danger.” Vice Premier Ma Kai said at the 2018 National People’s Congress, “We cannot be reliant on foreign chips.”1 China intends to end this dependence, but despite 40 years of investment and espionage, it is unable to make advanced semiconductors. Along the way, there have been embarrassing frauds and expensive failures.
+
+
+Watch Live Event
+
+
+
+
+Mistaken Expectations
+
+Since 1979, China has used hefty state investments in infrastructure, education, and research, along with technology acquisitions and supportive business policies, to produce incredible economic growth. Western companies were happy to take advantage of the Chinese market and for many it became essential. Expectations that concessions made to China would be only temporary, needed only until it became a market economy, were a serious miscalculation. No one objects to China’s growth and modernization. The problem lies with the means the Chinese government uses to achieve this, including espionage, intellectual property (IP) theft, coercive joint venture requirements, trade barriers, and aggressive mercantilist policies.
+
+China Is a Net Tech Importer 
+
+China remains a net importer of technology. China wants to move “up the value chain” from assembling final products from imported components to creating advanced technology in China itself, but imports of chips and technology will be the norm for many years to come.
+
+Today, only 16 percent of the semiconductors used in China are produced in-country, and only half of these are made by Chinese firms. It is dependent on foreign suppliers for advanced chips. China aims to produce 40 percent of the semiconductors it uses by 2020 and 70 percent by 2025.
+
+“China 2025” has become a catchphrase for China’s aggressive industrial policy and something of a hobgoblin for policy-makers, but we should not take yet another report by Chinese planners too seriously. China routinely cranks out economic plans; what counts is not the plan but the money. The total planned investment in semiconductors is $118 billion over five years, including $60 billion from provincial and municipal governments (although government investments in China can suffer from politicization and corruption). For comparison, leading Western firms also invest billions annually in research and development (R&D). Intel invests over $13 billion while Samsung and Qualcomm invested over $3 billion each. Huawei spends about $15 billion and ZTE about $1.9 billion.
+
+Another Round of Massive Investment in Semiconductors
+
+In 2014, China’s State Council set the goal of becoming a global leader in all segments of the semiconductor industry by 2030. “Made in China 2025” reiterated this, but chips are not an easy market to break into, something that has hampered China’s previous efforts. China spent billions of dollars in earlier decades to create a domestic semiconductor industry but with little success. The chief difficulty for Chinese firms is not access to equipment but their lack of experience and “know-how.” This continues to be a problem. China’s pursuit of indigenous industries also runs counter to the trend toward globally integrated supply chains, which are the most efficient in production and innovation. An indigenous industry, even when supported by espionage and subsidies, will remain second-best in a globally integrated innovation system.
+
+Despite Western restrictions on technology transfer, there are avenues that China can take to gain semiconductor independence. The first is through drawing technology from Taiwan. Second, China can take advantage of “fabless” semiconductor production, where Chinese firms design chips but the manufacturing processes are handled by specialist companies like the Taiwanese Semiconductor Manufacturing Company (TSMC). Finally, China can try again to build a state-funded, indigenous industry. Chinese companies prefer fabless chip production, while the government-preferred solution of building domestic semiconductor fabrication facilities (fabs) is expensive and risky.
+
+China Innovation at Risk 
+
+The long-standing debate about whether China could become an innovation power appears to be over (with two significant caveats). The first is that successful Chinese innovation is still limited by the country’s relative technological backwardness. The second caveat is that Chinese innovation blossomed in a period of relative political openness. Now that openness is shrinking under Xi Jinping and has been accompanied by greater state economic direction, it is possible that the trend of increasing Chinese innovation will slow or reverse.
+
+Market Versus State
+
+Both China and the United States have advantages and disadvantages in what is a contest over governance as well as investment and research. The multinational nature of research and innovation complicates any national competition for technological leadership and will create forces that both states will find difficult to control. A globally-oriented U.S. industry may have an advantage over a nationally-focused China.
+
+China’s technology sector has vulnerabilities. Centrally-directed economies are less efficient, since government policy supplants market signals on where to invest. Easy access to credit allows inefficient firms to survive, draining resources from more productive activities. Previous rounds of semiconductor investment in China saw new firms (often funded by provincial or municipal governments) close after a few years.
+
+This support from the government support means that Chinese companies can continue to operate even when they are unprofitable, inflicting damage on both the Chinese economy and the economies of other nations. Han Yinhe of the Chinese Academy of Sciences calls this “chaotic competition.” China’s government-subsidized expansion will squeeze semiconductor firms in other countries, shrinking their income and numbers and reducing the ability of semiconductor producers to invest in R&D. The overall effect of China’s investments will be to weaken the global industry and slow the pace of semiconductor innovation.
+
+The Perils of Techno-Triumphalism
+
+Debate is distorted by the Chinese government’s propensity to exaggerate its technological prowess. This is part of the triumphalist narrative about China’s return to the center of the world stage. In reality the story is more nuanced, with China leading in a few areas (such as biotechnology, where Chinese firms face fewer regulatory hurdles) and lagging in many others.
+
+Nineteenth century Chinese reformers asked whether it was possible to absorb Western technology without also absorbing Western political ideas. At the risk of tremendous oversimplification, the answer was ultimately no. China’s Communist Party faces a similar problem, but with greatly enhanced tools of social control and surveillance, it expects to avoid a similar fate.
+
+How Should the United States Respond?
+
+Semiconductors and microelectronics are part of interdependent manufacturing network centered on the Pacific Rim. Disentangling this integrated supply chain, created under more favorable political conditions, will be difficult for the United States, since many U.S. chip companies either have facilities in China or rely on Chinese companies for lower level functions like testing. Interdependence will also hamper China’s efforts to build a national industry, since competitive advantage lies with the internationally distributed supply chains (described by the industry as “horizontal segmentation”).
+
+Given past Chinese practice, we can safely assume that if China achieves a dominant position in semiconductors it will use it for intelligence, military, commercial, and political advantage. The most damaging effect of Chinese overinvestment is to undercut research and innovation in semiconductors by reducing the revenue flows to innovative chip companies that fund R&D.
+
+Semiconductors are the backbone of the digital economy. The U.S. semiconductor industry and national security are closely linked. The United States will need to engage China to change its mercantilist behavior while simultaneously taking steps to strengthen the U.S. semiconductor industry. Changing Chinese behavior will be difficult but not impossible if the United States and its allies take a consistent approach. In the near term, policy should focus on blunting Chinese investments in production and design technology regulations and increased counterespionage programs. U.S. technological strength can be reinforced by investing more in basic science and government research and taking a more assertive approach to contesting foreign regulations used to gain unfair advantage.
+
+
+
+1 Xi Jinping, “Speech at the Work Conference for Cybersecurity and Informatization,” (speech, Beijing, April 2016); Bob Davis and Eva Dou, “China’s Next Target: U.S. Microchip Hegemony,”  
+https://www.wsj.com/articles/chinas-next-target-u-s-microchip-hegemony-1501168303.
+ 
+
+James Andrew Lewis is a senior vice president at the Center for Strategic and International Studies in Washington, D.C.
+ 
+This report is part of the CSIS China Innovation Policy Series (CIPS) made possible by general support from Japan External Trade Organization, Semiconductor Industry Association, U.S. Chamber of Commerce, Microsoft, General Electric Foundation, and the Smith Richardson Foundation.
+      

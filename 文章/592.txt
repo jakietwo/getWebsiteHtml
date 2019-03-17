@@ -1,0 +1,129 @@
+
+        A Lot Rides on the Decision to Relinquish the U.S. Role over the Internet
+August 4, 2014In March of this year, the Obama administration announced it would relinquish its role over the way domain names and Internet addresses are distributed. Commonly referred to as the Internet Corporation for Assigned Names and Numbers (ICANN), this U.S. nonprofit group has managed the use and governance of Internet addresses since 1998. At that time, U.S. government officials proposed the idea of eventually giving up oversight of Internet addresses and domain names. However, they didn’t actually take tangible steps to do so until recently.
+
+In particular, the Department of Commerce currently determines the body responsible for regulating the Internet’s codes and numbering systems.
+
+Obama administration officials proposed transitioning U.S. oversight authority to the “global multi-stakeholder community” by September 2015, when ICANN’s current contract with the U.S. government is set to expire.
+
+Opponents of the plan fear that China and Russia could take advantage of the U.S. surrender, gaining more control over Internet functions through global organizations such as the United Nations. Obama administration officials insist they won’t cede such authority to a “government-led or an inter-governmental organization.” But U.S. skeptics of the administration’s plan have issued warnings about the International Telecommunications Union (ITU)—the United Nations’ specialized agency for information and communication technologies—grabbing control of the Web.
+
+In March, former president Bill Clinton even jumped into the fray, saying he’s not convinced the multi-stakeholder model is the right course to take.
+
+“I understand in theory why we would like to have a multi-stakeholder process. I favor that,” Clinton said. “I just know that a lot of these so-called multi-stakeholders are really governments that want to gag people and restrict access to the Internet,” he stated.
+
+The Edward Snowden disclosures of National Security Agency activities have spawned distrust of U.S. control of domain names, if only technically speaking. Clinton argued, though, that the United States has done quite well at ensuring the Internet is open and free.
+
+Clinton captured the concern of many Americans when he stated: “A lot of people…have been trying to take this authority from the U.S. for the sole purpose of cracking down on Internet freedom and limiting it and having governments protect their backsides instead of empowering their people.”
+
+A majority of House members and some senators—most of whom are Republicans—oppose the Obama administration’s plan. They certainly back Clinton’s view, since they share his concern about the United States giving away its remaining control over the Internet.
+
+Brazil hosted an international meeting in São Paulo in April to determine how the Internet should be governed. President Dilma Rousseff of Brazil, organized the two-day event that was referred to as NetMundial. There has been growing discontentment with U.S. dominance of Internet oversight among developing countries, who desire a greater role in Internet governance.
+
+With about 850 government officials, academics, campaigners, technical experts, and Web creators in attendance, the goal of NetMundial was to agree to shared principles and to highlight specific issues that could form the foundation for future discussions about Internet governance.
+
+The São Paulo meeting followed on the heels of news that the United States had spied on the Brazilian president, sparking more suspicions about the U.S. Internet control.
+
+Subsequent to the NetMundial meeting in Brazil, more than 3,300 people from around the world gathered in June for ICANN’s 50th meeting in London. Fadi Chehadé, president and CEO of ICANN, emphasized the advancement of the multi-stakeholder model and the concept of inclusivity. The London meeting was considered a landmark for many reasons, one of which was underscoring the multi-stakeholder model.
+
+One Chinese Cyberspace Affairs Administration official maintained that those in attendance held a unified ideal—to advance the governance of the Internet. The ICANN motto emerging at the meeting was “One World, One Internet.” There was appreciation and support for the advancement of the multi-stakeholder model that framed the NetMundial meeting in Sao Paulo, Brazil in April.
+
+Chehadé expressed the belief that both Lebanon and China are examples of the world’s growing commitment to an inclusive multi-stakeholder Internet governance model, although some onlookers were doubtful.
+
+UK parliamentary under secretary of state for culture, communications and creative industries Ed Vaizey made a compelling case for the Internet under its current governance: “The Internet, as it has been governed, has to be seen as an unqualified success story. It’s created the opportunity for massive economic growth and for greater intellectual freedom. So if we’re going to look at the governance of the Internet, it’s important that we preserve those principles.”
+
+The highlights of ICANN’s meeting in London were points about the corporation’s global accountability and consideration of the U.S. government’s proposal to transfer the Internet’s technical functions to a global multi-stakeholder model.
+
+However, the most significant meeting by far in 2014 will be the ITU Plenipotentiary Conference (Plenipot), which will be held in October in Busan, South Korea. The Plenipot is ITU’s highest policymaking event, during which member states take actions such as updating the ITU Constitution and adopting policy resolutions. It is a treaty conference; therefore, it carries tremendous import.
+
+This year’s Plenipot stands to be a critical Internet governance meeting because in recent years a number of governments have made it clear that they would like to see governments play a larger role on international Internet policy issues. Thus, they are looking to ITU to further this agenda.
+
+At the contentious World Conference on International Telecommunications held in 2012, a handful of governments pressed to have ITU coordinate Internet policymaking. Ultimately, however, the word “Internet” did not even appear in the final treaty.
+
+This debate resurfaced at the nonbinding World Telecommunication Policy Forum in 2013, during which a number of governments asserted the view that ITU is exceptionally fit to lead Internet-related public policy at the international level.
+
+Moreover, this February, the positions of Iran and Saudi Arabia, at a working-level meeting, showed an interest in establishing a new body to coordinate global Internet-related public policy under the mantle of ITU.
+
+While these meeting were all based on nonbinding processes, the outcome of Plenipot is a different beast because it is binding, and it will set forth ITU’s workload over the next four years. Internet issues are absolutely on the radar screen at this event—Internet governance is expected to be front and center. The U.S. government will send a delegation led by the State Department with officials from the Commerce Department and other agencies advising, as well as U.S. industry.
+
+Any shift away from the multi-stakeholder model for Internet governance toward a more government-dominated approach is a risky business. An awful lot rides on this impending decision.
+
+Some interested groups believe the vibrancy of the Internet over the last couple of decades has been that the technical aspects have not been politicized and have been free from government intervention.
+
+One major concern about whether Internet governance is transferred to a multi-stakeholder entity is that there could be balkanization of the Internet. Governments could use technical standards to promote their own
+
+commercial desires, eliminate interoperability between different countries, conduct surveillance, and exercise control over content. There is also the potential to harm businesses and to stifle innovation.
+
+But overriding this concern is the fact that if a government-dominated body were to seize the Internet, it could have drastic consequences. It could lead to an authoritarian government crackdown on Internet freedoms to block free speech—a right so basic but which we in America cherish.
+
+Therefore, the U.S. government needs to think long and hard before taking steps that will undermine the very essence of what an open and free Internet has come symbolize to people around the world who value the priceless gift of freedom.
+
+Helen Domenici is a senior associate with the Strategic Technologies Program at the Center for Strategic and International Studies (CSIS) in Washington, D.C.
+
+Commentary is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).
+
+© 2014 by the Center for Strategic and International Studies. All rights reserved.       
+        A Lot Rides on the Decision to Relinquish the U.S. Role over the Internet
+August 4, 2014In March of this year, the Obama administration announced it would relinquish its role over the way domain names and Internet addresses are distributed. Commonly referred to as the Internet Corporation for Assigned Names and Numbers (ICANN), this U.S. nonprofit group has managed the use and governance of Internet addresses since 1998. At that time, U.S. government officials proposed the idea of eventually giving up oversight of Internet addresses and domain names. However, they didn’t actually take tangible steps to do so until recently.
+
+In particular, the Department of Commerce currently determines the body responsible for regulating the Internet’s codes and numbering systems.
+
+Obama administration officials proposed transitioning U.S. oversight authority to the “global multi-stakeholder community” by September 2015, when ICANN’s current contract with the U.S. government is set to expire.
+
+Opponents of the plan fear that China and Russia could take advantage of the U.S. surrender, gaining more control over Internet functions through global organizations such as the United Nations. Obama administration officials insist they won’t cede such authority to a “government-led or an inter-governmental organization.” But U.S. skeptics of the administration’s plan have issued warnings about the International Telecommunications Union (ITU)—the United Nations’ specialized agency for information and communication technologies—grabbing control of the Web.
+
+In March, former president Bill Clinton even jumped into the fray, saying he’s not convinced the multi-stakeholder model is the right course to take.
+
+“I understand in theory why we would like to have a multi-stakeholder process. I favor that,” Clinton said. “I just know that a lot of these so-called multi-stakeholders are really governments that want to gag people and restrict access to the Internet,” he stated.
+
+The Edward Snowden disclosures of National Security Agency activities have spawned distrust of U.S. control of domain names, if only technically speaking. Clinton argued, though, that the United States has done quite well at ensuring the Internet is open and free.
+
+Clinton captured the concern of many Americans when he stated: “A lot of people…have been trying to take this authority from the U.S. for the sole purpose of cracking down on Internet freedom and limiting it and having governments protect their backsides instead of empowering their people.”
+
+A majority of House members and some senators—most of whom are Republicans—oppose the Obama administration’s plan. They certainly back Clinton’s view, since they share his concern about the United States giving away its remaining control over the Internet.
+
+Brazil hosted an international meeting in São Paulo in April to determine how the Internet should be governed. President Dilma Rousseff of Brazil, organized the two-day event that was referred to as NetMundial. There has been growing discontentment with U.S. dominance of Internet oversight among developing countries, who desire a greater role in Internet governance.
+
+With about 850 government officials, academics, campaigners, technical experts, and Web creators in attendance, the goal of NetMundial was to agree to shared principles and to highlight specific issues that could form the foundation for future discussions about Internet governance.
+
+The São Paulo meeting followed on the heels of news that the United States had spied on the Brazilian president, sparking more suspicions about the U.S. Internet control.
+
+Subsequent to the NetMundial meeting in Brazil, more than 3,300 people from around the world gathered in June for ICANN’s 50th meeting in London. Fadi Chehadé, president and CEO of ICANN, emphasized the advancement of the multi-stakeholder model and the concept of inclusivity. The London meeting was considered a landmark for many reasons, one of which was underscoring the multi-stakeholder model.
+
+One Chinese Cyberspace Affairs Administration official maintained that those in attendance held a unified ideal—to advance the governance of the Internet. The ICANN motto emerging at the meeting was “One World, One Internet.” There was appreciation and support for the advancement of the multi-stakeholder model that framed the NetMundial meeting in Sao Paulo, Brazil in April.
+
+Chehadé expressed the belief that both Lebanon and China are examples of the world’s growing commitment to an inclusive multi-stakeholder Internet governance model, although some onlookers were doubtful.
+
+UK parliamentary under secretary of state for culture, communications and creative industries Ed Vaizey made a compelling case for the Internet under its current governance: “The Internet, as it has been governed, has to be seen as an unqualified success story. It’s created the opportunity for massive economic growth and for greater intellectual freedom. So if we’re going to look at the governance of the Internet, it’s important that we preserve those principles.”
+
+The highlights of ICANN’s meeting in London were points about the corporation’s global accountability and consideration of the U.S. government’s proposal to transfer the Internet’s technical functions to a global multi-stakeholder model.
+
+However, the most significant meeting by far in 2014 will be the ITU Plenipotentiary Conference (Plenipot), which will be held in October in Busan, South Korea. The Plenipot is ITU’s highest policymaking event, during which member states take actions such as updating the ITU Constitution and adopting policy resolutions. It is a treaty conference; therefore, it carries tremendous import.
+
+This year’s Plenipot stands to be a critical Internet governance meeting because in recent years a number of governments have made it clear that they would like to see governments play a larger role on international Internet policy issues. Thus, they are looking to ITU to further this agenda.
+
+At the contentious World Conference on International Telecommunications held in 2012, a handful of governments pressed to have ITU coordinate Internet policymaking. Ultimately, however, the word “Internet” did not even appear in the final treaty.
+
+This debate resurfaced at the nonbinding World Telecommunication Policy Forum in 2013, during which a number of governments asserted the view that ITU is exceptionally fit to lead Internet-related public policy at the international level.
+
+Moreover, this February, the positions of Iran and Saudi Arabia, at a working-level meeting, showed an interest in establishing a new body to coordinate global Internet-related public policy under the mantle of ITU.
+
+While these meeting were all based on nonbinding processes, the outcome of Plenipot is a different beast because it is binding, and it will set forth ITU’s workload over the next four years. Internet issues are absolutely on the radar screen at this event—Internet governance is expected to be front and center. The U.S. government will send a delegation led by the State Department with officials from the Commerce Department and other agencies advising, as well as U.S. industry.
+
+Any shift away from the multi-stakeholder model for Internet governance toward a more government-dominated approach is a risky business. An awful lot rides on this impending decision.
+
+Some interested groups believe the vibrancy of the Internet over the last couple of decades has been that the technical aspects have not been politicized and have been free from government intervention.
+
+One major concern about whether Internet governance is transferred to a multi-stakeholder entity is that there could be balkanization of the Internet. Governments could use technical standards to promote their own
+
+commercial desires, eliminate interoperability between different countries, conduct surveillance, and exercise control over content. There is also the potential to harm businesses and to stifle innovation.
+
+But overriding this concern is the fact that if a government-dominated body were to seize the Internet, it could have drastic consequences. It could lead to an authoritarian government crackdown on Internet freedoms to block free speech—a right so basic but which we in America cherish.
+
+Therefore, the U.S. government needs to think long and hard before taking steps that will undermine the very essence of what an open and free Internet has come symbolize to people around the world who value the priceless gift of freedom.
+
+Helen Domenici is a senior associate with the Strategic Technologies Program at the Center for Strategic and International Studies (CSIS) in Washington, D.C.
+
+Commentary is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).
+
+© 2014 by the Center for Strategic and International Studies. All rights reserved.       

@@ -1,0 +1,224 @@
+
+        The Rise of China-Europe Railways
+March 6, 2018The Dawn of a New Commercial Era?
+
+For over two millennia, technology and politics have shaped trade across the Eurasian supercontinent. The compass and domesticated camels helped the “silk routes” emerge between 200 and 400 CE, and peaceful interactions between the Han and Hellenic empires allowed overland trade to flourish. A major shift occurred in the late fifteenth century, when the invention of large ocean-going vessels and new navigation methods made maritime trade more competitive. Mercantilism and competition among Europe’s colonial powers helped pull commerce to the coastlines. Since then, commerce between Asia and Europe has traveled primarily by sea.1
+
+Against this historical backdrop, new railway services between China and Europe have emerged rapidly. Just 10 years ago, regular direct freight services from China to Europe did not exist.2 Today, they connect roughly 35 Chinese cities with 34 European cities.3 Rail services are considerably cheaper than air and faster than sea, as Figure 1 illustrates, and could provide a compelling middle option for more goods in the coming years. Rail’s share of cargo by value is already growing, increasing 144 percent during the first half of 2017, as compared to the same period in 2016.4 A study commissioned by the International Union of Railways estimates that China-Europe rail services could double their share of trade by volume over the next decade.5
+
+Figure 1: Shift in Transit Cost and Time (2006-2017)
+
+
+
+
+
+Source: Xu Zhang, Eurasian Rail Freight in The One Belt One Road Era, Cranfield University
+
+
+
+China is the primary force behind these routes, and other countries have been eager to participate. Providing generous subsidies and state media promotion, China has made direct rail services a major feature of its Belt and Road Initiative (BRI), which aims to bind the world with Beijing through $1 trillion of new infrastructure, trade agreements, and coordination across countless policy areas. Even countries that have been reluctant to endorse the BRI have embraced these new routes. When a train from Yiwu, China, arrived in London, UK, in January 2017, The Telegraph called it “a new chapter in the history of the centuries-old trading route,”6 and The Guardian said it “heralds the dawn of a new commercial era.”7 In the past two years, historic firsts have been celebrated for trains arriving in France, Latvia, and Finland, among other countries.
+
+These new services have captured imaginations, but it remains to be seen how much trade they can capture. In 2016, rail carried just under 1 percent of trade between China and Europe by volume and just over 2 percent by value.8 As Figure 2 illustrates, maritime shipping remains dominant, carrying 94 percent of trade by weight and 64 percent by value in 2016. Compared to rail, air transport carried twice as much cargo by weight and more than 13 times by value in 2016. These trends highlight the competitiveness of maritime shipping for low-value goods and the competitiveness of air shipping for high-value goods.
+
+
+Figure 2a: China-Europe Trade by Weight (2007-2016)
+
+Source: Eurostat, European Union, analysis performed by Infrastructure Economics Centre (CEI)
+
+Figure 2b: China-Europe Trade by Value (2007-2016)
+
+Source: Eurostat, European Union, analysis performed by Infrastructure Economics Centre (CEI)
+
+
+The rail services also face constraints to more dramatic growth. The future of Chinese subsidies is uncertain. A chronic trade imbalance between Europe and China means less demand for eastbound services and creates costs for repositioning empty containers. Other developments, including new airports in Asia and improvements to the European Union’s rail network, could impact rail’s competitiveness in the coming years.
+
+The main challenge in squaring all these factors is that despite the attention they receive, there is little reliable and centralized information about these new services. Frequency of China-Europe rail services, cargo volume, cargo rates, and other basic information is hard to find, especially compared to maritime and air freight data. Many of these shortcomings stem from the newness of these routes, the complexity inherent in moving goods across many borders, and the resulting disaggregation of data. Data could improve in the coming years, but there are also incentives for obscuring the information. These trains carry not only commercial goods but also political ambitions.
+
+Drawing from interviews with 34 stakeholders, this report contributes to filling that gap in two parts. First, it examines the rise of China-Europe railway services and their drivers. China-Europe rail has grown not only in terms of origins and destinations but also in terms of cargo volume, cargo type, and overall competitiveness. Driving these trends are several political, technical, and technological factors, chief among them subsidies and improvements in logistics processes. Second, it considers these developments within a broader trade context and identifies several challenges to future growth, including trade imbalances, capacity constraints, and the enduring strengths of maritime shipping.
+
+Two views emerge from this analysis. The first is dramatic growth of the railways in recent years. These services are likely to continue growing in the coming years. Companies sourcing high-value, time-sensitive products or inputs from China should look seriously at whether some of their current supply chain should be shifted to rail. A narrow set of countries stand to benefit from leveraging their positions as transit hubs. China itself stands to benefit politically as well as commercially if these routes become sustainable. The second view is more modest. In broader trade terms, these services are less game-changing than often advertised. 
+
+Rapid Growth
+
+The growth of direct China-Europe railway services in recent years is particularly dramatic because the baseline for comparison is close to zero. Some goods were carried by rail between China and Europe, mainly via the Trans-Siberian Railway (TSR). But transit times were slower and less predictable.9 At change-of-gauge stations, it took longer to transfer cargo from one train to another. Delays also raised the risk of theft and made it impractical to transport refrigerated goods. In 2006, the American Chamber of Commerce reported, “The current land transport connections between Asia and Europe do exist, but they have no viable share of the commercial market.”10
+
+Companies began experimenting with direct services roughly a decade ago.11 In 2008, Foxconn sent its first trail train from Shenzhen to Europe. In 2009, DB Schenker launched a weekly service between Shanghai and Duisburg. After moving its production further inland to Chongqing, Hewlett Packard began discussing the possibility of a route from China to Germany via Kazakhstan, Russia, Belarus, and Poland. The Chongqing government was supportive of the idea, but coordination with officials in each of those countries was still required. The formation of the Eurasian Economic Union simplified that process in 2011, bringing Kazakhstan, Russia, and Belarus under the same customs umbrella. Trial shipments were successful toward the end of 2011, and a regular weekly service began the following year. The service was a “block train,” meaning that a single shipper, in this case HP, booked the entire train.
+
+From these and other efforts, three primary corridors between China and Europe have emerged. The northern corridor has three prongs extending from China, all of which join the TSR. The middle corridor has multiple variations, but all run from China through Kazakhstan. Some stakeholders believe that a nascent southern corridor could develop further in the coming years, stretching to Europe via Central Asia, Iran, Georgia, and Turkey. This would allow European food producers to avoid Russian sanctions, but as many stakeholders noted, the route itself requires significant hard and soft infrastructure improvements.
+
+Figure 3: China-Europe Rail Routes and Frequency (2018)
+
+
+
+
+Service frequency is increasing. Last year, there were an estimated 1,470 direct freight services from China to Europe and an estimated 730 services from Europe to China.12 As Figure 3 shows, several cities have multiple departures each day. In China, the most active hubs are often further inland. The closer origin and destination points are to the ocean, the stiffer competition they face from maritime shipping alternatives. Some recently announced routes are still in “trial” phases, and it is unclear whether they will become sustainable. But overall, there is a marked increase in service frequency compared to a few years ago.
+
+The railways are also carrying a greater range of cargo, according to several stakeholders. Early services, as illustrated by the HP and Foxconn examples, often focused on laptops, cell phones, auto parts, and other high-value cargo. These products, particularly those produced in China’s inland provinces, are still the main candidates for rail transport because the higher cost for using rail can be offset by lower inventory costs. It is becoming easier to send perishable goods by rail thanks to “reefer,” or refrigerated, containers. A niche market in shipping hazardous goods, including toxic materials to China, could add to eastbound freight in the coming years.13
+
+Rail has become more competitive in speed and cost, as Figure 1 showed in the previous section. When the American Chamber of Commerce compared China-Europe transport options in 2006, rail was not only more expensive but also slower than maritime shipping. As its yardstick for competitiveness, the analysis compared transport options for shipping a 40-foot container from Shanghai, China, to Hamburg, Germany. In 2006, that journey took 36 days by rail. It now takes just 16 days. Cost has declined as well, but not as dramatically as transit time. If anything, the Shanghai-Hamburg comparison is conservative, since it uses two maritime shipping hubs as the origin and destination points. Rail could be even more competitive for origins and destinations further inland.
+
+Cargo volume and value is rising.14 A key development is that some block trains have been replaced by more flexible offerings, including options to ship less-than-container loads, attracting smaller shippers.15 One major block train operator, Far East Land Bridge, reports shipping 37,000 40-foot equivalent units (FEUs)16 in 2017, up from 21,900 FEUs in 2016. The same company reported cargo value of more than $160 million for 2017, a $52 million jump from 2016.17 Putting aside the eastbound-westbound trade imbalance, which a later section considers, these figures are dramatic when compared to previous years. For example, during the first half of 2017, cargo value increased 144 percent compared to the same period in 2016.18 From almost nothing, China-Europe railways have emerged rapidly.
+
+Drivers
+
+A mix of political, economic, and technical factors are driving these new services, the exact balance of which varies from route to route. As mentioned earlier, some services have run only once, entirely for promotional purposes. Others, particularly those further inland, offer a more competitive middle option between maritime and air freight. Overall, however, it is difficult to imagine these routes emerging as rapidly as they have in recent years without China putting its political and financial weight behind them.
+
+Politically, China has used the announcement of new routes as evidence that the BRI is succeeding. For the most part, China’s partners are happy to oblige. Foreign leaders readily promote the routes as symbols of deeper ties, regardless of their economic merits. They understand that the BRI is President Xi’s signature foreign policy effort and hope that cooperating on a small, even symbolic project could open the door to broader cooperation and greater economic gains. Delegations from both countries often celebrate a train’s first arrival. Chinese state media reports frequently on the new routes, often lumping together figures for routes between China and Central Asia with routes extending further to Europe.19
+
+China also provides generous subsidies for these routes, making their true economic viability more difficult to assess. According to reports, subsidies can range from $1,000 to $5,000 for each FEU, accounting for up to one-half the total cost.20 One study that examined subsidies in 2014 found an even higher range, up to $7,000 per container.21 The same study estimated that China’s provincial governments collectively spent over $300 million subsidizing China-Europe block trains during 2011 to 2016. That sum is modest when compared to the $113 billion that China plans to spend on its railways in 2018.22
+
+To be sure, China is not the only subsidy provider, nor are shipping subsidies the only avenue for state support. The European Union and its members subsidize both railway infrastructure and operations. Some groups support these measures on social grounds, noting that rail is a more environmentally friendly form of transportation. But Europe’s subsidies largely predate the emergence of China-Europe railway routes. In contrast, China’s financial and political support for these routes has coincided with their rise.
+
+Several market-driven factors have helped as well. The relocation of Chinese manufacturing facilities further inland, driven in part by rising wages in coastal areas, has encouraged companies like HP to consider rail shipping. Maritime shipping has become slower, as ships “slow steam,” reducing their speed to cut fuel costs. In aggregate, slow steaming also pushes down the total supply for maritime shipping, helping to stabilize shipping prices.23 These developments have combined to make rail comparatively more attractive in speed and cost, even though maritime shipping retains an edge for most goods.
+
+China-Europe railways have also benefited from broader trade trends. During 2007–2016, trade between China and Europe grew 7.65 percent.24 The EU is China’s leading export destination,25 and telecommunications equipment is China’s largest export to the EU. Within the EU, Germany is China’s largest trading partner and home to several of the most active China-Europe rail hubs. Looking ahead, Chinese exports of some rail-friendly goods to Europe, including high-tech products and automobile parts, are expected to grow faster during 2015–2019 than they did during 2012–2014.26
+
+Growing awareness could also be contributing to the growth of China-Europe rail services. Chinese state media claim that awareness of the BRI increased from 6 percent to 18 percent between 2014 and 2017 across a sample of 22 countries.27 Promotion of these routes, while serving China’s political objectives, also makes some commercial sense. Some outreach is necessary to market China-Europe rail as an alternative to other transport modes. After becoming aware, customers also need to be persuaded to make the switch. Similar tactics can be seen in the private sector, where Uber and other ride-sharing companies have subsidized transportation costs to attract customers.
+
+Technical improvements to rail systems and customs processes have made railway services faster and feasible for a broader range of goods. China now has the second-longest railway network in the world. In some areas within China, the expansion of railway networks has outpaced the availability of commercial transport, temporarily increasing the competitiveness of rail. On China’s border and beyond, some infrastructure investments have helped speed the movement of containers. For example, a relatively new dry port at Khorgos, on the China-Kazakh border, processes trains 20 hours faster than an older terminal on the same border.28 Temperature-controlled containers now allow for perishable goods to be shipped via rail, but the volumes are still modest. 29 In February 2018, for example, China sent its first block train shipment of produce to Russia.
+
+Customs and other “soft” infrastructure improvements have been equally important in recent years. A decade ago, prospective shippers had to coordinate arrangements with each country the railway crossed through. The additive costs of tariffs, permits, duplicative paperwork, mandatory inspections, and other requirements is a primary reason why the routes were barely used. Rail still requires more paperwork than maritime shipping, but some requirements have been consolidated with common consignment notes. Logistics experts are now well-versed in navigating the remaining barriers and provide translation services for their customers to help expedite government approvals.
+
+Challenges
+
+Viewing the China-Europe railways in broader trade terms yields a less dramatic picture. Year-on-year railway growth is impressive by volume, value, and service frequency. But as Figure 2 highlighted in the introduction, railways still carry only a small fraction of trade between China and Europe. Maritime shipping remains dominant, and air freight carries more than 13 times the value of goods compared to rail. For the China-Europe railways and their proponents, taking on a much larger share of trade will require overcoming several economic and technical challenges.
+
+Economically, the biggest challenges are the China-Europe trade imbalance and competition from other transport modes. In 2016, the EU imported over $190 billion more goods from China than it exported to China,30 an imbalance that is reflected in rail transport patterns. Stakeholders estimate that roughly 60 to 70 percent of railway shipments are westbound, leaving only 30 to 40 percent of shipments eastbound.31 On those eastbound trips, it is not uncommon for containers to be empty. Other containers are sent back by sea. To be sure, this is not a new problem, nor one that is limited to rail or even trade between China and Europe. At any time, some 45 percent of dry bulk cargo ships, which typically carry commodities, are traveling without cargo.32 The shipping giant Maersk estimates that it spends $1 billion repositioning empty containers each year.33
+
+This situation could change at the margins in the future, but the overall trade imbalance will remain a challenge. Better data analytics could help reduce empty container costs. Some analysts see a business opportunity for Russia, which could fill empty containers in St. Petersburg and ship them by sea to Vladivostok.34 Russia could also encourage eastbound trade by lifting sanctions on EU foodstuffs. Perhaps the most helpful development would be if China’s domestic consumption rises and leads to higher demand for European imports. In the meantime, someone will have to pick up the tab for empty containers.
+
+Rail will need to compete with air and maritime alternatives. Maritime shipping and air freight provide the cheapest and fastest options, respectively, and it is unclear how many more companies will choose the middle option that rail provides. Even with rail’s subsidies, maritime shipping is roughly one-third of the cost. Companies are willing to pay only a $200 premium for an improvement in 10 days, according to one survey.35 Despite these challenges, the International Union of Railways study suggests rail’s growth will come more from sea than air.36
+
+Other evidence suggests rail poses a greater challenge to air. In public, air-freight executives have appeared more concerned with China-Europe railways than maritime shipping executives. 37 Given constraints on rail’s capacity, which are considered later, the biggest gains might be in attracting higher-value products. Compared to rail, air carries twice as much cargo by weight but more than 13 times as much by value, as Figure 2 highlighted in the introduction. If capturing value is rail’s main objective, air is its main competition.
+
+Of course, this modal comparison simplifies a more complex reality on the ground. Road is another transport option, but it has carried less cargo in terms of both value and weight in recent years, as Figure 2 showed. The emergence of more rail routes could open opportunities for multimodal shipping. It is also possible that rail does not significantly alter either current flows by air or sea, but takes some fraction of their future growth. Reflecting these complexities, and the absence of centralized data, there was no consensus among the stakeholders interviewed for this study as to whether maritime or air freight was the easier target.
+
+The future of rail subsidies is a critical factor. Nearly all the stakeholders interviewed for this report mentioned subsidies as a key driver of recent growth, but they had different expectations about when these subsidies might end. Some believe subsidies could be phased out in 2018 or 2019. Others see Xi’s term in office as the primary determinant, and they expect subsidies to remain until 2022, and potentially even longer.
+
+China will likely attempt to reduce subsidies gradually, rather than doing away with them abruptly. One study estimates that Chinese subsidies average roughly $3,500 per FEU and could be reduced to $2,500 per FEU without harming operations.38 The International Union of Railways study estimates that China-Europe rail volume will increase to 218,500 FEU and 371,000 FEU by 2027,39 in pessimistic and optimistic scenarios, respectively. If rail volume rises to those level and subsidies decline to $2,500 per FEU, that implies annual subsidies of $546 million–$927 million. Those are small values when compared to the BRI’s overall size, which has been estimated at $1–4 trillion for infrastructure.40 Given the political importance China has attached to these routes, it is possible subsidies could be justified as an advertising budget for promoting the BRI and China’s image more generally.
+
+Infrastructure and environmental changes in the coming years could make it even more difficult for rail to compete. Around 2024, China is projected to displace the United States as the world’s largest aviation market.41 The expansion of aviation infrastructure will make air freight more accessible, including for customers that previously had to choose between shipping via rail or sea. Maritime shipping may also benefit from rising temperatures in the Arctic, where sea routes are remaining open for longer each year. Of course, other changes could work in rail’s favor, including marginal improvements due to learning and better coordination among railway operators, terminal owners, and national authorities.
+
+Figure 4: Capacity by Transport Mode
+
+Sources: Jean-Paul Rodrigue, The Geography of Transport Systems; “Containers,” World Shipping Council, 2018.
+
+A basic challenge is that China-Europe trains carry a smaller amount of cargo compared to today’s ships. As Figure 4 illustrates, a single block train can carry 12 times more than a single aircraft, but only 0.45 percent as much as today’s largest ship. Obviously, taking on a significantly greater amount of trade will require many more train trips. Meeting the International Union of Railways study’s optimistic scenario of 371,000 FEU each year will require sending roughly 24 trains a day, a nearly five-fold increase over the 2016 level of 5 trains per day.
+
+But capacity constraints could stand in the way of greater rail volumes. The main challenge is improving rail terminals, particularly those at change-of-gauge stations, and the rail system within Europe. Europe and China employ the standard 1,435-mm gauge, whereas Russia, Kazakhstan, and other former Soviet states use a 1,524-mm gauge. The difference in gauge means that no train travels the full length from China to Europe but rather containers are transferred from one train to another. New rail infrastructure within China and transfer facilities on its border have helped alleviate pressure in Asia. As the principal entry point into the EU, the Polish and Belarusian border (Figure 5) is a key chokepoint.42
+
+Figure 5: Chokepoint at the Belarus/Poland border (2017)
+
+
+
+These are also capacity challenges within the EU railway network. Most of Europe’s rail system is significantly older than China’s, and capacity constraints and modernization projects can create bottlenecks. In 2017, China-Europe trains experienced delays of up to six days.43 The EU and its member states are making investments that will help alleviate bottlenecks, but these improvements will take time. The Trans-European Transport Network (TEN-T), a European Commission plan to improve transport, outlines actions up to 2030.44 Meanwhile, even if these services remain faster overall than maritime shipping, customers value reliability. Delays remain a major risk for China-Europe trains, the main selling point for which is speed.
+
+Speed Without Scale
+
+This examination of China-Europe railways has provided two views. The first view, considering these services in isolation, is dramatic. From virtually nothing, they have grown rapidly. The network has expanded to link more Chinese and European cities. These services are faster, cheaper, and more frequent. Increasingly, they carry not only more goods but also a greater variety of goods. China’s political and financial support has paved the way.
+
+The second view is more modest. In a broader trade context, the China-Europe railways present a new offering that has not yet grown from niche to mainstream. Future growth is limited by trade imbalances, the comparative value that maritime shipping offers, and infrastructure constraints. None of these challenges is likely to vanish anytime soon. In the meantime, these services will depend on Chinese subsidies, and the risk of delays will rise as they handle more cargo.
+
+An optimistic scenario for China-Europe rail growth does not dramatically alter these two views. If railways double their current share of trade by value, taking on 2.5 percent of China-Europe trade by volume, that would be a major development for those involved in the rail systems. The sheer size of the China-Europe trade relationship, which exchanged some $570 billion in goods in 2016, means that modest gains produce significant sums. Railway manufacturers, owners, operators, logistics firms, and freight forwarders all stand to gain. A set of businesses would benefit from lower inventory costs. Among cities, those located near the routes and inland, further away from the coastlines, are likely to see the most gains.
+
+But these changes do not add up to wide-ranging economic or political impacts. Maritime trade will remain dominant. The vast majority of the geographic space the railways pass through will experience no difference. The railways are not roads. They are not as accessible to the general public, and opportunities to provide services around them are limited. Of course, the public can benefit indirectly from these services, whether through taxes captured by tariffs or through benefits passed to consumers. But the emergence of China-Europe railways does not signal the return of a world in which overland trade dominates. The railways have found speed, but their scale remains limited.
+
+About the Author
+
+Jonathan E. Hillman is a fellow and director of the Reconnecting Asia Project at the Center for Strategic and International Studies in Washington, D.C.
+
+This report is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).
+
+© 2018 by the Center for Strategic and International Studies. All rights reserved.
+
+
+
+1 For a cartographic summary of these developments, see: “Historical Atlas,” Reconnecting Asia, https://reconasia.csis.org/analysis/historical-atlas/.
+
+2 UN Economic Commission for Europe, “Information from participants on recent developments in transport infrastructure priority projects on EATL routes,” May 28, 2015, https://www.unece.org/fileadmin/DAM/trans/doc/2015/wp5-eatl/id15-05e.pdf.
+
+3 Xiang Bo, “Over 6,200 train trips made between China, Europe in 6 years,” Xinhua, December 26, 2017, http://www.xinhuanet.com/english/2017-12/26/c_136852817.htm.
+
+4 “New rail routes between China and Europe will change trade patterns,” The Economist, September, 16, 2017, https://www.economist.com/news/business/21728981-new-silk-railroad-will-challenge-airlines-and-shipping-firms-new-rail-routes-between-china.
+
+5 Roland Berger, “Eurasian Rail Corridors: What Opportunities for Freight Stakeholders?” International Union of Railways, October 2017, https://uic.org/IMG/pdf/corridors_exe_sum2017_web.pdf.
+
+6 Patrick Sawer, “East Wind train blows in from China to re-open Silk Road trail,” The Telegraph, January 18, 2017, http://www.telegraph.co.uk/news/2017/01/18/east-wind-train-blows-china-re-open-silk-road-trail/.
+
+7 Tracy McVeigh, “Silk Road route back in business as China train rolls into London,” The Guardian, January 14, 2017, https://www.theguardian.com/world/2017/jan/14/china-silk-road-trade-train-rolls-london.
+
+8 Vladimir Kosoy, “A Future of EU-EAEU-China Cooperation in Trade and Railway Transport,” Infrastructure Economics Centre, https://www.unece.org/fileadmin/DAM/trans/doc/2017/wp5/WP5_30th_session_Mr_Kosoy.pdf.
+
+9 Chamber of Commerce of United States, “Land Transport Options between Europe and Asia: Commercial Feasibility Study,” July 2006, http://www.osce.org/eea/41310?download=true.
+
+10 Ibid.
+
+11 Wade Shepard, “How Those China-Europe ‘Silk Road’ Trains First Began,” Forbes, June 29, 2016, https://www.forbes.com/sites/wadeshepard/2016/06/29/the-story-of-how-those-china-europe-silk-road-trains-first-began/#523ac36f1734.
+
+12 SinoTrans Limited, “Introduction of Rail Transportation Business,” June 2, 2017, https://fiata.com/fileadmin/user_upload/documents/recent_views/Working_Group_OSJD_FIATA/OSJD-FIATA_Odessa_2_June_2017_-_Presentation_Zhao_Ning.pdf.
+
+13 CSIS interviews, November 2017–February 2018.
+
+14 CSIS interviews, November 2017–February 2018.
+
+15 Greg Knowler, “China-Europe rail shippers move from ad hoc to contracts,” Journal of Commerce, January 17, 2018, https://www.joc.com/rail-intermodal/shift-china-europe-rail-strategy-shippers-move-service-contracts_20180117.html.
+
+16 Standard shipping containers are 20 feet long or 40 feet long, referred to as 20-foot equivalent units (TEUs) and 40-foot equivalent units (FEUs), respectively.
+
+17 Far East Land Bridge, “Container transportation between Asia and Europe via the Trans-Siberian Railway,” http://felb.world/felb_htm_files/Company_presentation_WEBSITE_english.pdf.
+
+18 “New rail routes between China and Europe will change trade patterns,” The Economist, September, 16, 2017, https://www.economist.com/news/business/21728981-new-silk-railroad-will-challenge-airlines-and-shipping-firms-new-rail-routes-between-china.
+
+19 “New China-Europe freight train links China’s Jiangxi, Uzbekistan,” Xinhua, July 9, 2017, http://db.silkroad.news.cn/en/2017/0710/295311.shtml.
+
+20 Keith Barrow, “China-Europe rail freight: in it for the long-haul,” International Railway Journal, January 17, 2018, http://www.railjournal.com/index.php/freight/china-europe-rail-freight-in-it-for-the-long-haul.html. See also: Eugene Gerden, “China may heavily subsidize container rail shipments to Russia,” JOC, January 29, 2016, http://www.joc.com/rail-intermodal/international-rail/asia/china-may-heavily-subsidize-container-rail-shipments-russia_20160129.html.
+
+21 Babak Besharati et al., “The Ways to Maintain Sustainable China-Europe Block Train Operation,” Business and Management Studies 3, no. 3 (September 2017): https://doi.org/10.11114/bms.v3i3.2490.
+
+22 “China targets 2018 rail investment of $113 billion, lowest since 2013,” Reuters, January 1, 2018, https://www.reuters.com/article/us-china-rail/china-targets-2018-rail-investment-of-113-billion-lowest-since-2013-idUSKBN1ER042.
+
+23 “Slow Steaming Could Be Best Bet for CO2 Reductions,” The Maritime Executive, October 18, 2017, https://www.maritime-executive.com/article/study-slow-steaming-may-be-best-bet-for-co2-reductions#gs.BcaT6wo.
+
+24 Eurostat, European Commission, http://ec.europa.eu/eurostat.
+
+25 Eurostat, “China-EU—international trade in goods statistics,” http://ec.europa.eu/eurostat/statistics-explained/index.php/China-EU_-_international_trade_in_goods_statistics.
+
+26 UN Economic Commission for Europe, “Draft report of the phase III of the Euro-Asian Transport Links project,” January 20, 2017, http://www.unece.org/fileadmin/DAM/trans/doc/2017/wp5-eatl/eatl_id17-01e.pdf.
+
+27 Martin Guo, “2016–2017 China National Image Global Survey,” Kantar, January 11, 2018. https://us.kantar.com/business/brands/2018/2016-2017-china-national-image-global-survey/.
+
+28 UN Economic and Social Commission for Asia and the Pacific, “Development of seamless rail-based intermodal transport services in Northeast and Central Asia,” April 2016, http://www.unescap.org/sites/default/files/Seamless%20Transport%20report_Kazakhstan.pdf.
+
+29 Greg Knowler, “China’s first perishables block train leaves for Russia,” JOC, February 8, 2018, https://www.joc.com/rail-intermodal/international-rail/europe/china%E2%80%99s-first-perishables-block-train-leaves-russia_20180208.html.
+
+30 The European Commission, “China,” http://ec.europa.eu/trade/policy/countries-and-regions/countries/china/.
+
+31 CSIS interviews, November 2017–February 2018.
+
+32 Giulia Brancaccio, Myrto Kalouptsidi, and Theodore Papageorgiou, “Geography, Search Frictions and Endogenous Trade Costs,” The National Bureau of Economic Research, July 2017, http://www.nber.org/papers/w23581.
+
+33 Peter Buxbaum, “Getting a Handle on Containers,” Global Trade, September 14, 2016, http://www.globaltrademag.com/global-logistics/getting-handle-containers.
+
+34 Besharati et al., “The Ways to Maintain Sustainable China-Europe Block Train Operation.”
+
+35 Dan He and Wenchao Li, “Measures on Sustainable Development of China Railway Express Driven by Port Cities,” China Business and Market 30, no. 265, (October 2016): http://zglt.chinajournal.net.cn/WKB3/WebPublication/paperDigest.aspx?paperID=1d0915d8-ceee-440e-8a94-b6572bc73993.
+
+36 Berger, “Eurasian Rail Corridors: What Opportunities for Freight Stakeholders?”
+
+37 For example: “China-Europe rail freight poses a growing threat to air cargo,” Railway Gazette, March 16, 2017, http://www.railwaygazette.com/news/freight/single-view/view/china-europe-rail-freight-poses-a-growing-threat-to-air-cargo.html; and Greg Knowler, “Belt and Road: Rail growth expected to have little effect on container carriers,” IHS, November 30, 2017, https://fairplay.ihs.com/container/article/4294601/belt-and-road-rail-growth-expected-to-have-little-effect-on-container-carriers.
+
+38 Besharati et al., “The Ways to Maintain Sustainable China-Europe Block Train Operation.”
+
+39 Berger, “Eurasian Rail Corridors: What Opportunities for Freight Stakeholders?”
+
+40 “Our bulldozers, our rules,” The Economist, July 2, 2016, https://www.economist.com/news/china/21701505-chinas-foreign-policy-could-reshape-good-part-world-economy-our-bulldozers-our-rules. Some estimates for fully implementing the BRI are even higher, reaching $8 trillion.
+
+41 International Air Transport Association, “IATA Forecasts Passenger Demand to Double over 20 Years,” October 28, 2016, http://www.iata.org/pressroom/pr/Pages/2016-10-18-02.aspx.
+
+42 CSIS interviews, November 2017–February 2018.
+
+43 Greg Knowler, “Rising Asian volumes choke Europe rail terminals,” JOC, August 9, 2017, https://www.joc.com/rail-intermodal/international-rail/asia/rising-asian-volumes-choke-europe-rail-terminals_20170809.html.
+
+44 European Commission: Mobility and Transport, “About TEN-T,” March 15, 2018, https://ec.europa.eu/transport/themes/infrastructure/about-ten-t_en.
+
+      

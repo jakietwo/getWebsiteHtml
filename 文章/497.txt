@@ -1,0 +1,81 @@
+
+        Beyond the Whiplash of the ZTE Deal
+June 8, 2018After weeks of uncertainty, on June 7, Commerce Secretary Wilbur Ross finally confirmed a deal allowing the Chinese telecom company, ZTE, to resume business with U.S. companies, preventing ZTE’s collapse. ZTE will pay a $1 billion fine, set up an in-house monitoring team of U.S. experts, and fire its Board of Directors. In exchange, the United States will revoke the ban on ZTE to buy U.S. parts or services, effectively negating the April sanctions. The deal follows a period of whiplash, in which the fate of ZTE hung in limbo as officials struggled to reach an agreement amid intensifying internal opposition inside Washington.
+
+The development may appear to be a victory and a positive development in the bleak saga of U.S.-China trade friction. A reprieve for ZTE will probably lead Beijing to restart of review of Qualcomm’s proposed $44 billion deal to buy Dutch chip maker NXP Semiconductors—a deal that would help Qualcomm’s growth at a moment when the company is positioning itself as a leader in 5G amid growing concerns over Huawei’s dominance. Beijing could also make a concession by rolling back tariffs on U.S. farm products. But ultimately, these potential gains would only get Beijing to walk back its response to the misguided U.S. tariff plan.
+
+More crucially, the deal fails to address the deeper structural challenges posed by China’s technology policies—particularly for information and communication technology (ICT) sectors—in a lasting, comprehensive way. To be sure, U.S. companies and their employees who sell to ZTE will likely breathe a sigh of relief. But it does not move us forward on the broader issues, so much as it takes us back to the status quo, while undermining U.S. credibility by confirming that U.S. sanctions are open for bargaining when other foreign policy or trade interests are at play. While it is not unusual for sanctions to be lifted, the ZTE case is unprecedented in just how quickly the process unfolded once President Trump saw he had leverage over Beijing.
+
+The Challenge
+
+The Chinese leadership is building the world’s most extensive ICT and cyberspace governance system. A blend of national strategies, laws, regulations, and standards comprise President Xi Jinping’s vision of building China into a “cyber superpower” and “science and technology superpower.” Beijing has moved rapidly to construct a policy and legal framework that will strengthen the Communist Party’s hand not just over online content, but over the digital economy and internet overall. Xi has repeatedly stressed the need to bolster China’s domestic ICT industry and reduce reliance on foreign core technologies.
+
+The build-out of China’s ICT governance system has implications for U.S. companies in China, as well as for Chinese investment flowing into the United States and globally. As this system quickly evolves, U.S. policymakers must develop an accurate understanding of its elements and implications to correctly calibrate a correct response, amid persistent national security and commercial challenges.
+
+A targeted approach is key. Without one, the United States risks undermining its own economic prosperity and ability to maintain leadership in technology innovation amid tightly intertwined U.S.-China supply chains and markets. Three suggestions are key to a successful strategy. First, Beijing is not going to change its ICT policies because of unilateral U.S. pressure. The United States needs to work with allies and partners to create international pressure on Beijing. Second, Chinese industry is not monolithic. Some Chinese companies are aligned with U.S. partners on regulation that undermines global interoperability and can therefore serve as local advocates. This means the United States needs to foster channels for engagement with some Chinese commercial companies. Third, since China will continue to invest in being a technological leader regardless of U.S. actions, we must play offense by investing in ourselves.
+
+What Beijing Requires and Why It Matters
+
+China’s June 2017 Cybersecurity Law is the centerpiece of a broad ICT regulatory system with dozens of interlocking parts. There are three main ICT regulatory concerns for U.S. companies operating in China: “black box” cybersecurity reviews, restrictions on cross-border data transfer, and an overall trend toward localization under the guise of security.
+
+Cybersecurity Reviews
+
+U.S. companies in China now face at least six different ICT security reviews that can be used for political purposes to delay or block market access. Chinese government agencies conduct these reviews with unclear jurisdiction and metrics of evaluation. In some cases, even the entities conducting the evaluations are unknown. According to several U.S. industry representatives, the reviews are essentially a “black box.” Some companies have lobbied the Chinese government to accept international security certifications (such as through the International Organization for Standardization) as a basis for compliance, but if and how China will adhere is unclear. The process’s total opacity means these reviews can easily become political tools, as well as channels for the government to gain access to source code.
+
+The different cybersecurity reviews are as follows:
+
+
+	The Multi-Level Protection Scheme (MLPS): MLPS has been managed by the Ministry of Public Security (MPS) since 2006. This review involves ranking networks by level of sensitivity and then assigning certain compliance obligations.
+	Cybersecurity Review Regime (CRR): The CRR, issued in “interim” form in June 2017, requires network products and services used in critical information infrastructure (CII) to undergo cybersecurity review. The “interim” document establishing the CRR states that the review will focus on “other risks that could harm national security”—essentially preserving government authority to interpret the scope of reviews however it wants. Some industry experts believe that the CRR will involve inspections of backgrounds and supply chains of network and service providers, although the practical implications of this system remain murky.
+	Reviews of cross-border data transfer: There will be separate security review of data that companies seek to transfer outside of mainland China. The specific scope is not yet clear, but according to industry sources inside China, Chinese authorities will likely take a broad and ambiguous approach to enforcement.
+	Cross-border communications: Although not technically a security review, in 2017, China’s Ministry of Industry and Information Technology (MIIT) began requiring that companies use only state-approved virtual private network (VPN) providers and that cloud service platforms use state-approved channels for communications with overseas facilities. In practical terms, this means that the government reviews and approves the channels that companies use for all international connectivity.
+	Internet technologies and apps: New technologies and apps used in internet news services also have a new security review process. Service providers must conduct security evaluations before introducing new technologies or applications on their platforms, but details are also murky.
+	A possible Chinese version of the Committee on Foreign Investment in the United States (CFIUS): Much less is known about another possible kind of security review of foreign investment. China’s 2015 National Security Law suggested broadly that there could be a new body, perhaps akin to CFIUS.
+
+
+Data Localization
+
+Many U.S. firms in China already assume that data localization requirements will become the de facto reality for their China operations. For example, some Chinese companies have already stopped sending their data to foreign companies that have the ability to store and process data within mainland China, even without being required. Provisions in draft form would require certain kinds of data to be stored within mainland China and approvals for cross-border data transfer.
+
+According to Article 37 of China’s cybersecurity law: “Personal information and other important data gathered or produced by critical information infrastructure operators during operations within the mainland territory of the People’s Republic of China, shall store it within mainland China.” The government is still defining these key terms, and recently, Chinese officials have been asking U.S. government and business leaders for advice in defining critical information infrastructure, suggesting their parameters are still in flux.
+
+There are some beginning measures. First, companies will have to comply with the “Measures on Security Assessment of Cross-border Transfer of Personal Information & Important Data (Draft for comment)” by December 2018. Several internal versions of the draft have been quietly circulated in the past few months. According to the latest publicly available draft, all “network operators” will be subject to assessments before exporting data out of China, which could mean anyone who owns and operates an information technology (IT) network.
+
+In addition, the National Information Security Standardization Committee (TC260)—China’s cybersecurity standards body—has fleshed out technical guidelines assessing cross-border data transfers. It gives a sweeping definition of “important data” spanning that which can “influence or harm the government, state, military, economy, culture, society, technology, information…and other national security matters.” “Network operators” could mean any IT network owners or managers, meaning e-commerce and even non-ICT companies could fall under CII.
+
+To help define these terms, Chinese regulators study, through numerous Track 1.5 dialogues, how countries like the United States define them. While regulators show willingness to talk, how these exchanges impact Beijing’s policy trajectory is unclear, since Beijing views this primarily as a national security rather than trade issue.
+
+There are also competing Chinese voices, advocating for more alignment with international practices. They can be important allies for the United States and should not be disregarded by U.S. policymakers. Some Chinese players believe that cutting off cross-border data flows will hurt China’s global economic goals; in fact, Chinese industry’s extensive pushback has slowed cross-border data flow measures.
+
+Localization Push under “Secure and Controllable”
+
+Even in the absence of specific regulation, U.S. companies face de facto localization pressures in China. Xi’s administration has emphasized its desire to bolster China’s domestic ICT industry and reduce reliance on foreign core technologies, and the government is likely doubling down on indigenous development in advanced semiconductors, operating systems, cloud systems, and artificial intelligence. For several years, the government has used the phrase “secure and controllable” to link localization with security. Chinese companies have a competitive advantage when it comes to meeting these new security standards, putting foreign ICT companies in a weaker negotiating position and adding pressure that they cooperate with local partners. The phrase’s opacity gives Chinese government and industry broad discretionary authority to launch intrusive security audits or reject foreign suppliers altogether. While many regulations are only pending, Chinese government and industry are moving forward with informal implementation by asking foreign vendors to certify that they are “secure and controllable.”
+
+Why the China Market Matters
+
+U.S. companies stay in this high-risk and restrictive market because of its size—China accounted for $23 billion of U.S. ICT exports in 2017—and its importance in the global supply chain. Further, if major U.S. companies cannot operate in China, they cede ground to Chinese companies, since customers operate globally.
+
+China is not closed to all U.S. ICT firms. But the costs required to operate in China are increasing, particularly in high-tech sectors, including ICT infrastructure and new certifications that can be used to delay or block market access. Taken together, these new regulatory risks are now leading companies to reassess the trade-offs required to succeed in China.
+
+Recommendations
+
+China’s ICT policies and approach to developing its domestic industries pose substantial national security and commercial risks to the United States. We are correct to address these issues and seek areas where we have substantial leverage with the Chinese government. After all, Beijing does not change its behavior absent external pressures.
+
+But U.S. and Chinese technology development, supply chains, and commercial markets are tightly intertwined, and a unilateral approach that isolates the United States will undermine U.S. economic prosperity, our technological leadership, and capacity for innovation. In confronting China, the United States must have a clear understanding about the consequences of our actions and where there will be costs to ourselves.
+
+First, the United States should coordinate with partners to create international pressure on Beijing, which has proven successful in the past. For example, in 2009 a coalition including the United States, Japan, and Europe combined efforts to pressure the Chinese government to suspend a requirement that screening software with surveillance capabilities be installed on computers sold in China.
+
+Conversely, unilateral action alone compels China to retaliate against U.S. companies and to double down on the very structural problems we seek to address. Indeed, the Chinese government has prepared retaliation lists of U.S. companies in China and demonstrated willingness to retaliate, making U.S. companies with viable domestic competitors in China particularly vulnerable. This is not just a commercial issue but a matter of security: many multinationals in China would be forced to rely on Chinese ICT companies for their business operations if U.S. ICT companies left the market.
+
+Second, the United States should work with those Chinese private-sector players whose interests are more aligned with U.S. interests than some may expect. Many times, Chinese industry has been an important ally to U.S. companies on pending regulatory issues. Companies like Alibaba looking to expand into global markets have an interest in allowing data to flow across borders. Because much of China’s ICT regulatory system is still in draft form, the United States now has an important window to work with Chinese industry to push Beijing toward alignment with international best practices. These local champions will become less helpful as trade tensions spill over to affect the broader bilateral relationship.
+
+Third, the United States must play offense by investing in its own research and development; infrastructure; science, technology, engineering, and mathematics education; and a capital market that rewards investment. China will continue to invest in closing the technology gap with the United States regardless of our actions, so we must be able to compete through our own technological and economic leadership.
+
+(This Commentary is an adaption of congressional testimony before the House Energy and Commerce Committee, Communications and Technology Subcommittee, on the bigger policy issues left unresolved by the ZTE deal. It originally was published as a longer essay in Lawfare.)
+
+Samm Sacks is a senior fellow with the Technology Policy Program at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Maria Krol Sinclair is a research assistant with the CSIS Freeman Chair in China Studies.
+
+Commentary is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).
+
+© 2018 by the Center for Strategic and International Studies. All rights reserved.
+      

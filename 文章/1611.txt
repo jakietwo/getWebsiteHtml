@@ -1,0 +1,145 @@
+
+        What to Look for in the FY 2020 Defense Budget Request
+CSIS BriefsJanuary 31, 2019Download the Brief
+
+ 
+
+
+The Issue
+
+Expectations have been building for the FY 2020 defense budget request, a budget that acting secretary of defense Shanahan has called the  “masterpiece.”  While the administration’s FY 2019 defense budget of $716 billion is fully funded through the remainder of the current fiscal year, a  surprising  number of  statements  on defense spending from the White House over the past several months have generated significant discussion and uncertainty around the FY 2020 request, calling into question whether or not it will be a masterpiece after all. In addition to waiting for the final topline figure, questions remain over how the budget will be composed, whether its priorities align with those of the  National Defense Strategy  (NDS), and how much detail it provides on the administration’s plans for national security space reorganization. The request also comes in the leadup to the debate over raising the Budget Control Act (BCA) budget caps for FY 2020 and FY 2021. As the Office of Management and Budget (OMB) works on finalizing the request, experts from the CSIS International Security Program outline what to look for in the FY 2020 defense budget below.
+
+
+
+Watch the Live Event
+
+
+
+
+What’s the Topline Defense Budget, and How Will DoD Distribute the Money? 
+
+By Mark F. Cancian
+
+The FY 2020 defense budget request has already had a wild ride, and it has not even been submitted yet. Last February, in its FY 2019 defense budget request, the Trump administration forecasted a total national defense budget (including base Department of Defense (DoD) funding, Overseas Contingency Operations (OCO), and nuclear activities—the “050” budget function in congressional budget terms) of $733 billion for FY 2020. In October, the president cut that projection to  $700 billion  over concerns about the size of the federal deficit. In December, then-secretary of defense James Mattis objected, joined by then-House Armed Services Committee chairman Mac Thornberry (R-TX) and Senate Armed Services Committee chairman Jim Inhofe (R-OK). The president reportedly  reversed  himself and increased the budget to $750 billion. What should we be looking for when this fluctuating budget is finally presented?
+
+
+	Is the topline actually $750 billion? The president implied that when he visited the Pentagon in mid-January and, in his customary understated way, said,  “I’ve given you the biggest budget in our history, and I’ve now done it two times. . .and I am about to do it three times.”  Nevertheless, after the wild ride of the fall, a $750 topline is not guaranteed. There have been some rumors that the actual number may be closer to $745 billion—still a large increase from the $716 billion in FY 2019.
+	 
+	How is the money distributed?  Past experience  indicates that a $750 billion “050” budget would consist of approximately $650 billion for the DoD base budget, $70 billion for OCO, and $30 billion for defense-related activities in the Department of Energy (DoE) and other government agencies. However, some of the money that was added in December might have been put into OCO rather than the base. That would produce a distribution of $633 billion for the base (the amount forecast last year), $87 billion for OCO, and $30 billion for DoE/other activities. This would indicate that OMB Director and acting White House chief of staff Mick Mulvaney, concerned about future spending, wanted to keep the base budget lower to signal that the increase was temporary (more on this in the next section).
+	
+	Another interesting possibility would be the use of some sort of special fund for the amount above $733 billion. For example, in the FY 2015 budget, the Obama administration proposed the  “Opportunity, Growth, and Security Initiative” (OGSI)  to illustrate where funds would go if the administration’s proposed increases were implemented. However, the OGSI went nowhere in the Republican Congress. If OMB got the upper hand in budget negotiations, it might use such a mechanism as a way to treat some of the budget increase separately and, by implication, indicate that it was not a core element of the budget.
+	 
+	Is funding for “the wall” included in DoD’s budget? Over the course of the shutdown, the president has repeatedly threatened to declare a national emergency in order to build barriers on the southern border. Under  10 USC 2808, the president can use unobligated DoD military construction money to build facilities that are not otherwise authorized. However, using this authority would entail cutting a significant amount of construction that the military had already planned. FY 2020 funding could either backfill projects that were cut in the event a national emergency is declared or provide additional money in the future.
+	 
+	Are there significant management efficiencies? The concept last year was that, after Congress passed a significant increase in the BCA spending caps for FY 2018 and FY 2019, the topline in FY 2020 and beyond would be flat in constant dollar terms. DoD would find  management efficiencies  to create enough budget headroom to start the new programs that the national defense strategy implied. So far, DoD has talked only about processes for finding efficiencies and has identified  few actual savings. The fact that no one in the Pentagon is screaming about cuts indicates that there are probably not many efficiencies in FY 2020. Further, the Army has been quite open about its process (“night court”) for cutting lower priority investment and operations programs in order to fund new initiatives. It has not been able to fund them through efficiencies, and that is likely the case for the other services. A temptation, but a great mistake, would be to include a wedge in budget projections for "future management savings to be identified." If the administration has not identified savings now, they never will, and a wedge just leaves a budget hole that must be filled later, disrupting programs and causing waste.
+
+
+Of course, the president proposes, but Congress disposes. The FY 2020 budget has to get through a highly partisan Congress. The Democrats, who now control the House, have been moving to the left. Many have expressed skepticism about defense spending and would give priority to domestic needs instead. They will certainly use their new committee power to highlight issues of concern such as nuclear modernization, arms sales, and military posture toward Russia. Increasing DoD’s budget challenges, the president stated publicly that $750 billion was  “a negotiating tactic”  and may not be firmly committed to it.
+
+The wild ride isn’t over yet.
+
+Will the Administration Transfer Enduring Costs in Overseas Contingency Operations Back into the Base Budget? 
+
+By Seamus P. Daniels
+
+Of the $733 billion that the FY 2019 request originally forecasted for the total national defense budget in FY 2020, the Department of Defense projected $73 billion in funding for the OCO account. The FY 2019 request, however, also included a  plan  to transfer $53 billion from OCO back into the base budget in FY 2020. The planned transfer came as an attempt to crack down on “enduring costs” in the OCO budget—activities that would endure even if the wars in Iraq, Afghanistan, and Syria ended and should instead be funded under the base budget.1Due to OCO’s exemption from the 2011 BCA spending limits, the account was used as a loophole by both Congress and DoD to fund certain activities that should have been subject to the caps. The  Congressional Budget Office (CBO)  estimated that approximately 70 percent of the FY 2019 OCO request for $69 billion was enduring costs.
+
+This practice raises serious questions regarding the transparency and accountability with which the government pays for and conducts operations in Afghanistan, Iraq, and Syria and generated criticism from members of Congress including then-representative Mick Mulvaney. In its  FY 2016 request, the Obama administration stated that it would begin transitioning OCO enduring costs back to the base budget “beginning in 2017 and ending by 2020.” Yet the Department released no plan for the transfer until the FY 2019 request, the first budget developed under the Trump administration with Mulvaney at the helm of OMB.
+
+For an administration that appears to prioritize  cuts to federal spending  (at least on the nondefense side) and cutting the deficit, the return of original-BCA level budget caps for FY 2020 and FY 2021—the final two years of spending limits on the discretionary budget—poses a significant challenge to its goal of growing the defense budget while transferring enduring OCO costs back to the base.
+
+The budget cap for defense spending in FY 2020 is currently set at $576 billion. To match DoD’s original projection of a $733 billion topline including $73 billion in OCO, the budget cap for the next fiscal year would have to be raised by $84 billion ( $576B + $73B (OCO) + $84B = $733B). If the administration intends to stick with its plan to transfer $53 billion from OCO to the base budget, it would have to raise the cap by an additional $53 billion to match the topline projection for a total increase of $137 billion ($576B + $20B (OCO) + $137B = $733B). If the topline is closer to $750 billion as reported, the spending cap would have to be increased by $154 billion for FY 2020 ( $576B + $20B (OCO) + $154B = $750B).
+
+With the current divided Congress, any potential budget deal would most likely have to raise both defense and nondefense spending caps equally based on historical precedent (see Figure 1). Thus, to match the $733 billion projection for the defense budget in FY 2020, both the defense and nondefense caps would have to be increased by $84 billion for a total base increase of $168 billion. As Figure 1 demonstrates, in previous budget agreements, OCO has been used to increase defense funding significantly above the budget caps—a palatable deal for both parties as Democrats could claim to secure an equal increase in defense and nondefense budget caps while the Republican Party could claim a greater increase for defense spending overall.2
+
+Figure 1. Adjustments to the Budget Caps in Previous Budget Agreements* 
+
+*Data taken from  OMB Sequestration Update Report. OCO does not include emergency requirements or disaster relief funding. FY 2019 defense OCO is based on FY 2019 appropriations. FY 2019 nondefense OCO is based on the conference report for the FY 2019 State, Foreign Operations, and Related Programs Appropriations Bill that is yet to be passed by Congress. 
+
+Should the administration stick with its plan to transfer $53 billion in enduring OCO costs back to the base budget in FY 2020, it will likely need to increase the defense and nondefense budget caps by $274 billion for the next fiscal year. This could prove to be a sticking point in the administration’s plans to limit overall federal discretionary spending and might be more than Congress can accept.
+
+The FY 2020 budget request should indicate the administration’s position in the upcoming debate over raising the BCA spending limits. Ironically, Mick Mulvaney, the most vocal critic of the OCO “slush fund,” may be forced to exploit the loophole if he intends to limit spending and cut the deficit.
+
+How Will Modernization Funding in the FY 2020 Budget Align with the National Defense Strategy? 
+
+By Andrew P. Hunter
+
+If strategy and budget are to be meaningfully aligned, it requires keeping the long-term costs and benefits of decisions in mind as you expend today’s dollars. Since modernization funding takes multiple years to generate its promised outcomes, it seems natural that it should be quickly aligned with the NDS. To date, however, there has been an almost comical mismatch between DoD’s investment plans and the NDS. In many ways, this is the mirror image of what happened when the deepest cuts of the BCA were triggered suddenly in 2013. While the cuts could have been implemented strategically if phased in gradually, they were instead implemented suddenly and taken from any place they could be. Just so, the unexpected rapid influx of modernization funding received by DoD in the FY 2018 and FY 2019 budgets had to be allocated quickly to programs ready to spend money lest this funding expires before it could be used. Existing production lines with spare capacity were the immediate beneficiaries even though these investments were not necessarily aligned with the strategy and, in many cases, were the direct competitors of investments that were more strategically aligned.
+
+The overriding question of the FY 2020 budget then is whether we finally see a fundamental shift in investment funding in the direction of the NDS. The NDS called for a focus on peer competition, a new relationship with the industrial base, and a concerted effort to capture the high ground in key emerging technologies. How these priorities are reflected is likely to vary substantially between the services, partly as a result of differing service cultures and partly as a result of how significant of a change the NDS requires in their plans. The Air Force’s top modernization priorities (the F-35, KC-46, B-21, and Nuclear Modernization) were already geared toward peer competition, so the main question will be the pace of the next tier of priorities (T-X, Battlespace Awareness, and Light Attack) and how emerging technologies such as artificial intelligence and directed energy can be incorporated into the existing force. Because the bulk of the Air Force’s capabilities serve to support and complement the other services, its approach will be paced in many ways by the other services’ development of new concepts of operations such as multidomain operations. A key question will be the road ahead in the modernization of space capabilities left within the Air Force’s span of control.
+
+The Army is at the other extreme. The Army’s current production lines are not optimized to deliver the capabilities required for peer competition. The FY 2020 request will likely include a dramatic reworking of Army programs to fill in key areas of deficit such as air and missile defense and long-range fires, while the service begins to transition to next-generation capabilities such as future vertical lift. While the change in the Army’s priorities is overdue, the key question remains whether it can commit sufficient funding to modernization given its traditional prioritization of force structure and readiness.
+
+The Navy is, as usual, the middle case among the services. The Navy is already deeply committed to a relatively full roster of ship programs like the Ford-class carriers, Virginia-class attack submarines, and Columbia-class nuclear ballistic missile submarines as well as the F-35C fighter. While these programs are not easily altered, these systems can be adapted to meet NDS missions without major perturbation. The Navy still has room to innovate toward the NDS through programs such as Future Frigate and the MQ-25 carrier-based Unmanned Aerial Vehicle (UAV) as well as smaller efforts such as Unmanned Underwater Vehicles and Surface Unmanned Vessels. The Marine Corps is likewise largely committed to a few large programs such as the F-35B and CH-53K that leave little room for dramatic change. The Marines may have the opportunity, however, with systems like small and medium UAVs.
+
+Finally, the offices in the Office of the Secretary of Defense (OSD) recently created to help shape DoD’s modernization—Acquisition & Sustainment (A&S) and Research & Engineering (R&E)—will get their first real chance in the 2020 budget to shape technology for future programs. This appears most likely to advance in areas such as hypersonic systems and asymmetric systems, where the foundation has been well-laid over the last decade. It will be harder for OSD to have an impact in newer areas such as artificial intelligence and directed energy that do not have the same degree of programmatic infrastructure in place.
+
+These dynamics suggest that the modernization picture in FY 2020 is likely to represent a major change in some areas, but not others. Plans will change sharply for the Army, but the Army will be challenged to sustain its new course over time. The Navy and Marine Corps will demonstrate much less of a shift overall but will continue to debate and drive change particularly in unmanned systems. The Air Force will seek to press ahead in transforming its force but may be sharply constrained by the decision making of the other services and OSD. And OSD may enjoy fast progress in hypersonic systems while still working to develop capacity in other technologies called out in the NDS.
+
+What Changes Will the Trump Administration Propose for Space Programs and the National Security Space Organizational Structure? 
+
+By Todd Harrison
+
+Throughout 2017, the House Armed Services Committee pushed to create a Space Corps within the Department of the Air Force, a move the Air Force leadership resisted at the time. The Senate did not include a similar provision in its version of the FY 2018 defense authorization bill, and ultimately the provision was dropped in conference committee. In February 2018, DoD submitted the FY 2019 budget request knowing it would be met with a high degree of scrutiny by Congress over its handling of space programs. Nevertheless, overall space procurement funding in the request continued its steady decline from a high of $4.5 billion in FY 2012 to $2.6 billion in the FY 2019 request, its  lowest level  in 12 years. In addition, one of the highest priority military space programs in the budget, the Next-Generation Overhead Persistent Infrared program (Next-Gen OPIR), the follow-on to the current generation of missile warning satellites, was underfunded relative to its own acquisition strategy. As shown in Figure 2, the Next-Gen OPIR program office estimated it would need $1,043 million in FY 2019, but the Air Force only requested $643 million for the program. In a  briefing  delivered to Congress later in the year, the Air Force said it planned to make up for the $400 million shortfall in FY 2019 by asking Congress to reprogram money from other accounts, as it did in FY 2018. Moreover, the five-year projection included with the budget shows that the Next-Gen OPIR program would be underfunded in future years as well, with a total shortfall of $859 million projected for FY 2020 to FY 2024.
+
+Figure 2. Funding in the FY 2019 Request for the Next-Gen OPIR Program Relative to the Program’s Plan 
+
+Data from the Department of Defense.
+
+Another major development for space programs came in March 2018 when President Trump first announced his intention to create a new military service for space, known as the Space Force. In August, the administration followed up by  releasing its plan  for beginning the transition toward a separate service for space. Since that time, however, progress has been uneven implementing that plan. The president issued a  formal order  to re-create a unified combatant command for space, U.S. Space Command in December, but the organization has not yet been stood up. The administration also announced a new Space Operations Force and Space Development Agency, but neither has been created. And the administration said a new position of assistant secretary of defense for space would be formed to lead the transition to a Space Force, but this position has not been created, and no one has been nominated for the job.
+
+With this backdrop in mind, the FY 2020 request is expected to answer several key questions when it comes to the future of national security space programs and the space organization within DoD. The key questions the budget request and associated legislative proposals should answer are:
+
+
+	Will the Space Force be organized under the Department of the Air Force or separately under a new department?
+	In addition to the Air Force’s space capabilities, what other space-related organizations and functions will the Space Force include from the Army, Navy, Missile Defense Agency, National Reconnaissance Office, and other agencies?
+	What is the transition plan for military and civilian personnel moving into the new service, how long will it take, and how will specific people be identified for inclusion in the Space Force?
+	How much additional funding will the Space Force require?
+	What programs and research activities will fall under the jurisdiction of the proposed Space Development Agency, and will it eventually be part of the Space Force?
+	Will the Next-Gen OPIR program be fully funded over the FYDP to match the program plan?
+	Will the seven-year decline in space procurement funding be reversed and begin to show an increase over the FYDP?
+
+
+Does the FY 2020 Budget Advance the Competition Agenda in the National Defense Strategy? 
+
+By Kathleen H. Hicks
+
+The foremost defense question for the FY 2020 president’s budget submission should be this: will it adequately demonstrate progress in advancing the NDS’s competition agenda?
+
+In late 2017, Patrick Shanahan, then-deputy secretary of defense,  promised  that the FY2020 submission would be the administration’s “masterpiece,” adding “It is probably the next biggest step we can take to make sure we can’t unwind the strategy.” The defining element of that strategy was to  make competition with China and Russia  ”the primary concern in U.S. national security.” Now serving as the acting secretary of defense, Shanahan has reiterated his focus on the NDS’s competition mandate, reportedly describing his priorities as  "China, China, China." 
+
+There is no doubt that China is making  worrisome progress  across a broad range of military modernization initiatives. The first two Trump defense budget requests were not primarily focused on this reality. Mattis’s  direction to the DoD  was to increase readiness in FY 2018 and to increase the capacity and capability of the joint force in FY 2019.  Shanahan referred to FY 2019 as “a step up” but not one that yet threaded the strategy through the budget.  Hence the need for the FY 2020 “masterpiece.”
+
+Whether the Department is reorienting to meet the China challenge, along with those posed by Russia and others,  will be determined not by the overall level of requested spending  —the “how much” debate that so often consumes headlines—but rather by the “how” and “how soon” of its proposed spending priorities. To assess progress on the “how,” here are three questions I will be asking:
+
+
+	Does the budget manifest advancement of operational concepts—a theory of the case for fighting and winning—and associated investments for how to overcome operational challenges posed by China?  These could include building on U.S. asymmetries, such as subsurface warfare and combined exercises with key allies using contested conditions, or reducing vulnerabilities, such as boosting cyber defenses. Most of the operational challenges posed by China are widely acknowledged. The NDS Commission, on which I served, noted several in its  final report.
+	
+	Does the budget manifest priority and investment in institutionalizing innovation?  This includes  a whole-of-Department organizational, technological, and workforce strategy  geared to ensure agility in areas like planning, experimentation, exercises, and modernization. I would be particularly encouraged to see a competitive-application joint experimentation fund, perhaps under the direction and control of the under secretary of defense for research and engineering with advice from the chairman of the Joint Chiefs of Staff.
+	
+	Is there adequate investment in science and technology overall and for key capabilities that enable the most promising concepts?  Obvious areas to look for include quantum computing, robotics, artificial intelligence, biosciences, space sciences, missile and missile exchange-relevant technology, and materials science.
+
+
+Beyond the defense budget, the president’s budget request should advance the U.S. government’s commitment to science and technology and industrial base goals, such as the National Security Innovation Base, introduced in the White House’s  2018 National Security Strategy. It will also be important to see an increase in focus on countering the kinds of gray zone challenges that China, Russia, Iran, and North Korea are pursuing below the threshold of what is traditionally thought of as warfare. This includes broad U.S. government focus on competitive strategies across the information, political, economic, and law enforcement realms.
+
+If the administration does embrace a defense competition agenda in the FY 2020 budget, it will likely have made tradeoffs displeasing to some stakeholders. Where those tradeoffs are well supported, with compelling links from objectives to concepts to capabilities, strategic boldness should be rewarded. If the Department’s approach truly breaks china, it should be accompanied by a meaningful engagement strategy for members of Congress, the American people, and the defense industry.
+
+Kathleen H. Hicks  is senior vice president, Henry A. Kissinger Chair, and director of the International Security Program (ISP) at the Center for Strategic and International Studies (CSIS) in Washington, D.C. Andrew P. Hunter is a senior fellow with the ISP and director of the Defense-Industrial Initiatives Group at CSIS. Mark F. Cancian (Colonel, USMCR, ret.) is a senior adviser with the CSIS ISP. Todd Harrison is a senior fellow with the ISP and director of Defense Budget Analysis and the Aerospace Security Project at CSIS. Seamus P. Daniels is a research associate and program manager for Defense Budget Analysis in the ISP at CSIS. 
+
+This report is made possible by general support to CSIS. No direct sponsorship contributed to this report. 
+
+CSIS Briefs  are produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s). 
+
+© 2019 by the Center for Strategic and International Studies. All rights reserved.
+
+
+
+
+1 For more on enduring costs in the OCO budget, see Todd Harrison, “The Enduring Dilemma of Overseas Contingency Operations Funding,” Defense360 CSIS, January 11, 2017, https://defense360.csis.org/enduring-dilemma-oco-funding/.
+
+
+
+2 For more on transferring OCO enduring costs to the base budget and the prospects of a budget agreement, see Seamus P. Daniels, “Bad Idea: Moving OCO Back into the Base Budget (While Negotiating a Budget Deal),” Defense360 CSIS, November 30, 2018, https://defense360.csis.org/bad-idea-moving-oco-back-into-the-base-budget-while-negotiating-a-budget-deal/.
+
+
+      

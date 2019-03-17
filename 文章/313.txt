@@ -1,0 +1,326 @@
+
+        Reenergizing the Missile Defense Enterprise
+December 11, 2018MR. THOMAS KARAKO: Thank you for coming out on a dreary day. Before we get started – we’re not going to have any problems, but if for any reason we need to exit the building, exit the room, just look out for me. I’ll figure out what to do. We’ve got exits in the back and, of course, down the stairs where you came in.
+ 
+We’ve got a great event this morning. We have Dr. Michael Griffin, Undersecretary of Defense for Research and Engineering. He is the Defense Department’s chief technology officer. He is responsible for all the research, development and prototyping across DOD. He oversees DARPA, the Missile Defense Agency, the SCO, Defense Innovation Unit – lots of the fun things within the department.
+ 
+A lot of people in this room know Dr. Griffin well. He’s had an extraordinary career with a lot of distinguished positions, including some very interesting work at NASA and within the Strategic Defense Initiative Organization. We might hear about the Delta 180 along the way here.
+ 
+Why don’t we get started? We’re going to do this very much as a conversation, and then take some questions from the audience at the end. I thought we might just kick it off by getting your insight on what the National Defense Strategy at a high level means for missile defense?
+ 
+DR. MICHAEL GRIFFIN: The National Defense Strategy is, in the end, all about readiness, okay? It’s about readiness for a fight we might have to engage in today or next week, but also, and I think more importantly, about readiness for the fight we might have to engage in in the late 2020s. By being ready for that, maybe we can avoid it.
+ 
+Because our Secretary of Defense, Secretary Mattis, is fond of saying that what he wants to put into the mind of any adversary is when they look at the United States today and they make a decision about whether or not to take us on today, they conclude “no we’re not going to do that because we won’t win.” His openly avowed goal is that his successor’s successor’s successor will be in charge of a Department of Defense that offers exactly that same calculus to the enemy with exactly that same result. They’ll decide, “nope, today is not the day either.” I think that’s a really great way to look at it. So in research and engineering what we are most responsible for is, what is the shape of that future force? What is that future fight that we don’t want to have to have, what does that look like?
+ 
+The other thing the National Defense Strategy is really about - it’s about calling out the renewal of great power competition. We’ve been engaged since 9/11, 17 years
+ 
+ 
+ 
+now, in the Mideast fight, terrorism, violent extremist organizations, whatever you want to call them. The National Defense Strategy points out that while these are important things, they are not for the United States existential – that for us, the resumption of great power competition with Russia and China, and emphasis on China, if not managed properly, that can be existential, and so that is the focus of the NDS.
+ 
+MR. KARAKO: And that really means, in terms of its application to missile defense, thinking about how active defenses can contribute to deterrence and defense against Russia and China. Is that fair?
+ 
+DR. GRIFFIN: Absolutely. Russia can, should it so choose, overwhelm the United States with a strategic nuclear attack, and as we can in reverse. We hope above all things that such an event never comes to pass. One role of even limited missile defenses is to confuse and confound such an adversary with the question about, if I choose to attack, exactly how much gets through and where does it get through? That’s an important value of missile defense.
+ 
+MR. KARAKO: You’re a rocket scientist, rocket engineer. As you look past over the last couple decades, what kind of technologies and what kind of innovations have you seen emerge and are still emerging that are going to make the next missile age differ qualitatively and quantitatively from those in the past? What are the subsets, what are the technologies, that have made things really change?
+ 
+DR. GRIFFIN: One of the things that we see emerging even today is the unmanned aerial vehicle. We’ll see other kinds of unmanned ground vehicles, unmanned underwater vehicles. This, in combination with the idea of swarming attacks, is certainly a concern and it may be a transformative concern. We need to learn how to defend against such things, and we need to learn how to perpetrate our own versions of those.
+ 
+For defense against them, one of the things that I think will be a most promising approach is directed energy in one form or another. We often think about directed energy as large lasers, and I’ve certainly been involved with some of that for decades, but we also have high power microwaves which can be very effective as what we call an electronics kill. That sort of thing—it’s really hard to envision handling swarming attacks by purely kinetic means—so that’s one of the future threats that I think we face.
+ 
+MR. KARAKO: Presumably glide vehicle technology being another big piece of that.
+ 
+DR. GRIFFIN: Well, not necessarily in a swarm but certainly we’ve seen the emergence over the last decade of particularly Chinese aggression in the form of multiple dozens of tests of hypersonic glide vehicles, rocket-boosted long range gliding vehicles which can be designed to be highly maneuverable and thus very evasive, particularly in the terminal phase, which are relatively low signature compared to the kind of strategic missile threats we’ve faced in the past, and for which we have not yet deployed adequate defenses and for which we have not yet deployed our own counter offense. So that’s an
+ 
+ 
+ 
+area which I’ve said is one of our major priorities and we’ll be working on.
+ 
+MR. KARAKO: In a way, it’s shifting from the focus on the 1990s’ missile defense, for just ballistics, to a complex and integrated attack kind of thing, with all these different things coming at you simultaneously. Do you think the department is sufficiently seized of this potential for these very complex attacks?
+ 
+DR. GRIFFIN: I think as a department we’re really lined up on the criticality of modernizing our force structure, both offense and defensive, against what we see coming in the future. The trade we face in an environment where resources are always limited and we’ve spent the last 17 years with, as I say, other priorities; and then the decade before that was the cessation of the Cold War and the peace dividend. So it’s been a long time since we’ve really reinvested national treasure in modernizing our force. We have a lot of ground to make up.
+ 
+Across the department I think we’re well lined up on the criticality of doing so. We’re also trying to balance that against being ready for today’s fight - enough force structure to be able to deter adversaries today. That’s a difficult balance, but I don’t talk to anybody at all in the department who doesn’t see the need to reinvest.
+ 
+I think everybody is aware that the last time we really invested in transformative capabilities was in the Reagan era. We introduced stealth fighters, stealth aircraft. We introduced GPS precision guided munitions, high data rate encrypted communications. These things were transformative.
+ 
+Those transformations were initiated by, actually, one of my predecessors in the research and engineering world, Dr. Bill Perry, who I met later when he was on one of my boards of directors and who, of course, later became Secretary of Defense. But that era was the last time when we just really heavily invested in capabilities which just overwhelmed the adversaries that we faced in Gulf Wars I and II and in Kosovo and other conflicts in which we had to take part.
+ 
+The kinds of things we brought with that investment, however, now they’re available in Kmart. If the United States is going to remain ahead, we have to reinvest. I mean, a generation or two has gone by since that era and other people are not stupid and other people don’t stand still, so it’s time for us to get back to work.
+ 
+MR. KARAKO: Your job is to be at the forefront of those technologies and that kind of transformation. There’s other ways in which we can impose costs upon an adversary that might not be the most cutting edge in technological things. I’m thinking kind of passive defense and deception, and frankly just really, really cheap mass. Your thoughts on how that might fit into this mix, this high-low mix?
+ 
+DR. GRIFFIN: We are looking at that as well. It will certainly cause an adversary to think more than twice, we hope, if we were to have a couple of thousand conventional prompt strike missiles available that individually didn’t cost very much but
+ 
+ 
+ 
+which were rather overwhelming in their quantity and which were capable of what we can do today with accuracies in the range of the space we’re sitting in right now. We are looking at that, as well as very high capability cutting edge weapons of war.
+ 
+MR. KARAKO: You mentioned lasers a minute ago and directed energy more broadly. What kind of investments do you see going on there in the near-term that could really field – what kind of capabilities? I’m thinking five years, the inside of 10 years, kind of a thing. What do you see there as happening soon?
+ 
+DR. GRIFFIN: Well broadly speaking, without trying to put too fine a point on it, where we are today is – I want to be a little bit more forward leaning than to say in the lab. But in units of onesies and twosies we can roll out tens of kilowatts of, for example, laser power. In some particular technologies we might be able to produce a bit more.
+ 
+That is within a factor of two or three of being useful on a battlefield, on an airplane, on a ship, even in space for limited purposes. That’s a useful range. So in my opinion we are no more than a few years of having, particularly in the laser world, directed energy weapons of military utility.
+ 
+We need to focus our efforts. It’s one of the old jokes in the directed energy world that these systems are the weapons of the future and always will be. I regard it as one of my jobs to get real capability into operational hands, and I think we’re at most a few years from that.
+ 
+From there you need another factor of three or four to have a space control weapon, a missile defense capability, space-based, boost phase or mid-course capability with a large directed energy weapon. We need to be in the megawatt class to have that. And that’s not right around the corner, but it’s not utterly out of reach either. We can see the pathways to that. You’re going to see – in upcoming budgets for missile defense – you’re going to see a renewed emphasis on laser scaling across several technologies because we feel we have to do that.
+ 
+MR. KARAKO: I think somebody said for every action there’s a reaction. How do you see the investments in directed energy and the kind of fieldings that you’re talking about, how do you see that shaping the behaviors and imposing costs on the other great powers?
+ 
+DR. GRIFFIN: I don’t know. I’m not inside the heads of our adversaries, so I won’t comment on that one.
+ 
+MR. KARAKO: Fair enough. Let’s talk a little bit about the sensors. You’re a big proponent of space sensors. Going back to the specter of complex integrated attack that we talked about and all these diverse aerial threats: we’ve been focused on the ballistic threat for a long time. But it’s not just about ballistics anymore, and the sensors that we need are going to have to be different. How would you think about the roadmap for a future air and missile defense sensor architecture? If you’re talking about the near
+ 
+ 
+ 
+peer, isn’t it going to have to be more sophisticated, more passive, more disaggregated, more survivable, that could be something different? And maybe that’s in space, but maybe that also applies to other domains. Is that fair?
+ 
+DR. GRIFFIN: It is a fair question. It’s no secret to anyone, without getting into any classified details, the United States has by far the most sophisticated space surveillance capabilities of any nation, and these are concentrated in some number of very high value assets.
+ 
+My friend and colleague, General John Hyten, commander of STRATCOM, has referred to these as “juicy targets.” We have them for a reason. As I said, their capability is unbelievable and unmatched. But in the face of particularly the Chinese and Russian threat, we see the need to disaggregate our capabilities to present less of a focused target.
+ 
+We also – I mentioned the hypersonic threat earlier. This is a threat with a much reduced signature, by a factor of 10 or 20 times less than the strategic missile threat with which we’ve dealt in the past, so we need to be somewhat closer to the action. This group will know that the Congress has mandated that we deploy a persistent, timely, global space sensor layer for exactly these reasons, for reasons of disaggregation and resilience to present a less concentrated attack surface to the adversary, and to be able to get after the emerging threat that we see today.
+ 
+This is not a threat in the future. We know that China in particular has done dozens of tests of hypersonic systems. Russia has done fewer, but still impressive. This is a threat that our adversaries are developing.
+ 
+Now it’s interesting to note -- I have noted in other fora that the United States did all the fundamental research in these areas. We really did, and we published much of it. It was not a capability we chose to weaponize. We didn’t think that the world needed necessarily more weapons, and the United States doesn’t seek adversaries.
+ 
+Other people have sought to be our adversaries and are succeeding at that, and so our choice is how and when and where do we respond, but we have to respond. So if they choose to weaponize these capabilities then we will have no choice but to respond in kind.
+ 
+MR. KARAKO: Staying on the space sensors for a moment, I wonder if you might walk us through the relative strengths and weaknesses of different kinds of orbits there: low-Earth orbit, medium-Earth orbit, maybe some sort of combination of those? What’s your feelings on that?
+ 
+DR. GRIFFIN: My basic feeling is that the United States needs to be prepossessing in space. We need to make it clear, as we have done in multiple presidential policy statements, that the United States will secure and maintain freedom of access to and ability to move in space for ourselves and our allies. The use of space is critical to how we fight wars, whether on air, land or sea.
+ 
+ 
+ 
+ 
+Our adversaries know that and we know that they are developing systems that come after our space war fighting systems because they control how we fight on Earth. So we need to be prepared to protect and defend those assets. We need to be able to project our own power on our adversary’s assets because they seek to do us harm. With regard to – you asked me to talk about sensors and what are the ramifications of being in various orbits with various capabilities. I don’t want to be in any one orbit. Our efforts today are concentrated in what we call geostationary orbits, a 24 orbit which remains fixed from the Earth’s point of view, over one plot of ground. And then we make good use of other orbits as well.
+ 
+I want us to be as widely distributed over as many choices of orbital regimes as we can effectively use, because I want to pose the adversary such a difficult problem that they’ll choose not to fight it. We are not as, I would say, prevalent in low Earth orbit as I would like us to be. Again, I think we need to proliferate our capabilities there because one of the emerging threats that we see is the hypersonic threat, again, with a muchreduced signature.
+ 
+In order to see it, track it, provide fire control quality information we really need to be closer to the action. We need to be proliferated and resilient so that removing a few of those satellites by the adversary doesn’t alter our capability. So we need to think about space as a domain which our adversaries seek to remove from our use, and respond accordingly.
+ 
+MR. KARAKO: Let me bring the sensor discussion down to Earth --
+ 
+DR. GRIFFIN: Good luck with that.
+ 
+MR. KARAKO: -- to land-based and sea-based. As you think about it, radar has been around for almost a century, the better part of a century. There’s a lot of new technologies on the radar side, I’d be curious to get your thoughts on that. But also, how we can use radars differently and perhaps in more sophisticated ways to make it harder for a radar homing missile from the bad guys to come after and suppress those assets? Maybe it’s a combination of layered defenses for air defense, and maybe there’s kind of some use of radars as passive receivers. Your thoughts on more sophisticated ways of doing that?
+ 
+DR. GRIFFIN: I’m not going to go into a lot of detail here on how we’re planning to deal with that. Your basic point is that active radars are a target. We’ve used them for a long time. Both we and our adversaries have homing anti-radiation missile types of things so in the event of conflict radars become a target.
+ 
+One way of dealing with that is to have the illuminator that provides the radar signature, or signal rather, not co-located with the receiving entity. That’s called semiactive radar, it’s a very old technology. You know, the venerable Standard missile
+ 
+ 
+ 
+started out with semi-active approach. We’re re-looking at all of that. We’re not unaware that active radars are a target.
+ 
+MR. KARAKO: Let me go back to space for a minute, and specifically in terms of space-based interceptors, kinetic. You’ve talked about the desirability of that. I wonder if you might talk about whether that kind of a space layer – to what extent is that maybe useful for the boost glide hypersonic threat?
+ 
+DR. GRIFFIN: Well, the point of a hypersonic threat is that you’re talking about very rapid launch to target intervals, a couple tens of minutes maybe, where the launching signature is certainly very observable from space but the threat signature during cruise is, as I’ve said a couple of times, much reduced over what we are normally used to seeing for threat signatures. We can see it and find it. We have done so even from geostationary orbit, but that’s kind of not the way to go to produce real-time targeting quality information. As I’ve said, we really think we need to be closer to the action.
+ 
+Why from space? Well, it’s a really big ocean and most of the assets we have that would be adversary targets are our forward deployed bases: Guam, Kadena, other places, or carrier strike groups, that could be held hostage by such adversary capabilities. We can’t wallpaper the ocean with radars to see these things coming, and we need to have some amount of warning if we’re going to defend against them.
+ 
+Our existing radar systems don’t provide that kind of warning and we will never, ever hit any threat we can’t see coming in time. So I’m reluctant to say “the only way” about anything, but we haven’t been able to identify a more productive way in which to know that this threat is inbound, than to do so from space. The signatures that we’re looking for are readily observable from space. These hypersonic threats are fairly hot, white targets. We can see them.
+ 
+We need to be able to see them in time to converge a fire control solution and be able to get our asset into the fight. If this were a land mass kind of a conflict that we were foreseeing, instead of a conflict over broad ocean areas, my answer could well be different, but it’s not. And so broadly speaking the United States needs persistent, timely, global awareness of what is going on.
+ 
+MR. KARAKO: Staying on the space-based interceptor side of things, what will be the challenges for using a space layer for coming back down into the high atmosphere for this mission?
+ 
+DR. GRIFFIN: Probably, for this mission, for the hypersonic defense mission, I don’t see a space-based interceptor as a workable technical solution. Basically you’re having to do an atmospheric entry to go after the threat target. The space-based interceptor concept is most useful against strategic missile boosters and post-boost vehicles.
+ 
+MR. KARAKO: Yeah, exo.
+ 
+ 
+ 
+ 
+DR. GRIFFIN: Yeah, exo-atmospheric. It’s very high leverage there. It’s not a useful approach for something cruising at 30 or 40 or 50 or 60 kilometers of altitude.
+ 
+MR. KARAKO: Maybe we can transition a little bit. You’re known for saying, go faster, please. So much of that has to do with the authorities of the people who are charged and motivated to go fast. This was one of the things that really characterized the creation of the Missile Defense Agency back in the 2004 timeframe, is the consolidation of a lot of authorities in one person. So I wonder if you might, from where you sit and your desire to go fast, your particular sense of the importance of that, say within the Missile Defense Agency, and whether that needs to be a model in maybe other entities and kind of how we think about defense acquisition more broadly?
+ 
+DR. GRIFFIN: From the Secretary on down, the desire to refresh our decisionmaking processes in favor of greater speed, that desire is uniform. There is nobody who is going to stand up and say I think we’re moving too quickly. The secretary talks about making decisions at the speed of relevance. We see our adversaries turning around their experiments on the kinds of time cycles that we used to do.
+ 
+We’ve had the luxury now of a whole generation and more of not having great power competition, not having to respond so quickly. We don’t have that luxury anymore. We are going to have to relearn how to conduct development programs quickly and get things into the field. We have a long history of knowing how to do this, and in very demonstrable ways. We just haven’t done it much recently.
+ 
+I’m fond of pointing out that it took Secretary Gates’ personal involvement – he made it his personal hobby, to move MRAP along because he thought the dangers to our troops in the field from improvised explosive devices were so significant and that the conventional acquisition system just wasn’t paying attention to it. He writes extensively about it in his autobiography.
+ 
+That shouldn’t have to happen. That’s really the point of that discussion, that shouldn’t have to happen. We need to relearn how to move at the speed of relevance.
+ 
+You asked about MDA being an example, and in that regard, I would like the Missile Defense Agency, which now reports to me, to set that pace. I asked them to become that example about the second day after I was sworn in. I will need to check back in with them to see how they’re compressing their decision-making timeline.
+ 
+I hear from outside the Defense Department all the time about how slow we in DOD are. Our secretary acknowledges that. We need to move more quickly. I guess I should stop there.
+ 
+MR. KARAKO: Part of it’s really the consolidation authorities in one person and quick decision-making. But the other side of that, the flip side of that, is a focus on one problem or a couple of problems. The Missile Defense Agency has the word missile in
+ 
+ 
+ 
+their name.
+ 
+In that respect, how do you see, if you’d like to talk about it, the roles and missions of a missile defense-centric entity, to be able to focus on one thing? Maybe it’s not just ballistic missile defense, anymore, and the BMDS, but maybe it’s a couple of sets of missile problems. How do you see that evolving as the threat is evolving?
+ 
+DR. GRIFFIN: The United States faces a lot of different kinds of adversary threats. There’s not just one way they come at us. But one of the ways they come at us, and have for a long time, is with missiles of various numbers, scale and scope.
+ 
+It was President Reagan who initiated a focused program of strategic missile defense. In the ‘90s that evolved, and in the ‘00s that evolved into theater and tactical missile defense, much of which in my view has been highly successful. I think there’s value in having a Missile Defense Agency with that core responsibility, rather than distributing that focus out across the services and the department.
+ 
+I see value there. Others sometimes disagree. I saw a lot of value, enormous value, in the early ‘00s when President Bush and Vice President Cheney argued for providing the Missile Defense Agency with its own acquisition authority so that it could not have to go through the broader Department of Defense acquisition authorities. In my view we don’t always use that as aggressively as we could, but it’s nice to have the authorities.
+ 
+So I see value in having a concentrated focus by an agency on a particular class of threat. Now, Secretary Carter, when the emergence of Chinese hypersonic threats came to the fore, Secretary Carter assigned the hypersonic missile defense threat also to MDA. I think that was appropriate. I have not chosen to realign that. As adversaries come up with new approaches we may have to come up with new responses, but I think broadly speaking missile defense lodged in a particular agency is a good thing.
+ 
+MR. KARAKO: An entity with the words missile defense in its name is going to wake up every morning and be focused on that. It’s been, what, 16 years since the end of the ABM Treaty. We’ve got four families of missile defenses out there fielded and being operated by the services. To what extent do you think that, within our lifetimes, the service cultures will really change all that much to make missile defense, or air and missile defense, rather, and hypersonic defense, one of their core missions and identities? Or, is that probably unlikely to happen?
+ 
+DR. GRIFFIN: I’m not notably good at predicting the future, except in cases where I think bad will happen, and I’m remarkably good at predicting bad. I’m not so good at predicting good. Let me offer that frankly in the larger Department of Defense scheme of things I don’t think it matters what entity wearing what badge is addressing a particular problem, as long as the problem’s getting addressed.
+ 
+It is unlikely, I think, that the Army, Navy or Air Force will embrace a given style
+ 
+ 
+ 
+of missile defense, a given arena of missile defense capability, until and unless they have a dog in that particular fight with which they’re aligned. Much of what we do for missile defense capabilities that is designed, developed, deployed by the Missile Defense Agency, will have to be continued to be sustained by the Missile Defense Agency unless there is a high degree of shared utility with a particular service, and then the service might take it on because the services have their own priorities. And if, broadly speaking, within their total obligation authority they’re going to align whatever money they have consistent with those priorities, and a missile defense capability that doesn’t line up well with their other priorities will not necessarily get funded.
+ 
+MR. KARAKO: This has a very sharp issue at the end of it, and you know where I’m going on this, and that’s the question of transition and transfer. As much as these four families have been fielded, a lot has been transferred to the services in terms of operations and sustainment, and we’ve got the upgrade on early warning radars. We’ve got Patriot and THAAD and SMs, Aegis, being operated by the services every day.
+ 
+And yet, there is a particular question on the stove at the moment about whether the material procurement of those pieces of BMDS – and they’re big ticket items – whether that also ought to be transferred to the services where they’ll have to compete with all these other priorities on a year-in and year-out basis? Your thoughts about if that transfer happens whether it will be good or bad for sustaining the mission?
+ 
+DR. GRIFFIN: I don’t think it’s going to happen, and if it did I don’t think it’s going to be good. Asking the Navy to prioritize an SM-3 system over another carrier, that’s maybe not a fair question. Asking the Army to prioritize THAAD over another brigade combat team, maybe that’s not a fair question. Those are questions of the architecture of what our national defense looks like that maybe rise to the secretary or the OSD level, not the responsibility of the given service. So today those particular systems that you mentioned, THAAD and SM-3, things like that, those are prioritized at the Department of Defense level, and maybe that’ll just continue.
+ 
+MR. KARAKO: Good. Well that’s basically what I’ve got. I want to see if we could open it up to the audience and take some questions.
+ 
+DR. GRIFFIN: As if I could see.
+ 
+MR. KARAKO: Raise your hand, we’ll have a mic go around. We’ll start right up here. If you wouldn’t mind, just state your name and keep it in the form of the interrogative.
+ 
+DR. GRIFFIN: And if the question could be short enough that I can remember it by the time you’re done, that would be really good.
+ 
+MR. MIKE STONE: Thanks very much, it’s Mike Stone from Reuters. I’m wondering about the Missile Defense Review. It’s been complete for months. Obviously you were going to get this question. Why hasn’t it emerged and why can’t it be shared
+ 
+ 
+ 
+with the enterprise to reinvigorate the missile defense enterprise?
+ 
+DR. GRIFFIN: It will be shared when the administration is ready to share it and not before, and I’m not in charge of either that question or that answer, so I don’t have an answer for you.
+ 
+MR. KARAKO: Alright, I think we’ve got one over here. I did bet five bucks that would be the first question.
+ 
+DR. GRIFFIN: Oh, of course. I have no problem with it, but I can’t answer it for you.
+ 
+MR. VINCE ALCAZAR: Tom, thanks for hosting this event. Vince Alcazar, Mitchell Institute, Air Force Association. Dr. Griffin, at the end of October we released a short paper advocating for air boost phase intercept rapid prototyping and development. It’s in Section 1676 which you refer to in the MDA for FY ‘19.
+ 
+I’m holding a report that probably is familiar to you. In our research we came across January 1988 Dr. Mike Griffin American Rocket Company and Lieutenant Colonel Michael Rendine wrote a great report, “Delta 180 Vector Sum,” which you referred to Tom, and getting ABPI out of the idea stage to an actual capability stage as a bridge capability to some of these other technologies that you’ve talked about. What out of here could we import into ABPI development that could speed the process rather than the six to seven years that General Greaves believes MDA needs to produce a BPI capability? Thank you.
+ 
+MR. KARAKO: That’s BPI, boost phase intercept, for everybody else.
+ 
+DR. GRIFFIN: Well, Delta 180 was a flight experiment for which I was the chief engineer, and Lieutenant Colonel Rendine was the government program manager. That was a space-borne boost phase intercept experiment against a target in powered flight. That was a lot of fun to do. It had never been done before, and it was very gratifying to see it be successful.
+ 
+It’s 32 years and a couple of months ago that we launched it, so I would offer that not much about the technology has any relevance today. If anything, I hope technology has moved on in three decades. The style of program execution is the kind of thing we would like to restore to the department in our prototyping and experimentation efforts.
+ 
+We weren’t part of any formal acquisition authority. It was -- without attempting to appropriate the title – it was a classic Skunk Works-style development. It was extraordinarily successful. We did indeed score a hit-to-kill.
+ 
+So that kind of programmatic style is what I would like to see us put in place as we develop new capabilities in the department. That experiment was followed on by several others of a diverse nature, having in common that had not been done before, and
+ 
+ 
+ 
+were done in a very expedited style. It was probably the most rewarding period of my career.
+ 
+I’m often asked if – the question starts out with its own conclusion – I’m often asked if running NASA wasn’t the coolest thing I ever did. And I worked for NASA four times, the last time I ran it. But the coolest thing I ever did was that set of experiments in the late ‘80s and early ‘90s where we were able to run at full speed and do things that had never been done before.
+ 
+MR. KARAKO: Great, alright, who else? We’ll take this one right here, and then we’ll come over here. Should we be expecting some other cool experiments like that in the coming year?
+ 
+DR. GRIFFIN: I hope so.
+ 
+MR. JUMING JIM (ph): Hi, I’m Juming Jim with Bloomberg. Shifting gears a little bit, in June you testified before the House Armed Services Committee and you expressed concerns over Chinese exfiltration of U.S. intellectual property and technology, as well as mentioning concerns about supply chain access. I think you singled out microelectronics. My question for you is, since then, has the Pentagon uncovered more evidence of Chinese attempts to hack the U.S., whether they are software or hardware vulnerabilities?
+ 
+DR. GRIFFIN: I’m not going to comment at all on U.S., and specifically defense, vulnerabilities to hacking by adversary nations or exfiltration. The testimony in that hearing was carefully thought through. What I’m going to do is to refer you to Vice President Pence’s superlative speech about a month ago talking about Chinese behavior across the board, to include exfiltration, to include a bunch of things. I’m going to refer you to that speech. Read it, pay attention, it was a superlative speech, and I won’t say more.
+ 
+MR. KARAKO: Alright, over here in the red tie. Up front here. Wait for the mic, if you wouldn’t mind.
+ 
+MR. CARLOS SABILLON: I’m Carlos Sabillon, I’m an economist.
+ 
+DR. GRIFFIN: Well, I had a couple of courses in economics. I liked them a lot, but I’m not an economist.
+ 
+MR. SAVEYON: The reason why China has become such a big threat, it’s because its rate economic growth is so much faster than that of the U.S., and most defense experts seem resigned to the idea that as that big gap between the rate of growth of the two countries continues, eventually China will have a much larger economy and thus it will have more weapons, produce more weapons every year, and perhaps even
+ 
+ 
+ 
+with matching technology. Have you also have this perception within your colleagues that it’s inevitable? I’m saying that because I’ve been doing research for two decades and I’ve developed a new economic theory very outside the box, very iconoclastic, that will guarantee a rate of economic growth for the U.S. that would match that of China and would not make this situation inevitable.
+ 
+DR. GRIFFIN: I regard very few things as inevitable. I’m not going to comment on economic theories because of the profound level of my ignorance of such things. China was admitted to the World Trade Organization in 2001, championed by the United States in that regard and under disadvantaged nation status, with the hope that they would play by the rules of the world order.
+ 
+They’ve not done so. The speech I just mentioned by Vice President Pence a few weeks ago calls out that behavior, as have many, many other organizations and entities, to include actually in a publication I regularly read, “The Economist,” pointing out that Western nations have been victimized by China’s abuse of the rules. That, in part, accounts for their rapid rate of growth.
+ 
+The U.S. is responding, and we’re going to continue to do so. I don’t see China’s dominance of the world economic order as being inevitable. Nor do I see that a – nor do I concede that a command economy can outpace an economy that’s driven by people who have the freedom to innovate, to fail, and to start over again. I can’t say how those things are going to come out. So no, neither I nor my colleagues regard this as an inevitable result. We intend to make sure that America can keep its commitments to its allies and partners, and have a defense so strong that Chinese aggression will not be rewarded.
+ 
+MR. KARAKO: We’ve got one right here, and then we’ll move to the back over here.
+ 
+MR. COURTNEY STADD: Courtney Stadd with Vector Launch. Mike, it’s great seeing you. It’s wonderful having you in this position.
+ 
+DR. GRIFFIN: Good to see you, Courtney.
+ 
+MR. STACMR. KARAKO: The Space Development Agency, I’m curious to get your perspective on the status and scope and with the newer authorities, are you able to stand it up or do you have to wait for Congressional action?
+ 
+DR. GRIFFIN: The whole issue of the Space Development Agency and what we do in space is, forgive me, still up in the air. This question even arises out of NDAA ‘18, wherein Section 1601 of the law the deputy secretary of Defense was charged with telling Congress how the department is going to reform its management of the space enterprise. The Space Development Agency is one of the tools we offered up as a way that we’re going to reenergize the space development culture, shorten the time cycles that we talked about, bring some new things to the table. That was part of our response back to Congress in the 1601 report.
+ 
+ 
+ 
+ 
+Further details of what we do inside the department, it’s not even that I know and can’t tell you. If I knew and couldn’t tell you, I would just tell you that I can’t’ tell you. We don’t have that settled yet. So beyond saying that, you know, the deputy is working on it, that the senior leadership of the department is in regular discussions on the matter, if I go farther than that I’m getting out ahead of my headlights. Sorry.
+ 
+MR. KARAKO: We don’t want you to do that, but can I nevertheless connect that with the issue of space sensors? And you mentioned the hypersonic threat has been assigned to MDA. As of today, do you see the acquisition of that space sensor layer being an MDA thing or is that also up in the air?
+ 
+DR. GRIFFIN: Well, I’m not sure I see it being solely an MDA thing, although without question they’re a part of the process. The Congress has specifically directed us to deploy a space sensor layer. We’re going to do that. I mean, while I’m at least sitting in my position we’re not going to openly violate the law. We’re told to do this and we will be.
+ 
+Now I think most of you here are familiar with the DARPA Black Jack solicitation, which is in classic DARPA fashion, an open solicitation for an experiment to deploy multiple small, we hope cheap, surveillance spacecraft, link them together, look at how they function as a network, and then go from there to something which can be transitioned for actual deployment. What the boundary is between DARPA and MDA or other elements of the department, I don’t know yet. I want to make the experiment work first. I’d rather not leap off a cliff until we have an example of a working prototype that we believe can scale.
+ 
+I mean, the question I was asked earlier about airborne boost phase defenses, and I said the technology no longer applies, it’s 32 years old. But the programmatic style and way of thinking do apply, and that’s what I mean here. This DARPA Black Jack would be a classic example.
+ 
+MR. KARAKO: Do you have a window within which time scaling up a constellation or a space sensor layer – do you have a window of time that you think it really needs to be not just the first satellite, but enough of the constellation to actually deliver?
+ 
+DR. GRIFFIN: Well, I mean, the day before yesterday. I wanted us already to have been working on it. So, when I was sworn in on February 20th we weren’t. Now we are, and I trust that we will continue to do so because we need to do it. I don’t want it to be dependent upon me or any other individual member of our team.
+ 
+MR. KARAKO: But 2030 is too late.
+ 
+DR. GRIFFIN: We’ll get it as soon as we can get it. I’m not going to –
+ 
+ 
+ 
+ 
+MR. KARAKO: Got it.
+ 
+DR. GRIFFIN: I don’t have dates to give you. Again, it’s not that I have dates in my head that I’m not telling you. It’s that we’re working on it.
+ 
+MR. KARAKO: Very good. We have one in the back over here. Yes, sir.
+ 
+MR. JACK PAPPAS: Good morning, I’m Jack Pappas. I’m an old guy and I’m one of the three guys that got the ATBM originally into the federal budget in the late ‘70s and early ‘80s. I have three questions that all bear on development of the business.
+ 
+First of all, are there any plans to do a career enhancement program to recognize the missile defense business as a value to the military and to the nation? And in the process of that, what steps do you contemplate taking to do a cultural reorganization of the relationships among the defense agencies in looking at the acquisition aspects of being able to buy something once you organize to do so? Would it make sense to create a special emphasis procurement system that would be one that we would like it – how we would like it to be so that eventually the existing procurement system could be transitioned into a more effective organization? So it’s people, culture and buying.
+ 
+DR. GRIFFIN: Well, I don’t know anything about career enhancement programs for people working in missile defense. I am not an expert on culture change. And my counterpart, Ellen Lord, who is in charge of the actual acquisition policies in the department, would be a more suitable target for your last question. So you’re going to go zero for three on that one. Sorry.
+ 
+(Laughter).
+ 
+MR. KARAKO: Alright. That’s a maneuvering vehicle there. Let me just thank you again for all of your time here. We want to be respectful of your time. But, you know as I said at the beginning, you’ve had such an amazing career over the years. What’s the sort of thing that we can do as a country to generate more Mike Griffins for defense?
+ 
+DR. GRIFFIN: I’m not sure you want more of those. One might be enough. Many would argue that one is one too many.
+ 
+But I get the spirit of your question. The really important part of your question is, what can be done to generate, by the time they get to be old, senior organizational leaders who have a deep technical background? Because that’s all I have going for me. We’ve already agreed that I’m not an economist, I’m not an expert on culture change, and you know, I can’t see well enough ever to have worn a uniform.
+ 
+MR. KARAKO: But also a sense of urgency.
+ 
+DR. GRIFFIN: The sense of urgency, so what the United States has going for it is
+ 
+ 
+ 
+that when we make it clear that things are important, our people and especially our younger people rise to those challenges. So I’m, in a way, a little bit of an – I mean I’m a Sputnik generation kid. I’m a little bit different because I was interested in space from the time I was five years old, which was several years before Sputnik. So when it came along – I had the advantage actually of knowing what it was and being able and relatively –I was that kid in third grade who could explain to his teacher why it didn’t fall down.
+ 
+But my whole generation benefited from that challenge. I went to college on scholarships that were motivated by the need to train – to provide technical training and incentives for kids to study those things. My family was far from wealthy. My mom worked her way through college over a 10-year period by doing a semester as a waitress and then a semester at college. I didn’t have to do that because I and many of my ilk benefited from the kinds of national response to the Sputnik challenge.
+ 
+If we want similar generations of leaders in the future, we have to recognize, as our National Defense Strategy states, that we are in an era of renewed great power competition fully as significant as what we once called the Cold War. China is not Russia. They behave differently.
+ 
+Russia today is not the Soviet Union. It behaves differently. But it behaves in ways – both of those nations behave in ways that are not favorable to the United States. We need to respond to that.
+ 
+If we make it a priority then the young kids who you want to come along and eventually be leaders, they will respond to that challenge. But we at the national level have to make it clear that this matters. This is a priority for the United States, the Western world, our partners and allies. If we don’t make it clear, then we cannot require of our younger folks that they take it as a priority.
+ 
+MR. KARAKO: Well thanks. It does matter. Thank you for taking up the challenge. Thank you for your time today. Please join me in thanking Dr. Griffin.
+ 
+(Applause).
+ 
+ 
+      

@@ -1,0 +1,533 @@
+
+        U.S. Military Spending: The Cost of Wars
+By Anthony CordesmanJuly 10, 2017One of the striking aspects of American military power is how little serious attention is spent on examining the key elements of its total cost by war and mission, and the linkage between the use of resources and the presence of an effective strategy. For the last several decades, there has been little real effort to examine the costs of key missions and strategic commitments and the longer term trends in force planning and cost. Both the Executive Branch and the Congress have failed to reform any key aspect of the defense and foreign policy budgets to look beyond input budgeting by line item and by military service, and doing so on an annual basis.
+
+The program budgeting and integrated force planning efforts pioneered towards the end of the Eisenhower Administration—and put into practice in the Kennedy and Johnson Administrations—have decayed into hollow shells. The effort to create meaningful Future Year Defense Programs seem to have been given a final death blow by the Budget Control Act (BCA)—legislation originally designed to be so stupid that the Congress could not possibly accept it. Efforts to integrate net assessment with budget submissions were effectively killed by the Joint Staff decades earlier, during the Reagan Administration.
+
+Critical Failures by Both the Executive Branch and Congress
+
+What is even more striking, is the failure of both recent presidents and the Congress to properly analyze and justify the cost of America's wars. If one counts the Cold War, the United States has been at war for virtually every year since 1941. The United States has been actively in combat since late 2001, and there is little prospect that it can end the need to use force to check terrorism and violent extremism within the next decade. Moreover, the Cold War may be over, but the United States still faces strategic challenges from Russia and the emergence of China as a major global power in what is already a multipolar world.
+
+"War" may not be the normal state of U.S. national security planning indefinitely into the future, but war—and/or the constant risk of war—is a grim reality of our time. Yet, the Administration and the Congress have tended to treat warfighting as a temporary aberration—as something to be delt with by supplementals or creating short-term budget categories like the Overseas Contingency Operations (OCO) account that seem to reflect the cost of wars, but have become something of a slush fund and a mechanism for selectively avoiding the caps on defense spending set by the BCA.
+
+Reporting by the Executive Branch seems almost designed to obscure the real costs of conflict, and avoid linking them to an examination of strategy, its effectiveness, and the prospects for conflict termination. Reporting on the civil dimensions of war is often lacking, and the civil and military budgets of war are developed and implemented separately by the departments and then reviewed (if at all) by separate Armed Services and Foreign Affairs Committees in each house and by separate elements in the appropriations committees.
+
+Lip service references to a "whole of government approach" thinly disguise a real-world separation of what should be a fully integrated civil-military approach, and what is really a "hole in government" approach where the State Department and USAID often seem at least partially decoupled from the realities of warfighting and the Department of Defense focuses on tactical success rather than the political, economic, or broader strategic goals in warfare.
+
+The Congress has done no better. Ironically, members of Congress are fond of criticizing the Administration for lacking a strategy. The Congress, however, can be criticized for failing to insist on adequate reporting of wartime budgets and examining their costs in detail. Aside from independent efforts by the Congressional Research Service (CRS), neither the Executive Branch nor the Congress have ever issued an official report on the costs of American's ongoing wars, examined the trends in these costs, or insisted on meaningful reporting on their effectiveness.
+
+The Congressional Research Service (CRS), and the General Accountability Office (GAO), have provided several reports that do provide important insights into the cost of America's wars and the problems in the ways in which they are reported.
+
+
+	As is discussed in several parts of this report, work by Amy Belasco of the CRS has provided two reports that attempted to cost America's wars. The latter report—  The Cost of Iraq, Afghanistan, and Other Global War on Terror Operations Since 9/11, CRS RL33110, December 8, 2014—covered the period for FY2001-FY2015, and is as close as the U.S. has come to an official estimate of the cost of its wars.
+	Another report by Lynn M. Williams and Susan B. Epstein— Overseas Contingency Operations Funding: Background and Status, CRS R44519, February 7, 2017—provides an in depth examination of the OCO budget requests—and their total cost—through FY2017, but does not examine the reporting by war, strategy, or effectiveness of U.S. civil and military efforts.
+	The GAO has examined the way in which the Department of Defense includes and does not include the cost of war in the OCO account—  GAO, OVERSEAS CONTINGENCY OPERATIONS: OMB and DOD Should Revise the Criteria for Determining Eligible Costs and Identify the Costs Likely to Endure Long Term  , GSO-17-68, January 2017. This report flagged the need for significant reform in DoD reporting, but largely in a narrow accounting sense and in an effort to ensure that major expenditures which belong in the Baseline budget are not included in the OCO account.
+
+
+The closest the Congress has come to establishing a credible system of formal review is to create limited public reporting requirements on the Iraq and Afghan wars for the DoD, and the requirement for Iraq lapsed at the end of combat activity in 2011. These reports never address the costs of war, or planning, programming, and budgeting.
+
+The Congress has also created a Special Inspector General for Iraq (SIGIR) and then a Special Inspector General for Afghanistan (SIGAR). These efforts have accomplished a great deal in terms of improving the aspects of America's war efforts relating to aid to the Iraqi and Afghan governments and forces. However, SIGIR stopped its operations in 2011. The Special Inspector Generals also have not been tasked with addressing the overall cost of each conflict, the overall effectiveness of U.S. civil and military efforts, or the nature and success of U.S. plans and strategies.
+
+The Need for Far Better Accountability in Planning, Programming, and Budgeting U.S. Wars
+
+This report addresses a number of the issues that result from the failure to deal with the cost of America's wars by providing an overview of the historical trends involved, the broader climate of U.S. defense spending, and the data that have been reported on each war as part of the Overseas budget for the Contingency Operations (OCO) account. It examines the limits in these data, the risks they impose, and possible ways of correcting current problems.
+
+This version has been revised to correct some of the terminology used and to make it clear that there is no way to fully reflect the proposed FY2018 costs of OCO activity because the President has not yet determined the FY2018 level of effort in Afghanistan, and the current OCO budget data for FY2018 are the cost of extending the FY2017 program.
+
+It also has been revised to show the FY2018 costs of the U.S. train and assist missions in Afghanistan, Iraq, and Syria in depth.
+
+The report is now divided into 12 sections, each of which illustrates the need for better planning, programming, and budgeting; as well as the need for far more transparency and better official reporting.
+
+
+Summary of Direct Costs of the Afghan War, Iraq War, and Total OCO in Budget Authority vs. Other Illustrative Estimates
+
+
+The charts and tables in this section summarize the actual and projected cost of U.S. wars as reported for the OCO account—drawing heavily largely on earlier work by the Congressional Research Service.
+
+
+	The Department of Defense's OCO costs of the Afghan conflict since FY2001 will rise to $840.7 billion—if the President's FY2018 budget request is met. They will be $770.5 billion for Iraq.
+	The total costs for all OCO spending between FY2001 and FY2018 will be in excess of $1,909 billion. Given the costs omitted from the OCO budget, the real total cost will almost certainly be well over $2 trillion, even using OCO data as the only costs of the wars.
+
+
+These latter estimates update a series of earlier CRS analyses, one of which noted that, "Other observers and analysts define war costs more broadly than congressional appropriations and include estimates of the life-time costs of caring for OEF/OIF/OND veterans, imputed interest costs on the deficit, or increases in DOD’s base budget deemed to be a consequence of support for the war…Such costs are difficult to compute, subject to extensive caveats, and often based on methodologies that may not be appropriate…"
+
+Three alternative cost estimates are also summarized in this section.
+
+
+	One by Lina J. Blimes puts the total cost at $4 to $6 trillion by end FY2016.
+	A related estimate by the Watson Institute puts the cost at $4.8 trillion through FY2016.
+	A third estimate, by Neta Crawford, puts costs at more than $4.8 trillion through FY2017, plus more than $7.9 trillion in cumulative interest on past appropriations, or more than $12.7 trillion.
+
+
+It is important to note that separate work by Todd Harrison of CSIS in assessing the overall OCO account— Enduring Dilemma of Overseas Contingency Operations Funding, Transition45 Series, January 11, 2017—states that both Congress and the Obama administration moved items from the base budget to the OCO budget as a way of circumventing the BCA budget caps. Roughly half of the OCO budget ($30 billion) is now being used for programs and activities that were previously funded in the base budget. These issues are discussed in more detail later in this study.
+
+If these alternative estimates—and many others—are taken into account, it is all too clear that the United States now has no official estimate of the cost of its wars. Further, without such an estimate, there is no credible basis for either Executive Branch or Congressional review of the budgets and plans for such wars, much less of the ability to effectively execute given strategies, and provide credible indicators of the cost effectiveness and progress of key elements of military and civil activity.
+
+
+Cost of Current Wars Compared to Past Wars
+
+
+This section updates part of another CRS study—one by Stephen Dagget—that attempted to cost past American wars from the American Revolution through the Persian Gulf War, and the early phases of the conflicts in Afghanistan and Iraq. It illustrates just how much the cost and duration of war is changing and how critical it is to properly plan, fund, and manage wars on an extended basis.
+
+As Mr. Dagget notes, there are serious uncertainties in the cost estimates of past wars, but it is striking that if the cost to date of the Afghan and Iraq/Syria wars are shown in constant dollars, even the comparatively low end estimate of $2 trillion through FY2018 would makes these wars more expensive than every other period of conflict in American history except the American revolution, the Civil War, and World War II.
+
+
+	The Afghan and Iraq/Syria wars are more than five times more expensive than World War I.
+	They are more than five times more expensive than the Korean War.
+	They are nearly 2.5 times more expensive than the Vietnam War.
+	They are more than 18 times more expensive than the first Gulf War in 1991.
+	Given the estimates that the real costs are already well over $4 trillion, these multipliers would be more than doubled if any of the alternative war costs cited earlier are correct.
+
+
+
+Comparative U.S. vs. Nth Country Military Spending
+
+
+This section compares current total U.S. baseline and war spending with the spending of other states. The size of U.S. military spending is difficult to estimate in comparable terms. Work by Todd Harrison, for example, shows that total U.S. defense-related costs totaled some $905 billion in FY2017:
+
+
+	This was 161% of the $560.7 billion Baseline that include base, defense-related nuclear and other related budget costs.
+	It was 146% of the $619.7 billion total ($560.7 Baseline plus the $58.8 billion in OCO costs).
+	It was 150% of the IISS estimate of $604.5 billion for 2016.
+	OCO costs alone were 10.3% of $560.7 billion and 9.5% of the total of $619.7 billion.
+
+
+At the same time, if one does use the $619.7 billion total for the U.S., it is:
+
+
+	4.3 times the IISS estimate of $145 billion for China, and 2.9 times the SIPIRI estimate of $215 billion.
+	10.5 times the IISS estimate of $58.9 billion for Russia, and 9.0 times the SIPIRI estimate of $69.2 billion.
+	More than 10 times the military expenditures of the three leading NATO European states: France. Germany, and the U.K.
+	These costs do not address the combat and aid contributions of U.S. allies, and 11 of the other top 15 military spenders are allies of, or have close security ties to, the United States.
+
+
+U.S. military spending has risen steadily over time, but without any serious net assessment of the patterns in that growth, the comparative efficiency of U.S. spending on baseline and war activity, and how allied and potential threat states use their budgets and resources.
+
+
+Impact of the Total U.S. Military and Effort in Recent Wars as a Percent of Total Federal Spending and GDP
+
+
+One key aspect of the current cost of U.S. wars is that—despite their high cost—they represent a comparatively low burden on the U.S. economy in terms of GDP, total federal spending, labor, capital, and use of the U.S. industrial base.
+
+The difficulties in defining military expenditures do create differences in estimates of the percent of GDP, but they are comparatively minor. All recent estimates show that the burden the Afghan and Iraq/Syria wars placed on the economy did not equal the burden that the peacetime Reagan build up created, and that the percentage has dropped sharply since most U.S. combat troops left Afghanistan and Iraq.
+
+
+	If one uses CBO estimates, the burden on the economy moved from 5% of GDP in the 1980s to a low of 2.8% in FY1998.
+	The Baseline level has average 2.8% since then, but the total including OCO rose back to a high of 3.4% in FY2010.
+	Defense OCO was only 0.3% in FY2016.
+	The total defense burden is projected to decline from 2.8% in FY2017 to 2.5% in FY2021 and FY2.3% in 2030.
+	Even if one uses the higher estimate of military spending used by Todd Harrison, the total is now under 6.0%.
+
+
+There are, however, several problems with current projections of FY2018 and beyond. They do not include the build-up the Trump Administration has said will begin in FY2019. Past estimates of spending have been consistently wrong, and the inputs have been consistently undercosted.
+
+This illustrates another critical failure in the preparation and review of both Baseline and War budgets. There have been no serious attempts to develop Future Year Defense Program costs in recent years, largely because of the Budget Control Act, and DoD outyear budget forecasts have been political placeholders.
+
+Long term budget projections by the CBO and others invariably assume the end to war with one or two years in the future and no major contingency thereafter. This has been grossly unrealistic since the late 1930s.
+
+It is particularly unrealistic because this assumption is critical to estimating steady reduction in military spending, sizing the impact of rising entitlement and mandatory budget costs, and the size of the deficit.
+
+
+Size and Cost of the U.S. Military and Civil Effort (DoD and State/USAID) Overseas Contingency Operations in FY2001-FY2018
+
+
+Total estimates of the cost through FY2018 have been made earlier. The status of the FY2018 OCO requests for DoD and State are now highly uncertain and these charts focus on FY2001-FY2017.
+
+Accordingly, the charts in this section summarize CRS reporting on total DoD/State/USAID OCO costs to date. They illustrate two reporting problems:
+
+
+	There is no break out in the budget request by war of State/USAID and VA spending for FY2016-FY2018.
+	Some war fighting and support costs are not included in the OCO request. The President’s FY2017 budget request included $1,553.6 billion for contingency operations funded in the base budget. These activities are not designated as emergency or OCO/GWOT and are subject to the BCA limits.
+
+
+
+The Cost of the U.S. War Effort as Reported by DoD for Total Overseas Contingency Operations (OCO) in FY2001-FY2018
+
+
+The charts and tables in this section focus on total DoD spending by year, and OCO expenditure by war.
+
+
+	They reflect the acute pressure that the rising cost of the Iraq War put on funding for the Afghan conflict during FY2005 through FY2008;
+	They also show that reduction in troop levels did not bring proportionate cuts in total war costs.
+	They also reflect the fact that fact that the DoD began to avoid the budget caps established by the Budget Control Act from FY2014 onwards by including them in the Afghan War OCO account. DoD did so although they were Baseline efforts and should not technically have been counted as war costs because Congress gave it the option of making such a request. State/USAID did not have this option.
+	Several charts summarize GAO criticism of the way DoD included given costs in the OCO account, and indicate that DoD may correct its reporting in the future.
+	Other charts summarize work by Todd Harrison of CSIS showing the extent to which non-OCO expenditures became included in the OCO budget accounts.
+	The final charts summarize the FY2018 budget submission data for the OCO accounts in the detail provided by the DoD budget summary. They show the cost by war, by service, and by broad cost category for the entire OCO account. Only limited break outs of these key data are provided by war.
+
+
+
+The Cost in U.S. Casualties: FY2001-2018
+
+
+The human cost of war is perhaps the most critical single metric of warfighting. One key element of any effective effort to cost a war should be to assess its casualties.
+
+
+	Current official U.S. data only include U.S. military and DoD civilians, and the DoD website does not provide a trend analysis.
+	The contribution and sacrifices made by host country and allied forces is not recognized.
+	Threat casualties are not reported.
+	Civilian casualties are not assessed in spite of the fact that this has become a critical political and operational issue, and subject of both debate and threat propaganda.
+
+
+Failing to address casualties does not defuse the issues they raise or the reality that they too are a cost of war.
+
+
+Shifting Levels of Military Personnel and Contractors in the Wars in Afghanistan, Iraq, and Syria: FY2001-2018
+
+
+Total personnel are another key measure of the cost of war, particularly when high-cost all-volunteer forces are involved, and casualties are a key political consideration. The charts and tables in this section raise several key points about the need for better reporting on manpower:
+
+
+	Active duty strength has gotten far more expensive relative to DoD civilian full time employees and U.S. and foreign contractors. This inevitably has reduced the number of military in the force mix and made reporting military, civilian, and contract personnel a critical aspect of reporting on force costs and trends. Reporting that only covers military personnel is outdated and grossly incompetent.
+	This is especially true when the U.S. deploys large ground combat units, where civilians and contractors have become critical parts of the "tooth to tail" ratio.
+	The cost of all-volunteer forces limits the total force pool. The war in Iraq, for example, put serious pressure on U.S. capability to properly deploy the numbers and skills needed in Afghanistan, as well as helped force use of the Reserves and National Guard. This, in turn, creates a strong incentive to try to create effective local forces as soon as possible.
+	Cost and force size pressures also tend to create pressure to rely on sudden and temporary "surges," which may or may not be effective, and the use of short rotations and temporary duty personnel—affecting levels of experience and capability.
+	These pressures—plus political sensitivity over U.S casualties—helped create plans and/or the willingness to withdraw quickly from Iraq and Afghanistan. These were not linked to progress in stability operations and creating effective host country forces. The end result in both countries was a resurgence in threat capabilities that forced the U.S. to redeploy—greatly increasing the marginal cost of the war. It also led to political reluctance to deploy the needed numbers of personnel except on a "creeping incremental" basis and after serious problems emerged in host country capabilities—extending the length as well as the cost of the war.
+	Throughout both conflicts, reporting has focused on total personnel rather than on the function and capability of the personnel engaged. Military history is often the history of force quality defeating force quantity, and strategies and dollar spending need to be validated by explaining the role and function of deployed personnel.
+	The budget data created a functionally meaningless pool of theater support personnel with little or no explanation, no allocation by war, and that make up 65% of all military personnel assigned to both Afghanistan and Syria/Iraq.
+	Data on cost per solider warn that efforts to minimize personnel may have sharply raised cost per soldier deployed, creating major diseconomies of scale.
+	The final tables reflect the acute dependence on contractors, and show that the ratio of this dependence has increased over time. Once again, a valid approach to resourcing and costing the war must look beyond the number of military personnel and justify the total number of personnel.
+
+
+
+Funding Civil and Civil-Military Operations
+
+
+The State Department and USAID provide virtually no meaningful explanation of their strategy for either war, do not explain the challenges they face in meaningful terms, and do not link their budget justification to any clear explanation of a civil-military program.
+
+The DoD semi-annual report now focuses almost exclusively on military activity, and there is no State/USAID counterpart. The United States however, is fighting what are civil-military wars where the "hold," "stability," and "recovery and development" effort is critical to winning popular support.
+
+The data for FY2018 show that the civil effort is being slashed without any explanation or justification of the cuts—particularly in key areas like economic growth—where poverty is now steadily increasing and both sets of populations face major humanitarian crises—and in governance, where all of the host country governments are ranked as some of the most corrupt and incapable governments in the world and a lack of popular support is a key issue.
+
+Here, simply seeing OCO spending data is essentially useless. Reporting adds up to half a budget at best.
+
+
+The War in Afghanistan: “Decisive Force?”
+
+
+This section supplements the OCO cost data with some brief metrics on the overall size of the U.S. effort in Afghanistan.
+
+It also presents some key metrics developed by SIGAR on the annual and cumulative costs of U.S. aid efforts in Afghanistan. They make a striking contrast to the total OCO costs.
+
+
+	The total cost of all U.S. aid to Afghanistan through FY2016 is $115.3 billion, which is 16 percent of the total OCO cost of $728.9 billion from FY2001 to FY2016.
+	The annual cost of all U.S. aid in FY2016 is $5.79 billion, which is 13 percent of the OCO cost of $46.2 billion for that year.
+
+
+Key metrics are provided for the U.S. use of airpower, showing a major rise in support of Afghan forces in CY2017. These types of metrics provide a tangible picture of what U.S. OCO spending actually buys.
+
+Key metrics are also provided on the funding profiles of key types of aid.
+They all reflect a common pattern of erratic funding and slow reaction to the return of the Taliban. Such profiles are a key warning of basic problems in planning, programming, and budgeting.
+
+Metrics showing allied funding and aid activity help put the U.S. spending effort in the proper perspective.
+
+Once again, the data on contractors provide a key picture of the actual size of the U.S. effort in country.
+
+
+The War in Syria and Iraq: “Decisive Force?”
+
+
+This section supplements the OCO cost data with some brief metrics on the overall size of the U.S. effort in Syria.
+
+The termination of SIGIR after U.S. combat forces initially left Iraq in 2011 has meant that there is now no official regular public reporting on this war.
+
+The Department of Defense has, however, provided a supplement to the FY2018 budget request that does provide many useful insights, and the only integrated discussion of civil-military issues in the FY2018 budget submission.
+
+
+	The $1.5 billion cost of the entire Iraq-Syria train and assist mission is 13 percent of the total OCO budget of $11.9 billion for Operation Inherent Resolve (OIR).
+	The functional break out of the cost by theater—Iraq and Syria—helps provide a clear picture of mission focus and allocation of resources.
+	The discussion of how activities link to a strategy is the one example of such a public budget justification in more than 15 years of official reporting on the wars.
+
+
+The Department of Defense also provides a range of other metrics on U.S. activities, and a costing of air support activity, although these are not linked to the budget.
+
+
+Homeland Defense: The Other War Costs
+
+
+Homeland defense has become more expensive than any ongoing U.S. war or active combat effort.
+
+Official data only exist on federal homeland defense efforts, not state and local ones.
+
+OMB does not report total costs of homeland defense for all departments in the FY2018 budget request for unexplained reasons.
+
+
+	OMB tables for FY2017 show total cost of homeland defense for all Departments and agencies was $71.8 billion in FY2015, $72.9 billion with supplemental, $71.7 billion in FY2016, and $70.5 billion in FY2017.
+	Total was $43.5 billion in FY2015, $44.4 billion with supplemental, $45.2 billion in FY2016, and $50.4 billion in FY2017 less DoD.
+
+
+The cost for DHS alone was:
+
+
+	$65.7 billion in FY2016 total budget authority and $41.2 billion in adjusted budget authority.
+	$66.0 billion in FY2017 total budget authority and $41.3 billion in adjusted budget authority.
+	$70.7 billion in FY2018 total budget authority and $44.1 billion in adjusted budget authority.
+
+
+Any full costing of America's wars needs to include these costs.
+      
+        U.S. Military Spending: The Cost of Wars
+By Anthony CordesmanJuly 10, 2017One of the striking aspects of American military power is how little serious attention is spent on examining the key elements of its total cost by war and mission, and the linkage between the use of resources and the presence of an effective strategy. For the last several decades, there has been little real effort to examine the costs of key missions and strategic commitments and the longer term trends in force planning and cost. Both the Executive Branch and the Congress have failed to reform any key aspect of the defense and foreign policy budgets to look beyond input budgeting by line item and by military service, and doing so on an annual basis.
+
+The program budgeting and integrated force planning efforts pioneered towards the end of the Eisenhower Administration—and put into practice in the Kennedy and Johnson Administrations—have decayed into hollow shells. The effort to create meaningful Future Year Defense Programs seem to have been given a final death blow by the Budget Control Act (BCA)—legislation originally designed to be so stupid that the Congress could not possibly accept it. Efforts to integrate net assessment with budget submissions were effectively killed by the Joint Staff decades earlier, during the Reagan Administration.
+
+Critical Failures by Both the Executive Branch and Congress
+
+What is even more striking, is the failure of both recent presidents and the Congress to properly analyze and justify the cost of America's wars. If one counts the Cold War, the United States has been at war for virtually every year since 1941. The United States has been actively in combat since late 2001, and there is little prospect that it can end the need to use force to check terrorism and violent extremism within the next decade. Moreover, the Cold War may be over, but the United States still faces strategic challenges from Russia and the emergence of China as a major global power in what is already a multipolar world.
+
+"War" may not be the normal state of U.S. national security planning indefinitely into the future, but war—and/or the constant risk of war—is a grim reality of our time. Yet, the Administration and the Congress have tended to treat warfighting as a temporary aberration—as something to be delt with by supplementals or creating short-term budget categories like the Overseas Contingency Operations (OCO) account that seem to reflect the cost of wars, but have become something of a slush fund and a mechanism for selectively avoiding the caps on defense spending set by the BCA.
+
+Reporting by the Executive Branch seems almost designed to obscure the real costs of conflict, and avoid linking them to an examination of strategy, its effectiveness, and the prospects for conflict termination. Reporting on the civil dimensions of war is often lacking, and the civil and military budgets of war are developed and implemented separately by the departments and then reviewed (if at all) by separate Armed Services and Foreign Affairs Committees in each house and by separate elements in the appropriations committees.
+
+Lip service references to a "whole of government approach" thinly disguise a real-world separation of what should be a fully integrated civil-military approach, and what is really a "hole in government" approach where the State Department and USAID often seem at least partially decoupled from the realities of warfighting and the Department of Defense focuses on tactical success rather than the political, economic, or broader strategic goals in warfare.
+
+The Congress has done no better. Ironically, members of Congress are fond of criticizing the Administration for lacking a strategy. The Congress, however, can be criticized for failing to insist on adequate reporting of wartime budgets and examining their costs in detail. Aside from independent efforts by the Congressional Research Service (CRS), neither the Executive Branch nor the Congress have ever issued an official report on the costs of American's ongoing wars, examined the trends in these costs, or insisted on meaningful reporting on their effectiveness.
+
+The Congressional Research Service (CRS), and the General Accountability Office (GAO), have provided several reports that do provide important insights into the cost of America's wars and the problems in the ways in which they are reported.
+
+
+	As is discussed in several parts of this report, work by Amy Belasco of the CRS has provided two reports that attempted to cost America's wars. The latter report—  The Cost of Iraq, Afghanistan, and Other Global War on Terror Operations Since 9/11, CRS RL33110, December 8, 2014—covered the period for FY2001-FY2015, and is as close as the U.S. has come to an official estimate of the cost of its wars.
+	Another report by Lynn M. Williams and Susan B. Epstein— Overseas Contingency Operations Funding: Background and Status, CRS R44519, February 7, 2017—provides an in depth examination of the OCO budget requests—and their total cost—through FY2017, but does not examine the reporting by war, strategy, or effectiveness of U.S. civil and military efforts.
+	The GAO has examined the way in which the Department of Defense includes and does not include the cost of war in the OCO account—  GAO, OVERSEAS CONTINGENCY OPERATIONS: OMB and DOD Should Revise the Criteria for Determining Eligible Costs and Identify the Costs Likely to Endure Long Term  , GSO-17-68, January 2017. This report flagged the need for significant reform in DoD reporting, but largely in a narrow accounting sense and in an effort to ensure that major expenditures which belong in the Baseline budget are not included in the OCO account.
+
+
+The closest the Congress has come to establishing a credible system of formal review is to create limited public reporting requirements on the Iraq and Afghan wars for the DoD, and the requirement for Iraq lapsed at the end of combat activity in 2011. These reports never address the costs of war, or planning, programming, and budgeting.
+
+The Congress has also created a Special Inspector General for Iraq (SIGIR) and then a Special Inspector General for Afghanistan (SIGAR). These efforts have accomplished a great deal in terms of improving the aspects of America's war efforts relating to aid to the Iraqi and Afghan governments and forces. However, SIGIR stopped its operations in 2011. The Special Inspector Generals also have not been tasked with addressing the overall cost of each conflict, the overall effectiveness of U.S. civil and military efforts, or the nature and success of U.S. plans and strategies.
+
+The Need for Far Better Accountability in Planning, Programming, and Budgeting U.S. Wars
+
+This report addresses a number of the issues that result from the failure to deal with the cost of America's wars by providing an overview of the historical trends involved, the broader climate of U.S. defense spending, and the data that have been reported on each war as part of the Overseas budget for the Contingency Operations (OCO) account. It examines the limits in these data, the risks they impose, and possible ways of correcting current problems.
+
+This version has been revised to correct some of the terminology used and to make it clear that there is no way to fully reflect the proposed FY2018 costs of OCO activity because the President has not yet determined the FY2018 level of effort in Afghanistan, and the current OCO budget data for FY2018 are the cost of extending the FY2017 program.
+
+It also has been revised to show the FY2018 costs of the U.S. train and assist missions in Afghanistan, Iraq, and Syria in depth.
+
+The report is now divided into 12 sections, each of which illustrates the need for better planning, programming, and budgeting; as well as the need for far more transparency and better official reporting.
+
+
+Summary of Direct Costs of the Afghan War, Iraq War, and Total OCO in Budget Authority vs. Other Illustrative Estimates
+
+
+The charts and tables in this section summarize the actual and projected cost of U.S. wars as reported for the OCO account—drawing heavily largely on earlier work by the Congressional Research Service.
+
+
+	The Department of Defense's OCO costs of the Afghan conflict since FY2001 will rise to $840.7 billion—if the President's FY2018 budget request is met. They will be $770.5 billion for Iraq.
+	The total costs for all OCO spending between FY2001 and FY2018 will be in excess of $1,909 billion. Given the costs omitted from the OCO budget, the real total cost will almost certainly be well over $2 trillion, even using OCO data as the only costs of the wars.
+
+
+These latter estimates update a series of earlier CRS analyses, one of which noted that, "Other observers and analysts define war costs more broadly than congressional appropriations and include estimates of the life-time costs of caring for OEF/OIF/OND veterans, imputed interest costs on the deficit, or increases in DOD’s base budget deemed to be a consequence of support for the war…Such costs are difficult to compute, subject to extensive caveats, and often based on methodologies that may not be appropriate…"
+
+Three alternative cost estimates are also summarized in this section.
+
+
+	One by Lina J. Blimes puts the total cost at $4 to $6 trillion by end FY2016.
+	A related estimate by the Watson Institute puts the cost at $4.8 trillion through FY2016.
+	A third estimate, by Neta Crawford, puts costs at more than $4.8 trillion through FY2017, plus more than $7.9 trillion in cumulative interest on past appropriations, or more than $12.7 trillion.
+
+
+It is important to note that separate work by Todd Harrison of CSIS in assessing the overall OCO account— Enduring Dilemma of Overseas Contingency Operations Funding, Transition45 Series, January 11, 2017—states that both Congress and the Obama administration moved items from the base budget to the OCO budget as a way of circumventing the BCA budget caps. Roughly half of the OCO budget ($30 billion) is now being used for programs and activities that were previously funded in the base budget. These issues are discussed in more detail later in this study.
+
+If these alternative estimates—and many others—are taken into account, it is all too clear that the United States now has no official estimate of the cost of its wars. Further, without such an estimate, there is no credible basis for either Executive Branch or Congressional review of the budgets and plans for such wars, much less of the ability to effectively execute given strategies, and provide credible indicators of the cost effectiveness and progress of key elements of military and civil activity.
+
+
+Cost of Current Wars Compared to Past Wars
+
+
+This section updates part of another CRS study—one by Stephen Dagget—that attempted to cost past American wars from the American Revolution through the Persian Gulf War, and the early phases of the conflicts in Afghanistan and Iraq. It illustrates just how much the cost and duration of war is changing and how critical it is to properly plan, fund, and manage wars on an extended basis.
+
+As Mr. Dagget notes, there are serious uncertainties in the cost estimates of past wars, but it is striking that if the cost to date of the Afghan and Iraq/Syria wars are shown in constant dollars, even the comparatively low end estimate of $2 trillion through FY2018 would makes these wars more expensive than every other period of conflict in American history except the American revolution, the Civil War, and World War II.
+
+
+	The Afghan and Iraq/Syria wars are more than five times more expensive than World War I.
+	They are more than five times more expensive than the Korean War.
+	They are nearly 2.5 times more expensive than the Vietnam War.
+	They are more than 18 times more expensive than the first Gulf War in 1991.
+	Given the estimates that the real costs are already well over $4 trillion, these multipliers would be more than doubled if any of the alternative war costs cited earlier are correct.
+
+
+
+Comparative U.S. vs. Nth Country Military Spending
+
+
+This section compares current total U.S. baseline and war spending with the spending of other states. The size of U.S. military spending is difficult to estimate in comparable terms. Work by Todd Harrison, for example, shows that total U.S. defense-related costs totaled some $905 billion in FY2017:
+
+
+	This was 161% of the $560.7 billion Baseline that include base, defense-related nuclear and other related budget costs.
+	It was 146% of the $619.7 billion total ($560.7 Baseline plus the $58.8 billion in OCO costs).
+	It was 150% of the IISS estimate of $604.5 billion for 2016.
+	OCO costs alone were 10.3% of $560.7 billion and 9.5% of the total of $619.7 billion.
+
+
+At the same time, if one does use the $619.7 billion total for the U.S., it is:
+
+
+	4.3 times the IISS estimate of $145 billion for China, and 2.9 times the SIPIRI estimate of $215 billion.
+	10.5 times the IISS estimate of $58.9 billion for Russia, and 9.0 times the SIPIRI estimate of $69.2 billion.
+	More than 10 times the military expenditures of the three leading NATO European states: France. Germany, and the U.K.
+	These costs do not address the combat and aid contributions of U.S. allies, and 11 of the other top 15 military spenders are allies of, or have close security ties to, the United States.
+
+
+U.S. military spending has risen steadily over time, but without any serious net assessment of the patterns in that growth, the comparative efficiency of U.S. spending on baseline and war activity, and how allied and potential threat states use their budgets and resources.
+
+
+Impact of the Total U.S. Military and Effort in Recent Wars as a Percent of Total Federal Spending and GDP
+
+
+One key aspect of the current cost of U.S. wars is that—despite their high cost—they represent a comparatively low burden on the U.S. economy in terms of GDP, total federal spending, labor, capital, and use of the U.S. industrial base.
+
+The difficulties in defining military expenditures do create differences in estimates of the percent of GDP, but they are comparatively minor. All recent estimates show that the burden the Afghan and Iraq/Syria wars placed on the economy did not equal the burden that the peacetime Reagan build up created, and that the percentage has dropped sharply since most U.S. combat troops left Afghanistan and Iraq.
+
+
+	If one uses CBO estimates, the burden on the economy moved from 5% of GDP in the 1980s to a low of 2.8% in FY1998.
+	The Baseline level has average 2.8% since then, but the total including OCO rose back to a high of 3.4% in FY2010.
+	Defense OCO was only 0.3% in FY2016.
+	The total defense burden is projected to decline from 2.8% in FY2017 to 2.5% in FY2021 and FY2.3% in 2030.
+	Even if one uses the higher estimate of military spending used by Todd Harrison, the total is now under 6.0%.
+
+
+There are, however, several problems with current projections of FY2018 and beyond. They do not include the build-up the Trump Administration has said will begin in FY2019. Past estimates of spending have been consistently wrong, and the inputs have been consistently undercosted.
+
+This illustrates another critical failure in the preparation and review of both Baseline and War budgets. There have been no serious attempts to develop Future Year Defense Program costs in recent years, largely because of the Budget Control Act, and DoD outyear budget forecasts have been political placeholders.
+
+Long term budget projections by the CBO and others invariably assume the end to war with one or two years in the future and no major contingency thereafter. This has been grossly unrealistic since the late 1930s.
+
+It is particularly unrealistic because this assumption is critical to estimating steady reduction in military spending, sizing the impact of rising entitlement and mandatory budget costs, and the size of the deficit.
+
+
+Size and Cost of the U.S. Military and Civil Effort (DoD and State/USAID) Overseas Contingency Operations in FY2001-FY2018
+
+
+Total estimates of the cost through FY2018 have been made earlier. The status of the FY2018 OCO requests for DoD and State are now highly uncertain and these charts focus on FY2001-FY2017.
+
+Accordingly, the charts in this section summarize CRS reporting on total DoD/State/USAID OCO costs to date. They illustrate two reporting problems:
+
+
+	There is no break out in the budget request by war of State/USAID and VA spending for FY2016-FY2018.
+	Some war fighting and support costs are not included in the OCO request. The President’s FY2017 budget request included $1,553.6 billion for contingency operations funded in the base budget. These activities are not designated as emergency or OCO/GWOT and are subject to the BCA limits.
+
+
+
+The Cost of the U.S. War Effort as Reported by DoD for Total Overseas Contingency Operations (OCO) in FY2001-FY2018
+
+
+The charts and tables in this section focus on total DoD spending by year, and OCO expenditure by war.
+
+
+	They reflect the acute pressure that the rising cost of the Iraq War put on funding for the Afghan conflict during FY2005 through FY2008;
+	They also show that reduction in troop levels did not bring proportionate cuts in total war costs.
+	They also reflect the fact that fact that the DoD began to avoid the budget caps established by the Budget Control Act from FY2014 onwards by including them in the Afghan War OCO account. DoD did so although they were Baseline efforts and should not technically have been counted as war costs because Congress gave it the option of making such a request. State/USAID did not have this option.
+	Several charts summarize GAO criticism of the way DoD included given costs in the OCO account, and indicate that DoD may correct its reporting in the future.
+	Other charts summarize work by Todd Harrison of CSIS showing the extent to which non-OCO expenditures became included in the OCO budget accounts.
+	The final charts summarize the FY2018 budget submission data for the OCO accounts in the detail provided by the DoD budget summary. They show the cost by war, by service, and by broad cost category for the entire OCO account. Only limited break outs of these key data are provided by war.
+
+
+
+The Cost in U.S. Casualties: FY2001-2018
+
+
+The human cost of war is perhaps the most critical single metric of warfighting. One key element of any effective effort to cost a war should be to assess its casualties.
+
+
+	Current official U.S. data only include U.S. military and DoD civilians, and the DoD website does not provide a trend analysis.
+	The contribution and sacrifices made by host country and allied forces is not recognized.
+	Threat casualties are not reported.
+	Civilian casualties are not assessed in spite of the fact that this has become a critical political and operational issue, and subject of both debate and threat propaganda.
+
+
+Failing to address casualties does not defuse the issues they raise or the reality that they too are a cost of war.
+
+
+Shifting Levels of Military Personnel and Contractors in the Wars in Afghanistan, Iraq, and Syria: FY2001-2018
+
+
+Total personnel are another key measure of the cost of war, particularly when high-cost all-volunteer forces are involved, and casualties are a key political consideration. The charts and tables in this section raise several key points about the need for better reporting on manpower:
+
+
+	Active duty strength has gotten far more expensive relative to DoD civilian full time employees and U.S. and foreign contractors. This inevitably has reduced the number of military in the force mix and made reporting military, civilian, and contract personnel a critical aspect of reporting on force costs and trends. Reporting that only covers military personnel is outdated and grossly incompetent.
+	This is especially true when the U.S. deploys large ground combat units, where civilians and contractors have become critical parts of the "tooth to tail" ratio.
+	The cost of all-volunteer forces limits the total force pool. The war in Iraq, for example, put serious pressure on U.S. capability to properly deploy the numbers and skills needed in Afghanistan, as well as helped force use of the Reserves and National Guard. This, in turn, creates a strong incentive to try to create effective local forces as soon as possible.
+	Cost and force size pressures also tend to create pressure to rely on sudden and temporary "surges," which may or may not be effective, and the use of short rotations and temporary duty personnel—affecting levels of experience and capability.
+	These pressures—plus political sensitivity over U.S casualties—helped create plans and/or the willingness to withdraw quickly from Iraq and Afghanistan. These were not linked to progress in stability operations and creating effective host country forces. The end result in both countries was a resurgence in threat capabilities that forced the U.S. to redeploy—greatly increasing the marginal cost of the war. It also led to political reluctance to deploy the needed numbers of personnel except on a "creeping incremental" basis and after serious problems emerged in host country capabilities—extending the length as well as the cost of the war.
+	Throughout both conflicts, reporting has focused on total personnel rather than on the function and capability of the personnel engaged. Military history is often the history of force quality defeating force quantity, and strategies and dollar spending need to be validated by explaining the role and function of deployed personnel.
+	The budget data created a functionally meaningless pool of theater support personnel with little or no explanation, no allocation by war, and that make up 65% of all military personnel assigned to both Afghanistan and Syria/Iraq.
+	Data on cost per solider warn that efforts to minimize personnel may have sharply raised cost per soldier deployed, creating major diseconomies of scale.
+	The final tables reflect the acute dependence on contractors, and show that the ratio of this dependence has increased over time. Once again, a valid approach to resourcing and costing the war must look beyond the number of military personnel and justify the total number of personnel.
+
+
+
+Funding Civil and Civil-Military Operations
+
+
+The State Department and USAID provide virtually no meaningful explanation of their strategy for either war, do not explain the challenges they face in meaningful terms, and do not link their budget justification to any clear explanation of a civil-military program.
+
+The DoD semi-annual report now focuses almost exclusively on military activity, and there is no State/USAID counterpart. The United States however, is fighting what are civil-military wars where the "hold," "stability," and "recovery and development" effort is critical to winning popular support.
+
+The data for FY2018 show that the civil effort is being slashed without any explanation or justification of the cuts—particularly in key areas like economic growth—where poverty is now steadily increasing and both sets of populations face major humanitarian crises—and in governance, where all of the host country governments are ranked as some of the most corrupt and incapable governments in the world and a lack of popular support is a key issue.
+
+Here, simply seeing OCO spending data is essentially useless. Reporting adds up to half a budget at best.
+
+
+The War in Afghanistan: “Decisive Force?”
+
+
+This section supplements the OCO cost data with some brief metrics on the overall size of the U.S. effort in Afghanistan.
+
+It also presents some key metrics developed by SIGAR on the annual and cumulative costs of U.S. aid efforts in Afghanistan. They make a striking contrast to the total OCO costs.
+
+
+	The total cost of all U.S. aid to Afghanistan through FY2016 is $115.3 billion, which is 16 percent of the total OCO cost of $728.9 billion from FY2001 to FY2016.
+	The annual cost of all U.S. aid in FY2016 is $5.79 billion, which is 13 percent of the OCO cost of $46.2 billion for that year.
+
+
+Key metrics are provided for the U.S. use of airpower, showing a major rise in support of Afghan forces in CY2017. These types of metrics provide a tangible picture of what U.S. OCO spending actually buys.
+
+Key metrics are also provided on the funding profiles of key types of aid.
+They all reflect a common pattern of erratic funding and slow reaction to the return of the Taliban. Such profiles are a key warning of basic problems in planning, programming, and budgeting.
+
+Metrics showing allied funding and aid activity help put the U.S. spending effort in the proper perspective.
+
+Once again, the data on contractors provide a key picture of the actual size of the U.S. effort in country.
+
+
+The War in Syria and Iraq: “Decisive Force?”
+
+
+This section supplements the OCO cost data with some brief metrics on the overall size of the U.S. effort in Syria.
+
+The termination of SIGIR after U.S. combat forces initially left Iraq in 2011 has meant that there is now no official regular public reporting on this war.
+
+The Department of Defense has, however, provided a supplement to the FY2018 budget request that does provide many useful insights, and the only integrated discussion of civil-military issues in the FY2018 budget submission.
+
+
+	The $1.5 billion cost of the entire Iraq-Syria train and assist mission is 13 percent of the total OCO budget of $11.9 billion for Operation Inherent Resolve (OIR).
+	The functional break out of the cost by theater—Iraq and Syria—helps provide a clear picture of mission focus and allocation of resources.
+	The discussion of how activities link to a strategy is the one example of such a public budget justification in more than 15 years of official reporting on the wars.
+
+
+The Department of Defense also provides a range of other metrics on U.S. activities, and a costing of air support activity, although these are not linked to the budget.
+
+
+Homeland Defense: The Other War Costs
+
+
+Homeland defense has become more expensive than any ongoing U.S. war or active combat effort.
+
+Official data only exist on federal homeland defense efforts, not state and local ones.
+
+OMB does not report total costs of homeland defense for all departments in the FY2018 budget request for unexplained reasons.
+
+
+	OMB tables for FY2017 show total cost of homeland defense for all Departments and agencies was $71.8 billion in FY2015, $72.9 billion with supplemental, $71.7 billion in FY2016, and $70.5 billion in FY2017.
+	Total was $43.5 billion in FY2015, $44.4 billion with supplemental, $45.2 billion in FY2016, and $50.4 billion in FY2017 less DoD.
+
+
+The cost for DHS alone was:
+
+
+	$65.7 billion in FY2016 total budget authority and $41.2 billion in adjusted budget authority.
+	$66.0 billion in FY2017 total budget authority and $41.3 billion in adjusted budget authority.
+	$70.7 billion in FY2018 total budget authority and $44.1 billion in adjusted budget authority.
+
+
+Any full costing of America's wars needs to include these costs.
+      
