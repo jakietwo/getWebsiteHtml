@@ -8,7 +8,7 @@ var superagent = require('superagent')
 var charset = require('superagent-charset')
 charset(superagent)
 var baseurl = 'https://www.csis.org'
-var firstUrl = 'https://www.csis.org/search?search_api_views_fulltext=china&sort_by=search_api_relevance'
+var firstUrl = 'https://www.csis.org/search?search_api_views_fulltext=Russia&sort_by=search_api_relevance'
 const cheerio = require('cheerio')
 const fs = require('fs')
 var indexRouter = require('./routes/index');
@@ -32,7 +32,7 @@ app.use('/users', usersRouter);
 app.use('/demo', demoRouter)
 app.get('/index', function (req, res) {
   // 设置请求头
-  for (let page = 50; page < 70; page++) {
+  for (let page = 0; page < 50; page++) {
 
     res.header("Access-Control-Allow-Origin", "*");
     res.header('Access-Control-Allow-Methods', 'PUT, GET, POST, DELETE, OPTIONS');
@@ -44,7 +44,9 @@ app.get('/index', function (req, res) {
         console.log('抓取网站信息错误')
       } else {
         $ = cheerio.load(res.text)
-        let urlArr = $('.view--search-results ').find('.teaser')
+        // layout-detail-page__main
+        let urlArr = $('.view--search-results').find('.teaser')
+
         // .find('.teaser__title ').children('a').attr('href')
         // $(urlArr[2]).find('.teaser__title ').children('a').attr('href')
         for (let i = 0, j = urlArr.length; i < j; i++) {
@@ -53,6 +55,7 @@ app.get('/index', function (req, res) {
           let newurl = baseurl + '' + url
           // 对每一个文章页面链接进行访问 保存文章数据
           console.log(newurl + ' ')
+      
           superagent.get(newurl).end((err1, res1) => {
 
             if (err1) {
@@ -60,15 +63,17 @@ app.get('/index', function (req, res) {
             } else {
               $$ = cheerio.load(res1.text)
               // todo 解析完数据 处理数据  $$('article') 或者 $$('.layout-focus-page__main')
-              let articleWrapper =  $$('.layout-focus-page__main')
+              let articleWrapper =  $$('article')
               if (articleWrapper) {
                 // console.log('第一个article', articleWrapper)
                 let text = $$($$(articleWrapper)[0]).text()
                 // let txtName = $$(articleWrapper).first()
                 // reaveseChild(articleWrapper)
-                text = text.substring(text.indexOf('You are hereHome')+16, text.length)
+          
+                // text = text.substring(text.indexOf('You are hereHome')+16, text.length)
+          
                 if (text.indexOf('T')> -1) {
-                  fs.writeFile(`./焦点/${page}${i}.txt`, text, { 'flag': 'a' }, function (err) {
+                  fs.writeFile(`./文章1/${page}${i}.txt`, text, { 'flag': 'a' }, function (err) {
                     if (err) {
                       console.log('写入错误')
                     }
